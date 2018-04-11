@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+	<mdRecord 
+                xmlns='http://dplava.lib.virginia.edu'
+                xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+                xmlns:dc='http://purl.org/dc/elements/1.1/'
+                xmlns:dcterms='http://purl.org/dc/terms/'
+                xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+                xmlns:edm='http://www.europeana.eu/schemas/edm/'
+                xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          > 
+			 <dcterms:identifier>holt_00115</dcterms:identifier> 
+			 <dcterms:identifier>873</dcterms:identifier> 
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
+			 <dcterms:title>For U.S. Senator Hon. Rush D. Holt, An Ardent New Dealer</dcterms:title> 
+			 <dcterms:created>1930/1940</dcterms:created> 
+			 <dcterms:creator>Dugan, Irvin</dcterms:creator> 
+			 <dcterms:description>("Put men back to work and the business of the nation will increase.")(Down with utility rates) (Utility rates)(Nominated for the United States Senate at the age of 29, the eyes of the nation are upon him.  Henry Clay is one of the few other men to go to the Senate under the 30-year limit.  Absolutely fearless, plain spoken, and a miracle of energy, Rush D. Holt's meteoric rise within the last five years is without a parallel in the state or nation.)("President Roosevelt has done more for the common people in 19 months than any other group of presidents did in as many years", he says.  Recently visited at the White House at the invitation of the President.)(100% for Roosevelt)("Principles of christianity should guide all government activities," he advocates the abolishment of poor farms by old age pensions.)(He's been endorsed by state old age pension league of 27,000 members.)(Returned to legislature in 1932 without opposition in home county of Lewis, Republican by 600 majority.)(American Federation of Labor, West Virginia Federation of Labor and United Mine Workers of America endorse Rush D. Holt.)(For U.S. Senator Hon. Rush D. Holt an ardent new dealer)(He entered the West Virginia University wearing short trousers at the age of 14.)(He has traveled more than 20,000 miles in epochal campaign tour.)(He has--taught college classes, coached athletic teams, served as a newspaper man.)(He fought for classification amendment to save farms and homes from confiscation by excessive taxation.)  </dcterms:description> 
+			 <dcterms:subject>1930-1940</dcterms:subject> 
+			 <dcterms:subject>American</dcterms:subject> 
+			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
+			 <dcterms:subject>Holt, Rush Dew, 1905-1955</dcterms:subject> 
+			 <dcterms:subject>Politics and government</dcterms:subject> 
+			 <dcterms:subject>West Virginia</dcterms:subject> 
+			 <dcterms:extent>18 in. x 16 in.</dcterms:extent> 
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
+			 <dcterms:type>Image</dcterms:type> 
+			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00115</edm:isShownAt>
+			<edm:preview>http://holt.lib.wvu.edu/image/holt_00115.jpg</edm:preview>
+	 </mdRecord> 
+</xml> 

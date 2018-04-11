@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+	<mdRecord 
+                xmlns='http://dplava.lib.virginia.edu'
+                xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+                xmlns:dc='http://purl.org/dc/elements/1.1/'
+                xmlns:dcterms='http://purl.org/dc/terms/'
+                xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+                xmlns:edm='http://www.europeana.eu/schemas/edm/'
+                xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          > 
+			 <dcterms:identifier>holt_00101</dcterms:identifier> 
+			 <dcterms:identifier>873</dcterms:identifier> 
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
+			 <dcterms:title>We Don't Raise Eggs No More! Roads to Market Too Rough.</dcterms:title> 
+			 <dcterms:created>1952</dcterms:created> 
+			 <dcterms:creator>Leasure, Al</dcterms:creator> 
+			 <dcterms:description>"Wow!  The conservation dept. alone spent nearly $892,000 bucks on cars and supplies in the past 4 years!""Us old folks didn't have much show under this administration either son!""I'll leave a few of these Rush Holt for Governor posters with this fellow.  He's probably as sick of our road situation as everybody else!"(We don't raise eggs no more!  Roads to market too rough!)(Fishing Camp No. 1 private road)(Camp No. 2) (No. 3)</dcterms:description> 
+			 <dcterms:subject>1950-1960</dcterms:subject> 
+			 <dcterms:subject>American</dcterms:subject> 
+			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
+			 <dcterms:subject>Holt, Rush Dew, 1905-1955</dcterms:subject> 
+			 <dcterms:subject>Politics and government</dcterms:subject> 
+			 <dcterms:subject>West Virginia</dcterms:subject> 
+			 <dcterms:extent>06 in. x 22 in.</dcterms:extent> 
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
+			 <dcterms:type>Image</dcterms:type> 
+			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00101</edm:isShownAt>
+			<edm:preview>http://holt.lib.wvu.edu/image/holt_00101.jpg</edm:preview>
+	 </mdRecord> 
+</xml> 
