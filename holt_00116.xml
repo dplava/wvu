@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns='http://dplava.lib.virginia.edu'
+                xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+                xmlns:dc='http://purl.org/dc/elements/1.1/'
+                xmlns:dcterms='http://purl.org/dc/terms/'
+                xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+                xmlns:edm='http://www.europeana.eu/schemas/edm/'
+                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd"> 
+			 <dcterms:identifier>holt_00116</dcterms:identifier> 
+			 <dcterms:identifier>873</dcterms:identifier> 
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
+			 <dcterms:title>Here Lie's the Feud of Rush & Matt</dcterms:title> 
+			 <dcterms:created>1930/1940</dcterms:created> 
+			 <dcterms:creator>Greaves</dcterms:creator> 
+			 <dcterms:description>(Sen. Matt Neely)(Sen. Rush Holt)(Here lies the feud of Rush & Matt sooner or later he'll rise and come back.) (Born 1933. Died 1940.)</dcterms:description> 
+			 <dcterms:subject>1930-1940</dcterms:subject> 
+			 <dcterms:subject>American</dcterms:subject> 
+			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
+			 <dcterms:extent>18 in. x 16 in.</dcterms:extent> 
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
+			 <dcterms:type>Image</dcterms:type> 
+			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00116</edm:isShownAt>
+			<edm:preview>http://holt.lib.wvu.edu/image/holt_00116.jpg</edm:preview>
+	 </mdRecord> 
+</xml> 
