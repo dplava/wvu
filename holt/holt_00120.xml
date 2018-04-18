@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
-    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns='http://dplava.lib.virginia.edu'
                 xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
                 xmlns:dc='http://purl.org/dc/elements/1.1/'
