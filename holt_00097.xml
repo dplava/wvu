@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns='http://dplava.lib.virginia.edu'
+                xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+                xmlns:dc='http://purl.org/dc/elements/1.1/'
+                xmlns:dcterms='http://purl.org/dc/terms/'
+                xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+                xmlns:edm='http://www.europeana.eu/schemas/edm/'
+                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd"> 
+			 <dcterms:identifier>holt_00097</dcterms:identifier> 
+			 <dcterms:identifier>873</dcterms:identifier> 
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
+			 <dcterms:title>Just What We Want</dcterms:title> 
+			 <dcterms:created>1952</dcterms:created> 
+			 <dcterms:creator>Leasure, Al</dcterms:creator> 
+			 <dcterms:description>"Just what we want!"(A decent road program!)(An old age assistance program that really works!)(Conservation money to be spent for everyone!) (Open to public)(State supplies) (Insurance)(Facts) (Rush D. Holt)(Representation for all people of our state!)(This program to be made effective immediately)(Decent care for those confined to mental hospitals!)(State purchases to be made evenly!  Not just to a favored few!) </dcterms:description> 
+			 <dcterms:subject>1950-1960</dcterms:subject> 
+			 <dcterms:subject>American</dcterms:subject> 
+			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
+			 <dcterms:subject>Holt, Rush Dew, 1905-1955</dcterms:subject> 
+			 <dcterms:subject>Politics and government</dcterms:subject> 
+			 <dcterms:subject>West Virginia</dcterms:subject> 
+			 <dcterms:extent>06 in. x 22 in.</dcterms:extent> 
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
+			 <dcterms:type>Image</dcterms:type> 
+			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00097</edm:isShownAt>
+			<edm:preview>http://holt.lib.wvu.edu/image/holt_00097.jpg</edm:preview>
+	 </mdRecord> 
+</xml> 

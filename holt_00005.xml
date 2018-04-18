@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns='http://dplava.lib.virginia.edu'
+                xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+                xmlns:dc='http://purl.org/dc/elements/1.1/'
+                xmlns:dcterms='http://purl.org/dc/terms/'
+                xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+                xmlns:edm='http://www.europeana.eu/schemas/edm/'
+                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd"> 
+			 <dcterms:identifier>holt_00005</dcterms:identifier> 
+			 <dcterms:identifier>873</dcterms:identifier> 
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
+			 <dcterms:title>Raise High Our Leader’s Third Term</dcterms:title> 
+			 <dcterms:created>1939/12/31</dcterms:created> 
+			 <dcterms:creator>Levinson, Charles</dcterms:creator> 
+			 <dcterms:description>(Highlights of headline news.  News in the name with a slogan for fame.)("Roosevelt for President, and for Vice-President Mr. Ickes, and no party can lick us.")(Yes [No] third term.)(Roosevelt must or Democratic Party bust.)("Our young dignified U.S. Senator makes a dignified political poster.")(Raise High Our Leader's Third Term. [RHOLT acronym])(Charles Levinson, 2450 Broadway N.Y.C., NY Dec. 31, 1939.)</dcterms:description> 
+			 <dcterms:description>In 1940, Roosevelt was nominated for a third presidential term with Henry A. Wallace as the vice-presidential running-mate.  Harold Ickes remained Secretary of the Interior.</dcterms:description> 
+			 <dcterms:subject>1930-1940</dcterms:subject> 
+			 <dcterms:subject>American</dcterms:subject> 
+			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
+			 <dcterms:subject>Holt, Rush Dew, 1905-1955</dcterms:subject> 
+			 <dcterms:subject>Roosevelt, Franklin D (Franklin Delano), 1882-1945</dcterms:subject> 
+			 <dcterms:extent>07 in. x 06 in.</dcterms:extent> 
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
+			 <dcterms:type>Image</dcterms:type> 
+			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00005</edm:isShownAt>
+			<edm:preview>http://holt.lib.wvu.edu/image/holt_00005.jpg</edm:preview>
+	 </mdRecord> 
+</xml> 
