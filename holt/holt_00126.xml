@@ -5,22 +5,21 @@
                 xmlns:dcterms='http://purl.org/dc/terms/'
                 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
                 xmlns:edm='http://www.europeana.eu/schemas/edm/'
-                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd"> 
-			 <dcterms:identifier>holt_00126</dcterms:identifier> 
-			 <dcterms:identifier>873</dcterms:identifier> 
-			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
-			 <dcterms:title>Census Snooping</dcterms:title> 
-			 <dcterms:created>1940/03/02</dcterms:created> 
-			 <dcterms:creator>Seibel, Fred O.</dcterms:creator> 
-			 <dcterms:description>(Census Snooping)"Uncle Sam wants to know whether you have a bathtub in your home."(U.S. Census 1940)(John Q. Citizen)(Privacy of the American home)(To Senator Rush D. Holt with my compliments, Fred O. Seibel)(Richmond Times-Dispatch -- March 2, 1940)</dcterms:description> 
-			 <dcterms:subject>1930-1940</dcterms:subject> 
-			 <dcterms:subject>American</dcterms:subject> 
-			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
-			 <dcterms:extent>20 in. x 14 in.</dcterms:extent> 
-			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
-			 <dcterms:type>Image</dcterms:type> 
+                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+			 <dcterms:identifier>holt_00126</dcterms:identifier>
+			 <dcterms:identifier>873</dcterms:identifier>
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf>
+			 <dcterms:title>Census Snooping</dcterms:title>
+			 <dcterms:created>1940-03-02</dcterms:created> 
+			 <dcterms:creator>Seibel, Fred O.</dcterms:creator>
+			 <dcterms:description>(Census Snooping)"Uncle Sam wants to know whether you have a bathtub in your home."(U.S. Census 1940)(John Q. Citizen)(Privacy of the American home)(To Senator Rush D. Holt with my compliments, Fred O. Seibel)(Richmond Times-Dispatch -- March 2, 1940)</dcterms:description>
+			 <dcterms:subject>1930-1940</dcterms:subject>
+			 <dcterms:subject>American</dcterms:subject>
+			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject>
+			 <dcterms:extent>20 in. x 14 in.</dcterms:extent>
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+			 <dcterms:type>Image</dcterms:type>
 			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
 			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00126</edm:isShownAt>
 			<edm:preview>http://holt.lib.wvu.edu/image/holt_00126.jpg</edm:preview>
-	 </mdRecord> 
- 
+	 </mdRecord>

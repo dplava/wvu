@@ -5,22 +5,20 @@
                 xmlns:dcterms='http://purl.org/dc/terms/'
                 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
                 xmlns:edm='http://www.europeana.eu/schemas/edm/'
-                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd"> 
-			 <dcterms:identifier>holt_00021</dcterms:identifier> 
-			 <dcterms:identifier>873</dcterms:identifier> 
-			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
-			 <dcterms:title>The Only Platform He Seems to Need Nowadays</dcterms:title> 
-			 <dcterms:created>1938</dcterms:created> 
-			 <dcterms:creator>Carmack, Paul</dcterms:creator> 
-			 <dcterms:description>(The only platform he seems to need nowadays.)(candidate)(U.S. Treasury) </dcterms:description> 
-			 <dcterms:subject>1930-1940</dcterms:subject> 
-			 <dcterms:subject>American</dcterms:subject> 
+                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+			 <dcterms:identifier>holt_00021</dcterms:identifier>
+			 <dcterms:identifier>873</dcterms:identifier>
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf>
+			 <dcterms:title>The Only Platform He Seems to Need Nowadays</dcterms:title>
+			 <dcterms:created>1938</dcterms:created>
+			 <dcterms:creator>Carmack, Paul</dcterms:creator>
+			 <dcterms:description>(The only platform he seems to need nowadays.)(candidate)(U.S. Treasury) </dcterms:description>
+			 <dcterms:subject>1930-1940</dcterms:subject>
+			 <dcterms:subject>American</dcterms:subject>
 			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
-			 <dcterms:extent></dcterms:extent> 
-			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
-			 <dcterms:type>Image</dcterms:type> 
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+			 <dcterms:type>Image</dcterms:type>
 			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
 			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00021</edm:isShownAt>
 			<edm:preview>http://holt.lib.wvu.edu/image/holt_00021.jpg</edm:preview>
-	 </mdRecord> 
- 
+	 </mdRecord>
