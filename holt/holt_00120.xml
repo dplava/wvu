@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<mdRecord xmlns='http://dplava.lib.virginia.edu'
+	<mdRecord 
+                xmlns='http://dplava.lib.virginia.edu'
                 xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
                 xmlns:dc='http://purl.org/dc/elements/1.1/'
                 xmlns:dcterms='http://purl.org/dc/terms/'
                 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
                 xmlns:edm='http://www.europeana.eu/schemas/edm/'
-                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd"> 
-			 <dcterms:identifier>holt_00120</dcterms:identifier> 
-			 <dcterms:identifier>873</dcterms:identifier> 
-			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
-			 <dcterms:title>I'm Tired of the Whole Subject</dcterms:title> 
-			 <dcterms:created>1930/1940</dcterms:created> 
-			 <dcterms:creator>Elderman, Henry Eugene “Gene”</dcterms:creator> 
-			 <dcterms:description>(3rd term question)(F.D.R.)(U.S.)(I'm Tired of the Whole Subject.)(To Senator Rush D. Holt with all good wishes, Gene Elderman)</dcterms:description> 
-			 <dcterms:subject>1930-1940</dcterms:subject> 
-			 <dcterms:subject>American</dcterms:subject> 
-			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
-			 <dcterms:extent>23 in. x 19 in.</dcterms:extent> 
-			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
-			 <dcterms:type>Image</dcterms:type> 
+                xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+			 <dcterms:identifier>holt_00120</dcterms:identifier>
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf>
+			 <dcterms:title>I'm Tired of the Whole Subject</dcterms:title>
+			 <dcterms:created>1930/1940</dcterms:created>
+			 <dcterms:creator>Elderman, Henry Eugene “Gene”</dcterms:creator>
+			 <dcterms:description>(3rd term question)(F.D.R.)(U.S.)(I'm Tired of the Whole Subject.)(To Senator Rush D. Holt with all good wishes, Gene Elderman)</dcterms:description>
+			 <dcterms:subject>1930-1940</dcterms:subject>
+			 <dcterms:subject>American</dcterms:subject>
+			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject>
+			 <dcterms:extent>23 in. x 19 in.</dcterms:extent>
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+			 <dcterms:type>Image</dcterms:type>
 			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
 			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00120</edm:isShownAt>
 			<edm:preview>http://holt.lib.wvu.edu/image/holt_00120.jpg</edm:preview>
-	 </mdRecord> 
- 
+	 </mdRecord>

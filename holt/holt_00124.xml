@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<mdRecord xmlns='http://dplava.lib.virginia.edu'
+	<mdRecord 
+                xmlns='http://dplava.lib.virginia.edu'
                 xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
                 xmlns:dc='http://purl.org/dc/elements/1.1/'
                 xmlns:dcterms='http://purl.org/dc/terms/'
                 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
                 xmlns:edm='http://www.europeana.eu/schemas/edm/'
-                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+                xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
 			 <dcterms:identifier>holt_00124</dcterms:identifier>
-			 <dcterms:identifier>873</dcterms:identifier>
 			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf>
 			 <dcterms:title>Is She a Relic of Horse and Buggy Days?</dcterms:title>
-			 <dcterms:created>1940-07-09</dcterms:created> 
+			 <dcterms:created>1940-07-09</dcterms:created>
 			 <dcterms:creator>Seibel, Fred O.</dcterms:creator>
 			 <dcterms:description>(Is she a relic of horse and buggy days?)(Washington's two term precedent)(Jefferson's third term opposition)(Grant's third term ambition)(Theodore Roosevelt's third term candidacy)(Woodrow Wilson's third term desire)("I do not choose to run" Cal Coolidge)(Anti 3rd term tradition)(Political recipes)(Dunce cap)(Roosevelt's third term question)(To Senator Rush D. Holt with my compliments, Fred O. Seibel)(Richmond Times-Dispatch -- July 9, 1940) </dcterms:description>
 			 <dcterms:subject>1930-1940</dcterms:subject>

@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<mdRecord xmlns='http://dplava.lib.virginia.edu'
+	<mdRecord 
+                xmlns='http://dplava.lib.virginia.edu'
                 xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
                 xmlns:dc='http://purl.org/dc/elements/1.1/'
                 xmlns:dcterms='http://purl.org/dc/terms/'
                 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
                 xmlns:edm='http://www.europeana.eu/schemas/edm/'
-                xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd"> 
-			 <dcterms:identifier>holt_00091</dcterms:identifier> 
-			 <dcterms:identifier>873</dcterms:identifier> 
-			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf> 
-			 <dcterms:title>That Outfit Never Could Score</dcterms:title> 
-			 <dcterms:created>1952</dcterms:created> 
-			 <dcterms:creator>Leasure, Al</dcterms:creator> 
-			 <dcterms:description>"Look! Even their mascot is disgusted!""He should be!""I hope someone has insurance on this outfit!""I'm just the quarterback!  I'm not supposed to carry the ball!"(Responsible state gov't!)"I'm not ready!""And I never did know the signals!""Coach if we want a winner put Rush Holt in there!  He knows how to carry the ball!""That outfit never could score!"(Matt) (Homer) (Bill) (Pat) (Fumble A.C.)(Voter) </dcterms:description> 
-			 <dcterms:description>The cartoon features various influential members of the Democratic party.</dcterms:description> 
-			 <dcterms:subject>1950-1960</dcterms:subject> 
-			 <dcterms:subject>American</dcterms:subject> 
-			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject> 
-			 <dcterms:subject>Holt, Rush Dew, 1905-1955</dcterms:subject> 
-			 <dcterms:subject>Politics and government</dcterms:subject> 
-			 <dcterms:subject>West Virginia</dcterms:subject> 
-			 <dcterms:extent>06 in. x 22 in.</dcterms:extent> 
-			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights> 
-			 <dcterms:type>Image</dcterms:type> 
+                xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+			 <dcterms:identifier>holt_00091</dcterms:identifier>
+			 <dcterms:isPartOf>Holt, Rush Dew (1905-1955). Papers</dcterms:isPartOf>
+			 <dcterms:title>That Outfit Never Could Score</dcterms:title>
+			 <dcterms:created>2018-05-25</dcterms:created>
+			 <dcterms:creator>Leasure, Al</dcterms:creator>
+			 <dcterms:description>"Look! Even their mascot is disgusted!""He should be!""I hope someone has insurance on this outfit!""I'm just the quarterback!  I'm not supposed to carry the ball!"(Responsible state gov't!)"I'm not ready!""And I never did know the signals!""Coach if we want a winner put Rush Holt in there!  He knows how to carry the ball!""That outfit never could score!"(Matt) (Homer) (Bill) (Pat) (Fumble A.C.)(Voter) </dcterms:description>
+			 <dcterms:description>The cartoon features various influential members of the Democratic party.</dcterms:description>
+			 <dcterms:subject>1950-1960</dcterms:subject>
+			 <dcterms:subject>American</dcterms:subject>
+			 <dcterms:subject>Cartoons (Commentary)</dcterms:subject>
+			 <dcterms:subject>Holt, Rush Dew, 1905-1955</dcterms:subject>
+			 <dcterms:subject>Politics and government</dcterms:subject>
+			 <dcterms:subject>West Virginia</dcterms:subject>
+			 <dcterms:extent>06 in. x 22 in.</dcterms:extent>
+			 <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+			 <dcterms:type>Image</dcterms:type>
 			<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
 			<edm:isShownAt>http://holt.lib.wvu.edu/record/holt_00091</edm:isShownAt>
 			<edm:preview>http://holt.lib.wvu.edu/image/holt_00091.jpg</edm:preview>
-	 </mdRecord> 
- 
+	 </mdRecord>
