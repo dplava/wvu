@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am4118_2014-11-21_pnn_0023</dcterms:identifier>
+	<dcterms:isPartOf>Congressman Nick Joe Rahall II Collection</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Rahall standing in his Washington office with a woman wearing a black outfit</dcterms:title>
+	<dcterms:created>2014-11-21</dcterms:created>
+	<dcterms:creator>U.S. House Office of Photography</dcterms:creator>
+	<dcterms:description>Congressman Rahall stands in his Washington office with a woman wearing a black outfit.</dcterms:description>
+	<dcterms:subject>Rahall, Nick J, 1949</dcterms:subject>
+	<dcterms:subject>digital images</dcterms:subject>
+	<dcterms:publisher>West Virginia & Regional History Center</dcterms:publisher>
+	<dcterms:type>Still Image</dcterms:type>
+	<dcterms:format>Image/jpeg</dcterms:format>
+	<dcterms:source>A&M 4118, Congressman Nick Joe Rahall II papers, West Virginia & Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:coverage>Washington</dcterms:coverage>
+	<dcterms:rights>http://rightsstatements.org/page/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://rahall.lib.wvu.edu/record/am4118_2014-11-21_pnn_0023</edm:isShownAt>
+	<edm:preview>http://rahall.lib.wvu.edu/view/am4118_2014-11-21_pnn_0023.jpg</edm:preview>
+</mdRecord>

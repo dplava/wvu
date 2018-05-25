@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am4118_2014-07-16_ec_0152</dcterms:identifier>
+	<dcterms:isPartOf>Congressman Nick Joe Rahall II Collection</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Rahall on the steps of the Capitol Building with a large group of people behind a banner labeled "CYPRUS 1974-2014: Still occupied; still divided.  STOP this injustice NOW"</dcterms:title>
+	<dcterms:created>2014-07-16</dcterms:created>
+	<dcterms:creator>U.S. House Office of Photography</dcterms:creator>
+	<dcterms:description>Congressman Rahall stands on the steps of the Capitol Building with a large group of people behind a banner labeled "CYPRUS 1974-2014: Still occupied; still divided.  STOP this injustice NOW".</dcterms:description>
+	<dcterms:subject>Bustos, Cheri</dcterms:subject>
+	<dcterms:subject>Cicilline, David</dcterms:subject>
+	<dcterms:subject>Clay, William L, Jr</dcterms:subject>
+	<dcterms:subject>Crowley, Joseph</dcterms:subject>
+	<dcterms:subject>Cyprus Federation of America</dcterms:subject>
+	<dcterms:subject>Engel, Eliot L</dcterms:subject>
+	<dcterms:subject>Keating, Bill</dcterms:subject>
+	<dcterms:subject>Lee, Barbara, 1946</dcterms:subject>
+	<dcterms:subject>Lowey, Nita</dcterms:subject>
+	<dcterms:subject>Meng, Grace</dcterms:subject>
+	<dcterms:subject>Pallone, Frank, 1951</dcterms:subject>
+	<dcterms:subject>Payne, Donald Jr</dcterms:subject>
+	<dcterms:subject>Pelosi, Nancy, 1940</dcterms:subject>
+	<dcterms:subject>Rahall, Nick J, 1949</dcterms:subject>
+	<dcterms:subject>Rangel, Charles B</dcterms:subject>
+	<dcterms:subject>RosLehtinen, Ileana</dcterms:subject>
+	<dcterms:subject>Royce, Ed, 1951</dcterms:subject>
+	<dcterms:subject>Sarbanes, John</dcterms:subject>
+	<dcterms:subject>Schneider, Brad</dcterms:subject>
+	<dcterms:subject>Schultz, Debbie Wasserman</dcterms:subject>
+	<dcterms:subject>Sires, Albio</dcterms:subject>
+	<dcterms:subject>Titus, A Costandina, 1950</dcterms:subject>
+	<dcterms:subject>Tsongas, Niki</dcterms:subject>
+	<dcterms:subject>Van Hollen, Chris, 1959</dcterms:subject>
+	<dcterms:subject>digital images</dcterms:subject>
+	<dcterms:publisher>West Virginia & Regional History Center</dcterms:publisher>
+	<dcterms:type>Still Image</dcterms:type>
+	<dcterms:format>Image/jpeg</dcterms:format>
+	<dcterms:source>A&M 4118, Congressman Nick Joe Rahall II papers, West Virginia & Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:coverage>Washington</dcterms:coverage>
+	<dcterms:rights>http://rightsstatements.org/page/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://rahall.lib.wvu.edu/record/am4118_2014-07-16_ec_0152</edm:isShownAt>
+	<edm:preview>http://rahall.lib.wvu.edu/view/am4118_2014-07-16_ec_0152.jpg</edm:preview>
+</mdRecord>
