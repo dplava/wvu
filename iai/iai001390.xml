@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001390</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Inscription for Spiritualist; 01 of 01</dcterms:title>
+	<dcterms:created>1923-08-06</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 1-134--Clippings ScrapbookPage 20; "Declaration of Faith. Tombstone Inscription for Spiritualist."; As stated in the will of Mr. Harry Augustus Kersey, he desired a Spiritualist tombstone inscription, service, and location of burial. He had an appreciation for Spiritualists.; Daily Dispatch; DF 654</dcterms:description>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001390</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001390.jpg</edm:preview>
+</mdRecord>

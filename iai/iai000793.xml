@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai000793</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>&amp;quot;The Cause of Variation&amp;quot; and etc; 06 of 07</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 33-74, cloth sleeve"The Truth About Darwinism"; Reoccurring section of a periodical for BENA (British Empire Naturalist Association), where an ongoing discussion of multiple aspects of Darwinism is addressed by experts who write-in, along with editor comments. Select pages pulled for Faulds's notes. Included articles in this batch: "The Cause of Variation" by E. K. R. (ed.), "Is Natural Selection Omnipotent?" by Gabriel F. Roper, "Relations Between Plants and Insects" which, under the same title, has multiple commentaries by Gabriel F. Roper, H. Jeffreys, Margaret Taylor and J. Lloyd Jones, "Re Colours, Markings Perfumes, etc., of Flowers" which, under the same title, has multiple commentaries by A. E. Hodge, Geo. Hy. Short, H. Richardson, and H. Holmes, and "Darwin, Darwinists, and Chance" by M. D. Haviland.; E. Kay Robinson (E. K. R.), ed., London, p. 213-219, Country-Side; 7 pages; DF n.a.</dcterms:description>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai000793</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai000793.jpg</edm:preview>
+</mdRecord>

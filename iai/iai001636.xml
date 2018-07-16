@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001636</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Natives notebook; 15 of 24</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--PhotographsItems 27-29A 7x9 sized notebook, from Dr. Faulds, filled with various sized pictures of aborigines of multiple countries/islands and of primates as well as (fragile) clippings, handwritten notes, etc. Many photos copyrighted by Kerry &amp; Co. Photo, Sydney. Loose materials, as some glued pictures are falling out--14 individual photos within pages.; 25+ pages; DF 632</dcterms:description>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001636</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001636.jpg</edm:preview>
+</mdRecord>

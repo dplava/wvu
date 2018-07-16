@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai000972</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Patterns in Animals and Puzzle Pictures; 02 of 02</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 75-84, paper sleeve 1"Patterns in Animals and Puzzle Pictures"; The paper sleeve in which the materials of folder 9-4 were found, with handwritten title on the outside. Also has another printed phrase "Specimens from" with a seal.; 1 leaf; DF n.a.</dcterms:description>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai000972</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai000972.jpg</edm:preview>
+</mdRecord>

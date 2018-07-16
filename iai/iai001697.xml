@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001697</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Faulds, Tokio; 02 of 02</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--PhotographsItems 37-42Photo of Dr. Henry Faulds on a 3x4 cardboard plaque, which has Japanese writing on the back, as well as English: "S. Suzuki photographer, Kudanzaka Tokio and Honchodori, Yokohama, Japan" and "Dr. Faulds" handwritten. Found together with photograph items 074-037 through 074-042.; 1 item; DF 773</dcterms:description>
+	<dcterms:subject>Faulds, Henry, 18431930</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001697</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001697.jpg</edm:preview>
+</mdRecord>

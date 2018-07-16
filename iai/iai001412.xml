@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001412</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>&amp;quot;Dr. Henry Faulds&amp;quot;, obit c.2; 01 of 01</dcterms:title>
+	<dcterms:created>1930-03-20</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 1-134--Clippings ScrapbookPage 28; "Dr. Henry Faulds"; Henry Faulds's obituary. Mentions work as a doctor, work with fingerprints, and his IAI membership. See also 010-041.; The Times; DF 654</dcterms:description>
+	<dcterms:subject>Faulds, Henry, 18431930</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001412</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001412.jpg</edm:preview>
+</mdRecord>

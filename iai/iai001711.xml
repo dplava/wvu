@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001711</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Fiorenza Chart, Robinson; 01 of 01</dcterms:title>
+	<dcterms:created>1969-10-06</dcterms:created>
+	<dcterms:description>4. Forensic Identification Reference Material (FIRM)Items 4-26, Fingerprinting--Fiorenza (Multiple articles, notes, news clippings found together in labeled binder.)A photographed chart, "Latent fingerprint impression" of James Tyrone Robinson developed on a rear view mirror by Tom Fiorenza, Newark, NJ. 2 copies with different lighting.; 2 items.</dcterms:description>
+	<dcterms:subject>Fingerprints</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001711</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001711.jpg</edm:preview>
+</mdRecord>

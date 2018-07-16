@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001254</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>&amp;quot;Dactylography&amp;quot;, clipping; 02 of 03</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 113-275, Scrapbook of Faulds Fingerprint Notes (includes publication and manuscript items.)Page 74-75; "Dactylography"; Clipping, apparently written by Faulds, regarding his first letter to Nature magazine, fingerprints and patterns, Galton, and a discussion of Faulds's own methods of possible classification. Handwritten notes to omit a section, additions, etc. On page 75, clippings are on both front and back.; 3 leaves; DF 871</dcterms:description>
+	<dcterms:subject>Faulds, Henry, 18431930</dcterms:subject>
+	<dcterms:subject>Fingerprints</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001254</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001254.jpg</edm:preview>
+</mdRecord>

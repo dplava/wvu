@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001365</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Thumb Prints With Signature; 01 of 02</dcterms:title>
+	<dcterms:created>1923-05-19</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 1-134--Clippings ScrapbookPage 11; "Thumb Prints With Signature May Avert Check Forgery"; Discusses how Mrs. Myrtle Bowman Hayes forged Charles M. Schwab's name on a $25,000 note. It also discusses the highly organized crooks in New York, women who were easily tricked by swindlers and blackmailers, and suggests use of thumbprints with signatures.; by June Haddaway, The Ithaca Journal-News; DF 654</dcterms:description>
+	<dcterms:subject>Criminal Behavior</dcterms:subject>
+	<dcterms:subject>Fingerprints</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001365</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001365.jpg</edm:preview>
+</mdRecord>

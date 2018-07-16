@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001427</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Finger Tip Photos; 01 of 01</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 1-134--Clippings ScrapbookPage 34 (front of added page); "Criminals Nailed. Finger Tip Photos as a Means of Identification. From Our Own Correspondent."; Dr. Declere has a new technique for identification, which uses X-rays and chemicals to make images of finger bones and nails. The technique might be used for victims who drown.; no pub info; DF 654</dcterms:description>
+	<dcterms:subject>Dead</dcterms:subject>
+	<dcterms:subject>Forensic sciences</dcterms:subject>
+	<dcterms:subject>Identification</dcterms:subject>
+	<dcterms:subject>Methods</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001427</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001427.jpg</edm:preview>
+</mdRecord>

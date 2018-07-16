@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001328</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>&amp;quot;...Facts of Year's Police Work&amp;quot;; 01 of 01</dcterms:title>
+	<dcterms:created>1905-09-21</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 1-134--Clippings ScrapbookPage 2; "Finger Prints: Interesting Facts of Year's Police Work"; Discusses the high value of criminals' fingerprints in London, and compares conviction results to those of anthropometrical methods.; B. G. or Birmingham Gazette and Express; DF 654</dcterms:description>
+	<dcterms:subject>Anthropometry</dcterms:subject>
+	<dcterms:subject>Fingerprints</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001328</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001328.jpg</edm:preview>
+</mdRecord>

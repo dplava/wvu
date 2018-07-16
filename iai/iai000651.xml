@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai000651</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Wentworth, Bert to Henry Faulds regarding fingerprints, etc.;  02 of 02</dcterms:title>
+	<dcterms:created>1921-08-29</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--LettersItems 41-117--Scrapbook 2Wentworth, Bert to Henry Faulds regarding the West brothers fingerprint case, Wentworth's health, and IAI business. Letterhead of International Society for Personal Identification listing board of directors and officers, the latter of which states Wentworth as First Vice-President.; 1 leaf; DF 870</dcterms:description>
+	<dcterms:subject>Fingerprints</dcterms:subject>
+	<dcterms:subject>International Association for Identification</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai000651</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai000651.jpg</edm:preview>
+</mdRecord>

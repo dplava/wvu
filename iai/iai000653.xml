@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai000653</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Renoe, A. J. to Henry Faulds regarding IAI and materials; 02 of 02</dcterms:title>
+	<dcterms:created>1921-10-08</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--LettersItems 41-117--Scrapbook 2Renoe, A. J. to Henry Faulds regarding an honorary IAI membership for Faulds, the publication of Renoe's own book on fingerprinting and asks for any information of interest, a request for a signed photograph of Faulds, and permissions for quotes to be used from Faulds's work. Letterhead of IAI lists Renoe as President and Secretary-Treasurer.; 2 pages; DF 870</dcterms:description>
+	<dcterms:subject>Faulds, Henry, 18431930</dcterms:subject>
+	<dcterms:subject>International Association for Identification</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai000653</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai000653.jpg</edm:preview>
+</mdRecord>

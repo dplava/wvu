@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001388</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Two Haunted Houses; 01 of 01</dcterms:title>
+	<dcterms:created>1923-08-25</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 1-134--Clippings ScrapbookPage 19; "2 Haunted Houses. Mansion's Legend of Terror."; Discusses a haunted house built in Queen Elizabeth's time, and owned by the Earl of Devon. A nun was believed to be placed alive in a walled coffin. Some state they have heard and seen the ghosts of the nun and the man chasing her.; Daily Dispatch; DF 654</dcterms:description>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001388</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001388.jpg</edm:preview>
+</mdRecord>

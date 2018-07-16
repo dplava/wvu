@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001717</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>&amp;quot;Unusual Pattern&amp;quot;; 02 of 02</dcterms:title>
+	<dcterms:created>1974-04-29</dcterms:created>
+	<dcterms:description>4. Forensic Identification Reference Material (FIRM)Items 63-65, Fingerprinting--"Joe Garcia" Transparencies (Letter-sized transparencies found in a labeled binder. Also contains 3.5 x 4 negatives. Folder 1 of 2.)"Unusual Pattern"; Four photographs collected by Joe Q. Garcia. Two exposures, "inked print. (pattern)". Two exposures, "ridge formation". Each photo has an accompanying transparency. Photo envelope from Phoenix, AZ Police Dept. enclosed.; 9 items.</dcterms:description>
+	<dcterms:subject>Fingerprints</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001717</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001717.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai000599</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Pope, A. (?) to &amp;quot;Dear Sir&amp;quot; (Faulds) regarding dialect; 02 of 02</dcterms:title>
+	<dcterms:created>1895-09-30</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--LettersItems 41-117--Scrapbook 2Pope, A. (?) to "Dear Sir" (assume Henry Faulds) regarding the "Staffordshire Dialect Glossary" and if he would like to meet over the topic. Enclosed: newspaper clipping, "Dialect Question", source unclear: "S. S. 14/8/20" and "Hanover St. Newcastle" written at top.; 1 leaf; DF 870</dcterms:description>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai000599</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai000599.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai001449</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>Police education classes; 01 of 01</dcterms:title>
+	<dcterms:created>1921-09-28</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 1-134--Clippings ScrapbookPage 36 (front of added page); "Newcastle Police Educational Classes. Presentation to Chief Constable."; A set of "Police Education" courses instructed by William Forster, Chief Constable of the Newcastle borough, began in May 1920 and has continued since. Recently, the current class members presented Forster with books containing inscriptions.; S. S.; DF 654</dcterms:description>
+	<dcterms:subject>Criminology</dcterms:subject>
+	<dcterms:subject>Police</dcterms:subject>
+	<dcterms:subject>Study and teaching</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai001449</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai001449.jpg</edm:preview>
+</mdRecord>

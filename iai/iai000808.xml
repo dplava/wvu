@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>iai000808</dcterms:identifier>
+	<dcterms:isPartOf>International Association for Identification. Records</dcterms:isPartOf>
+	<dcterms:title>&amp;quot;Degeneracy in Man&amp;quot; and etc; 01 of 07</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:description>3. Doepner/Faulds--NotesItems 33-74, cloth sleeve"The Truth About Darwinism"; Reoccurring section of a periodical for BENA (British Empire Naturalist Association), where an ongoing discussion of multiple aspects of Darwinism is addressed by experts who write-in, along with editor comments. Select pages pulled for Faulds's notes. Included articles in this batch: "The Bee Orchis" by H. B., "What is 'Advancement'?" by E. K. R., "Flower Coloration" by H. S. C., "Degeneracy in Man" by Charles Platt, "The Problem of Existence" by T. M. S. English, "Flowers and Animals" by F. S. Salisbury, "What is 'Improvement'?" by H. R. Meredith, "Protection from Browsing Animals" by John S. Pithlaado, "Protective Colouring" by T. M. S. English, "'What is Meant by Improvement?'" by H. Meredith, "'The Survival of the Fittest'" by J. T. Henderson, "The Bee or Not the Bee?" by Albert Wallis, and "'The Scientist Farce'" by H. Richardson.; E. Kay Robinson (E. K. R.), ed., London, p. 441-447, Country-Side; 7 pages; DF n.a.</dcterms:description>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://iai.lib.wvu.edu/record/iai000808</edm:isShownAt>
+	<edm:preview>https://iai.lib.wvu.edu/thumb/iai000808.jpg</edm:preview>
+</mdRecord>
