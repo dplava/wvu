@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>evans_00006</dcterms:identifier>
+	<dcterms:isPartOf>Evans, George Bird. Papers</dcterms:isPartOf>
+	<dcterms:title>Fishing Notes</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:creator>Evans, George Bird</dcterms:creator>
+	<dcterms:description>In this journal, George finds Braddock too low to fish, but fishes in Jonathan Run, which was low as well. He fishes with Kay for chubs and trout. He writes of going hunting with Father, his neighbors, nearby land owners, and friends. He hunts accompanied by his dogs Boy and Nat, who sadly later die in December. He remembers the one year anniversary of Speck's death on November 9th. He mentions buying hemlock and cutting it down. Hunting Notes begin on page 26.</dcterms:description>
+	<dcterms:subject>Anecdotes</dcterms:subject>
+	<dcterms:subject>Dogs</dcterms:subject>
+	<dcterms:subject>Evans, George Bird</dcterms:subject>
+	<dcterms:subject>Fishing</dcterms:subject>
+	<dcterms:subject>Hunters</dcterms:subject>
+	<dcterms:subject>Hunting</dcterms:subject>
+	<dcterms:subject>Hunting dogs </dcterms:subject>
+	<dcterms:subject>Preston County</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://gbe.lib.wvu.edu/record/evans_00006</edm:isShownAt>
+	<edm:preview>http://gbe.lib.wvu.edu/imageviewer/evans_00006/image</edm:preview>
+</mdRecord>

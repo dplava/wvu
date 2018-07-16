@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>evans_00044</dcterms:identifier>
+	<dcterms:isPartOf>Evans, George Bird. Papers</dcterms:isPartOf>
+	<dcterms:title>Shooting Notes</dcterms:title>
+	<dcterms:created>1974-07-16</dcterms:created>
+	<dcterms:creator>Evans, George Bird</dcterms:creator>
+	<dcterms:description>George notes that it is Briar's 6th hunting season. At the start of the season, unfortunately, Kay has an injured kneecap and is unable to walk. Accompanied by Briar, he hunts for woodcock and grouse in and around Mason Run, Brown Hill, Gates, Glade Run, Beaver Creek, Rehoboth Thorns, the Henkel Place, Tub Run Swamp, and Braddock Run. He begins writing "The Trouble with Bird Dogs." Each entry includes information about the weather and time, as well as statistics on flushes and shots. He includes a few tables with hunt statistics for each location.</dcterms:description>
+	<dcterms:subject>Dogs</dcterms:subject>
+	<dcterms:subject>Evans, George Bird</dcterms:subject>
+	<dcterms:subject>Hunters</dcterms:subject>
+	<dcterms:subject>Hunting</dcterms:subject>
+	<dcterms:subject>Hunting dogs </dcterms:subject>
+	<dcterms:subject>Preston County</dcterms:subject>
+	<dcterms:subject>Shooting</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://gbe.lib.wvu.edu/record/evans_00044</edm:isShownAt>
+	<edm:preview>http://gbe.lib.wvu.edu/imageviewer/evans_00044/image</edm:preview>
+</mdRecord>

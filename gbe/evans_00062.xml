@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>evans_00062</dcterms:identifier>
+	<dcterms:isPartOf>Evans, George Bird. Papers</dcterms:isPartOf>
+	<dcterms:title>Shooting Notes</dcterms:title>
+	<dcterms:created>1992-07-16</dcterms:created>
+	<dcterms:creator>Evans, George Bird</dcterms:creator>
+	<dcterms:description>In this journal, George hunts with both Quest and Manton together. He finds chukkars in some covers, and remarks on the vibrant tree color and warmth of the Indian Summer. This season, he celebrates his and Kay's 62nd anniversary, and although he laments the lack of grouse game in West Virginia, he has found joy in hunting with Manton. He visits locations including the Playfort Maust place, Black Bear Thorns, Canaan Valley, the Brenda Miller house, Black Bear resort, Cortland Road, Dolly Sods, Fishers Spring, Somersville Road, Grassy Ridge, the Frazee place, the Wolf place, Deer Lake, Spruce Spring, the Paul Liston Mine, the Bishoff place, Big Sandy Ridge, and Kelly Gallows Road. George visits friends Ben and Dorothy Thompson and Mike Bitely. He finds that Manton has a bad habit of wandering off and hunting by himself, while Quest has a scare falling down a ridge steep enough to have killed him, which thankfully does not happen. At this point with the lack of game birds, hunting for George has become primarily recalling and exercise. He keeps a table of hunt statistics, noting that he has only moved 5 grouse this season in West Virginia. </dcterms:description>
+	<dcterms:subject>Dogs</dcterms:subject>
+	<dcterms:subject>Evans, George Bird</dcterms:subject>
+	<dcterms:subject>Hunters</dcterms:subject>
+	<dcterms:subject>Hunting</dcterms:subject>
+	<dcterms:subject>Hunting dogs </dcterms:subject>
+	<dcterms:subject>Preston County</dcterms:subject>
+	<dcterms:subject>Shooting</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://gbe.lib.wvu.edu/record/evans_00062</edm:isShownAt>
+	<edm:preview>http://gbe.lib.wvu.edu/imageviewer/evans_00062/image</edm:preview>
+</mdRecord>

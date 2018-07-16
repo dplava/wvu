@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>evans_00027</dcterms:identifier>
+	<dcterms:isPartOf>Evans, George Bird. Papers</dcterms:isPartOf>
+	<dcterms:title>Shooting Notes</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:creator>Evans, George Bird</dcterms:creator>
+	<dcterms:description>George begins this journal the day after opening day. He goes hunting along with his dogs Ruff, George, and Gay, and is accompanied by Gay's handler, Carl. Training in the pheasant fields, he includes a data chart of statistics for each dog. He hunts, sometimes accompanied by Kay, in and around Roaring Creek, Upper Beaver, Uniontown, Stony River, Stamping Ground Run, and Scott Run. He looks for grouse in covers of hemlock and rhododendron, and describes leaves and scenes around Old Hemlock. He marks the anniversary of Speck's death. In many entries, he describes the weather and terrain in great detail. </dcterms:description>
+	<dcterms:subject>Dogs</dcterms:subject>
+	<dcterms:subject>Evans, George Bird</dcterms:subject>
+	<dcterms:subject>Hunters</dcterms:subject>
+	<dcterms:subject>Hunting</dcterms:subject>
+	<dcterms:subject>Hunting dogs </dcterms:subject>
+	<dcterms:subject>Preston County</dcterms:subject>
+	<dcterms:subject>Shooting</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://gbe.lib.wvu.edu/record/evans_00027</edm:isShownAt>
+	<edm:preview>http://gbe.lib.wvu.edu/imageviewer/evans_00027/image</edm:preview>
+</mdRecord>

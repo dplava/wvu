@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>evans_00055</dcterms:identifier>
+	<dcterms:isPartOf>Evans, George Bird. Papers</dcterms:isPartOf>
+	<dcterms:title>Shooting Notes</dcterms:title>
+	<dcterms:created>1985-07-16</dcterms:created>
+	<dcterms:creator>Evans, George Bird</dcterms:creator>
+	<dcterms:description>This hunting season finds George at 78 years old, Belton at 9 1/2, and Quest at 17 months. Though he notes that it is the worst season for grouse he has seen in his years of hunting, he still visits locations in and around Rehobeth thorns, the Poplar house, Beavery Creek, Canaan Valley, the Bitely's land, Robert Harvey's land, Donald Moyers' thorns, the Henckels' place, Mrs. Burkes' land, Wilkinson Hollow, the Frankenhauser place, Mason Run, Wilkinson Road, Little Sandy South, Ray Guthrie's land, Charles Kelly's land, the Matthews' place, the Wrights' place, Chestnut Ridge, and Hunting Hills. He visits friends Jeff and Gabriella leach, Mike and Jean Bitely, Allan Van Alter, Robert harvey, Mrs. Burke, Raymond Seese, and Pat Deberry. Unlike many of his other journals, he does not include a chart or table of hunt statistics. </dcterms:description>
+	<dcterms:subject>Dogs</dcterms:subject>
+	<dcterms:subject>Evans, George Bird</dcterms:subject>
+	<dcterms:subject>Hunters</dcterms:subject>
+	<dcterms:subject>Hunting</dcterms:subject>
+	<dcterms:subject>Hunting dogs </dcterms:subject>
+	<dcterms:subject>Preston County</dcterms:subject>
+	<dcterms:subject>Shooting</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://gbe.lib.wvu.edu/record/evans_00055</edm:isShownAt>
+	<edm:preview>http://gbe.lib.wvu.edu/imageviewer/evans_00055/image</edm:preview>
+</mdRecord>

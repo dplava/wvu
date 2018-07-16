@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>evans_00060</dcterms:identifier>
+	<dcterms:isPartOf>Evans, George Bird. Papers</dcterms:isPartOf>
+	<dcterms:title>Shooting Notes</dcterms:title>
+	<dcterms:created>1990-07-16</dcterms:created>
+	<dcterms:creator>Evans, George Bird</dcterms:creator>
+	<dcterms:description>In this journal, George laments that Quest's points are low-tailed, among his other bad habits picked up from being away from game too long. George fondly remembers hunting with Dixie, Shadows, Belton, and Briar in familiar covers. He experiences some difficulty with his stiff right shoulder, and experiences some increased antagonism from the public towards hunters. He meets with friends John Sylvester and Paul Rinker. He drives his Subaru to hunt in locations in and around Black Bear Thorns, Canaan Valley, Camp 70, the "Gates," Lacey Thorns, the Edelman Place, Mount Storm, Cranesville Swamp, Spruce Thorns, Rifle Ridge, Mallows, Reservoir Hill Road, the Poplar House, Harriet Brymer's land, Spruce Gate, King's Bridge, Little Sandy North, Ray Guthrie's land, and the McKay Place. In each entry, he notes the weather and location. He includes tables with data for game, location, and dog. </dcterms:description>
+	<dcterms:subject>Dogs</dcterms:subject>
+	<dcterms:subject>Evans, George Bird</dcterms:subject>
+	<dcterms:subject>Hunters</dcterms:subject>
+	<dcterms:subject>Hunting</dcterms:subject>
+	<dcterms:subject>Hunting dogs </dcterms:subject>
+	<dcterms:subject>Preston County</dcterms:subject>
+	<dcterms:subject>Shooting</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://gbe.lib.wvu.edu/record/evans_00060</edm:isShownAt>
+	<edm:preview>http://gbe.lib.wvu.edu/imageviewer/evans_00060/image</edm:preview>
+</mdRecord>

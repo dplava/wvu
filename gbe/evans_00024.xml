@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>evans_00024</dcterms:identifier>
+	<dcterms:isPartOf>Evans, George Bird. Papers</dcterms:isPartOf>
+	<dcterms:title>Shooting Notes</dcterms:title>
+	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:creator>Evans, George Bird</dcterms:creator>
+	<dcterms:description>George makes note that it is Ruff's 8th season, Wilda's 4th, and Feathers' 3rd. It is George's 28th season with his Fox double gun, and his 30th grouse season. He visits Dolly Sods, the Allegheny Mountains, Canaan Valley, and Terra Alta. Kay accompanies him on some of his hunts, filming and taking photos. He visits a preserve in New Jersey and makes notes of pheasant in the area. Later in the season, when the WV season reopens, he finds a lost kitten. He visits Cucumber Run, Tub Run, White's Creek, Hazel Run, Roaring Gap, Lick Run, and Little Sandy.</dcterms:description>
+	<dcterms:subject>Anecdotes</dcterms:subject>
+	<dcterms:subject>Barbour County</dcterms:subject>
+	<dcterms:subject>Dahlias</dcterms:subject>
+	<dcterms:subject>Dock (Dog)</dcterms:subject>
+	<dcterms:subject>Dogs</dcterms:subject>
+	<dcterms:subject>Evans, George Bird</dcterms:subject>
+	<dcterms:subject>Helvetia</dcterms:subject>
+	<dcterms:subject>Hunters</dcterms:subject>
+	<dcterms:subject>Hunting</dcterms:subject>
+	<dcterms:subject>Hunting dogs </dcterms:subject>
+	<dcterms:subject>Preston County</dcterms:subject>
+	<dcterms:subject>Shooting</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://gbe.lib.wvu.edu/record/evans_00024</edm:isShownAt>
+	<edm:preview>http://gbe.lib.wvu.edu/imageviewer/evans_00024/image</edm:preview>
+</mdRecord>

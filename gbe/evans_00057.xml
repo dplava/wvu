@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>evans_00057</dcterms:identifier>
+	<dcterms:isPartOf>Evans, George Bird. Papers</dcterms:isPartOf>
+	<dcterms:title>Shooting Notes</dcterms:title>
+	<dcterms:created>1987-07-16</dcterms:created>
+	<dcterms:creator>Evans, George Bird</dcterms:creator>
+	<dcterms:description>It is George's 63rd season at 80 years old. His dogs Belton and Quest are 11 1/2 and 3 1/2 years old, respectively. He remarks on the "glorious" Indian summer at the start of the season. Though he speaks disparagingly of the amount of grouse this season, he still visits locations in and around Rehobeth Thorns, Canaan Valley, Timberline, the Black Bear development, Ohiopyle, the Mitchell place, Furnace Road, Fawcett Bottom, Upper Wilkinson, Far Edelman, the Poplar House, the Deer Lake Game Lands, Cemetery Hill, Ray Guthrie's land, Charlie Seese's land, the Chorpenning place, Little Sandy, the Nicholson place, Graveyard Glade, and Chestnut Ridge. He visits with and hunts with friends including Ben Thompson, James Ramsey, Clyde and Cora Davis, Glenn McCarty, and Rob Stout. Later in the season, he fondly remembers his old dogs' Briar and Dixie's birthdays. He includes a table with information and statistics about each hunt location and dog. </dcterms:description>
+	<dcterms:subject>Dogs</dcterms:subject>
+	<dcterms:subject>Evans, George Bird</dcterms:subject>
+	<dcterms:subject>Hunters</dcterms:subject>
+	<dcterms:subject>Hunting</dcterms:subject>
+	<dcterms:subject>Hunting dogs </dcterms:subject>
+	<dcterms:subject>Preston County</dcterms:subject>
+	<dcterms:subject>Shooting</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://gbe.lib.wvu.edu/record/evans_00057</edm:isShownAt>
+	<edm:preview>http://gbe.lib.wvu.edu/imageviewer/evans_00057/image</edm:preview>
+</mdRecord>
