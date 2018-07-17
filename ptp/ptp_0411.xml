@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0411</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-10-18</dcterms:created>
+	<dcterms:creator>Rosecrans, William Starke</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont], Wheeling Oct 18 1861.   By Telegraph from Camp Tompkins 18 1861.   Capt Crispin has been ordered to supply Col Bolles &amp; the two Companies of Col Wilkinson as requested I have dispatched Lieut Conine to you with letters whom I recommended as Col of the ninth Va hope he will be able to proceed at once to Guyandotte &amp; organize [page 2] this regt WS Rosecrans Brig Genl 51D158pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Rosecrans, William Starke</dcterms:subject>
+	<dcterms:subject>Camp Tompkins</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Camp Tompkins</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0411</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0411.jpg</edm:preview>
+</mdRecord>

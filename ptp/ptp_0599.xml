@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0599</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-04-12</dcterms:created>
+	<dcterms:creator>Jarbo, James A.</dcterms:creator>
+	<dcterms:description>Gov Pierpoint [Francis H. Pierpont], Wheeling, Apl 12 1862.   By Telegraph from Piedmont 12 . 1862.    I have seen an order from War Department stopping all recruiting officers does this effect me- I have men here which I want subsistence for.  Please answer.  James A Jarbo 27W108Col</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Jarbo, James A.</dcterms:subject>
+	<dcterms:subject>Piedmont, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis Harrison</dcterms:subject>
+	<dcterms:spatial>Piedmont, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0599</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0599.jpg</edm:preview>
+</mdRecord>

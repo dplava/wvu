@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0802</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-09-19</dcterms:created>
+	<dcterms:creator>Stout, B. B.</dcterms:creator>
+	<dcterms:description>Hon F.H. Peirpoint [Francis H. Pierpont] Gov Va Wheeling May 9 1862.   By Telegraph from Clarksburg 19 1862.   Sir the militia of this county both armed &amp; unarmed have been disbanded except one company is that your orders Capt BB[crossed out]  Capt B.B. Stout  20D65pd</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Stout, B. B.</dcterms:subject>
+	<dcterms:subject>Clarksburg, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Clarksburg, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0802</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0802.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0577</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-02-27</dcterms:created>
+	<dcterms:creator>Doran, Charles R.</dcterms:creator>
+	<dcterms:description>His Excy Gov Peirpoint [Francis H. Pierpont] Wheeling Feby 27 1862.   By Telegraph from Washington 27 1862.   Honored Sir I am awaiting an order from you upon the Secy of war to furnish me with clothing and rations also transportation the war dept will not recognize me without said order from your Excellency  Chas R. Doran Col Comdg 13th Regt Va Vols 378DSt upstairs 36G87pd</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Doran, Charles R.</dcterms:subject>
+	<dcterms:subject>Washington, D.C.</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis Harrison</dcterms:subject>
+	<dcterms:spatial>Washington, D.C.</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0577</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0577.jpg</edm:preview>
+</mdRecord>

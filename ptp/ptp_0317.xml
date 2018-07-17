@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0317</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-09-11</dcterms:created>
+	<dcterms:creator>Reynolds, Joseph J.</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling  Sept 11 1861.   By Telegraph from Cheat Mountain Pass 1861.   Gen Rosecrans is on the Gauley you will much oblige all concerned &amp; facilitate the organization of the artillery regiment by communicating to me your decision in reference to the despatch of Gen Rosecrans asking a colonels commission for C.O. Loomis &amp; a captains commission for Bidwell please answer  J.J. Reynolds Brig Genl 50D155paid</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Reynolds, Joseph J.</dcterms:subject>
+	<dcterms:subject>Cheat Mountain Pass</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Cheat Mountain Pass</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0317</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0317.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0351</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-09-22</dcterms:created>
+	<dcterms:creator>Curtin, Andrew G.</dcterms:creator>
+	<dcterms:description>JS Wheat AAGenl  Wheeling Sept 22 1861.   By Telegraph from Pittsburgh 22 1861.   All the volunteers in our camps are ordered to Washington by the war dept. A.G. Curtin 14G43pd</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Curtin, Andrew G.</dcterms:subject>
+	<dcterms:subject>Pittsburgh, Pennsylvania</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheat, James S.</dcterms:subject>
+	<dcterms:spatial>Pittsburgh, Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0351</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0351.jpg</edm:preview>
+</mdRecord>

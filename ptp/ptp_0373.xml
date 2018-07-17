@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0373</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-10-03</dcterms:created>
+	<dcterms:creator>Rosecrans, William Starke</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling Oct 3 1861.  By Telegraph from Top Big Sewall 3 1861.  I respectfully recommend the appointment of James W Coning to  the Colonelcy of the Seventh 7 Va Regiment whaty[?] he is an instructed soldier and has been serving in the Kanawha brigade as Asst Adjt Genl no young officer enjoys a higher reputation in this brigade as to the appointment of Capt Grinkle to the [page 2] artillery service I can only say he appears to be est'eemed  by acquaintance an instructed soldier but the command of an artillery company requires talents equal to that of a first class field officer your Excellency will confer a favor by causing prompt report to be made to these headquarters of all troops mustered into the service of the US from Va since August fifteenth 15 and ordering that in future every mustering officer shall send the triplicate of his muster rolls promptly to the headquarters of this department you speak of an artillery company at Point Pleasant if it is in [page 3] (2) the service of the U.S. the captain should return his morning report to these headquarters Genl Wheat will confer a favor by giving me a list of Va. commissioned officers with the dates of their commissions as early as possible this is absolutely necessary to enable us to detail them on court martial [page 4] or other duty WS Rosecrans Brig Genl USA 211D638pd</dcterms:description>
+	<dcterms:extent>page 2 of 4; leaf 1 of 2</dcterms:extent>
+	<dcterms:subject>Rosecrans, William Starke</dcterms:subject>
+	<dcterms:subject>Top Big Sewall</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Top Big Sewall</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0373</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0373.jpg</edm:preview>
+</mdRecord>

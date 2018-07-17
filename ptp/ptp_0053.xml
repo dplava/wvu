@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0053</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-07-09</dcterms:created>
+	<dcterms:creator>Hill, Charles W.</dcterms:creator>
+	<dcterms:description>F H Pierpoint [Francis H. Pierpont] Wheeling 9th 1861.   Gov By Telegraph, from Grafton 9th 1861.   I have considered your note of yesterday &amp; discussed the matter with Mr. Humphery shall by glad to do all in my power to advance your objects but at present have no disposable troops am trying to get some relief by placing home guards in care of portions of the road &amp; am expecting troops from Ohio from both sources have to have [page 2] means to accomplish your object as soon as it will be permitted for me to leave.  I desire to call you and Gen Kelley for a brief consultation.  Chas. W. Hill Brig Genl. 93 Gr284pd  Genl. Hill July 9th</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Hill, Charles W.</dcterms:subject>
+	<dcterms:subject>Grafton, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Grafton, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0053</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0053.jpg</edm:preview>
+</mdRecord>

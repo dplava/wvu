@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0294</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-09-08</dcterms:created>
+	<dcterms:creator>Rosecrans, William Starke</dcterms:creator>
+	<dcterms:description>Gov F.H. Peirpoint [Francis H. Pierpont] Wheeling Sept 8 1861.   By Telegraph from Big Birch River 8 1861.   If you have authority to organize an artillery regiment I would like to have Loomis Daums &amp; the rich Mountain &amp; another to be organized the guns now ready into a regiment it will greatly increase the efficiency of this arm of the service - if you have such authority to give a colonels commission to O Loomis &amp; to Maj Bidwell a captaincy of the six 6 brass pieces at Cheat Mountain if you can please do this for Virginia WS Rosecrans Brig Genl USA 77D236paid</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Rosecrans, William Starke</dcterms:subject>
+	<dcterms:subject>Big Birch, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Big Birch, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0294</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0294.jpg</edm:preview>
+</mdRecord>

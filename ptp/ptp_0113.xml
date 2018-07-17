@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0113</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-07-24</dcterms:created>
+	<dcterms:creator>Latham, George R.</dcterms:creator>
+	<dcterms:description>Adj't Genl Samuels Wheeling July 23 186.  By Telegraph from Sparesville 24 186.   Major Owens Second 2nd virg infantry regiment accepted July fifth (5th) please fill the vacancy and notify me immediatly by telegraph fill no other vacancy until I write you Geo. R. Latham Col Cmdg 2nd Va. Vols 27B118pd
+</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Latham, George R.</dcterms:subject>
+	<dcterms:subject>Sparesville</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Samuels, Henry J.</dcterms:subject>
+	<dcterms:spatial>Sparesville</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0113</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0113.jpg</edm:preview>
+</mdRecord>

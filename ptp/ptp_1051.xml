@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_1051</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1865-04-09</dcterms:created>
+	<dcterms:creator>Stanton, Edwin M. </dcterms:creator>
+	<dcterms:description>9 p.m.
+Alexa[ndria] April 9 1865
+By Telegraph from War Dept. 9 1865
+This department has just recd official report of the surrender this day of Genl Lee and his army to Lt. Genl Grant on the terms proposed by Genl Grant Details will be given speedily as possible.
+Edwin M. Stanton 
+Secy of War 
+
+Head Qrs Army of U.S.
+430 Rm
+Hon. E.M. Stanton Secy of War
+Genl Lee surrendered the Army of Northern Virginia this afternoon upon terms [page 2] proposed by myself.  The accompanying additional correspondence will show the conditions fully
+U.S. Grant
+Lt. Genl
+
+Apl 9 1865
+Genl-
+I recd your note of this morning on the picket line whither I had come to meet you to ascertain definitely what terms were embraced in your presentation of yesterday with reference to the surrender of this army. [page 3] I now request an interview in accordance with offer contained in your letter of yesterday - for that purpose.
+Very Respy
+Your Off
+R.E. Lee 
+Genl CSA
+
+to U.S. Grant
+Comder US Army
+
+[page 4]
+
+Apl 9 1865
+Genl R.E. Lee
+Comdr CSA
+
+Your note of this date is but this moment (1158 am) recd in consequence of having passed from the Richmond [crossed out] and Lynchburg road to the Farquiville and Lynchburg road I am at this writing about four miles west  of Walters Church and will push forward to the front of the purpose of meeting - notice sent to me on this road where you wish the interview to take place will meet me -
+Very respy your Off
+Genl U.S. Grant
+
+[page 5]
+
+Appomattox CH Apl 9
+1865
+Genl R.E. Lee
+Comdr CSA
+In accordance with the substance of my letter to you of the 8th inst. I propose to receive the surrender of the Army of Northern Va on the following terms to wit Rolls of the all officers and men to be made in duplicate - 
+One copy to be given to an officer designated by me the others to be retained by such officer or officers do you may designate - the officers to give [page 6] their individual paroles not to carry arms against the Govt of the United States until property exchanged and each Co or Regt commander sign a like parole for the men of their commands - The Army's artillery and public property to be packed and stacked and turned over to the officers appointed by me to receive them - This will not embrace the side arms of the officers nor their private horses or baggage - This done - such officers and men will be allowed - to return to their homes not to be disturbed by United States [page 7] authority so long as they observe their parole and the laws in force where they may reside - 
+Very Respy
+U.S. Grant
+Lt. Genl
+
+Hd Qrs Army Northern Va
+9th Apl 1865
+Lt General U.S. Grant
+Comdr USA
+
+Genl
+I have recd your letter of this date containing the terms of surrender of Army of Northern Virginia as proposed by you - as they are substantially the same as those proposed in your [page 8] letter of the 8th Inst they are accepted. I will proceed to designate the proper officers to carry the stipulations into effect.
+Very Respy
+Your Off
+R.E. Lee
+Lt. Genl
+</dcterms:description>
+	<dcterms:extent>page 4 of 8; leaf 4 of 8</dcterms:extent>
+	<dcterms:subject>Stanton, Edwin M. </dcterms:subject>
+	<dcterms:subject>Alexandria. Virginia</dcterms:subject>
+	<dcterms:subject>no location given</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Alexandria. Virginia</dcterms:spatial>
+	<dcterms:spatial>no location given</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_1051</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_1051.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0144</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-08-03</dcterms:created>
+	<dcterms:creator>Cox, Jacob Dolson</dcterms:creator>
+	<dcterms:description>FH Peirpoint [Francis H. Pierpont] Gov Wheeling Headquarters Kanawha Brigade186.   By Telegraph from Gauley Bridge [aug] 4th via Galleopalis 3th 1861.    I have about eight hundred 800 serviceable muskets with Bayonets taken from the enemy they are at your disposal for the purpose you mentioned. I would suggest the sending of some reliable Officer as agent to the Valley to act for you in the formation of companies of Union Home guards issuing commissions and arms &amp; = numbers are anxious [page 2] to join in Fayette Kanawha &amp; Nicholas counties as well as below some regular organizing should exist before issuing the muskets. J. D. Cox, Brig. Genl. Comdg 80w250&amp;513-col</dcterms:description>
+	<dcterms:extent>page 2 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Cox, Jacob Dolson</dcterms:subject>
+	<dcterms:subject>Gauley Bridge, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Gauley Bridge, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0144</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0144.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0478</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-11-11</dcterms:created>
+	<dcterms:creator>Anisansel, Henry</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling Nov 11 1861.   By Telegraph from Camp Leib near Clarksburg 11 1861.   I have recd sixty saddles from Wheeling &amp; five hundred more in one lot last week.  I have also received an invoice from Capt Dickenson for seven hundred &amp; fifty saddles are the last five hundred part of his invoice and if so I need the balance [page 2] H Anisansel Col 1st VC 47D141pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Anisansel, Henry</dcterms:subject>
+	<dcterms:subject>Camp Leib</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis Harrison</dcterms:subject>
+	<dcterms:spatial>Camp Leib</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0478</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0478.jpg</edm:preview>
+</mdRecord>

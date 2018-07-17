@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0297</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-09-09</dcterms:created>
+	<dcterms:creator>Henderson, Reason R.</dcterms:creator>
+	<dcterms:description>Joseph Henderson, Wheeling Sept 9  1861.   Washington PA By Telegraph from Big Birch River Va 1861.  It will gratify me much could you obtain a Lieutenants Commission from the Governor or President through your congressman for Silas N Benham.  If so he will immediately be placed on Genl Benham's staff  My love to parents &amp; friends [page 2] your nephew RR Henderson, Adjt 13th regt 42D131pd</dcterms:description>
+	<dcterms:extent>page 2 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Henderson, Reason R.</dcterms:subject>
+	<dcterms:subject>Big Birch, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Henderson, Joseph</dcterms:subject>
+	<dcterms:spatial>Big Birch, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0297</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0297.jpg</edm:preview>
+</mdRecord>

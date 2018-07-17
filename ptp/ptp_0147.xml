@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0147</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-08-04</dcterms:created>
+	<dcterms:creator>Rosecrans, William Starke</dcterms:creator>
+	<dcterms:description>Hon. F.H. Peirpoint [Francis H. Pierpont].  Governor of Virginia Gov Peirpoint Wheeling Aug 4 1861.   By Telegraph from Clarksburg 4 1861.   Had the pleasure of two interviews with Gen Wheat &amp; Mr Wilkinson have agreed to have a regiment of three years men raised for the primary purpose of guarding Railroads. Consider Wilkinson proper person to command it recommend great care in the selection of officers if you will permit me to suggest names of persons who fall under my notice &amp; whom I deem fitted for [page 2] commissioned officers I will do so I already suggested to Mr. Wilkinson one E J Cinger[?] who would I think make a good captain. WS Rosecrans Brig Genl USA 90D278pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Rosecrans, William Starke</dcterms:subject>
+	<dcterms:subject>Clarksburg, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Clarksburg, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0147</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0147.jpg</edm:preview>
+</mdRecord>

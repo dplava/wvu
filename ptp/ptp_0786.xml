@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0786</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-09-16</dcterms:created>
+	<dcterms:creator>Klunk, John B.</dcterms:creator>
+	<dcterms:description>Gov Pierpoint [Francis H. Pierpont] Wheeling Sept 16 1862.  By Telegraph from Buckhannon 16 1862.  I call a meeting of the officers of the Regiment the unanimously agreed that they have seen no evidence of Disloyalty or Incapacity and that the only doubt they have are from reports which have never been investigated I send [page 2] Wheeling Sept 16 1862.   a committee of three (3) to Grafton &amp; Clarksburg to make any investigations they desire Jno B Klunk com 54W167col</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 2</dcterms:extent>
+	<dcterms:subject>Klunk, John B.</dcterms:subject>
+	<dcterms:subject>Buckhannon, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Buckhannon, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0786</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0786.jpg</edm:preview>
+</mdRecord>

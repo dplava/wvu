@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0162</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-08-15</dcterms:created>
+	<dcterms:creator>Rosecrans, William Starke</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont], Wheeling Aug 15 1861.   By Telegraph from Clarksburg 15 . 1861.   I shall today send you a number of prisoners with a statement of the cause of their detention.  Numerous instances of malevolence &amp; seditious talk against the general sort &amp; the government of Western Virginia in the part of persons who have taken the oath of allegiance or given this parole are brought to [page 2] my notice from time to time they have been brought to the conclusion that it will be best hereafter to administer to them the oath of allegiance to the US &amp; fidelity to the state of Western Va. As many of these will be required can you not furnish us some printed forms of the oath say two or three thousand WS Rosecrans Brig Genl USA 111G333pd[?]</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Rosecrans, William Starke</dcterms:subject>
+	<dcterms:subject>Clarksburg, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Clarksburg, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0162</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0162.jpg</edm:preview>
+</mdRecord>

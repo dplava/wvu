@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0376</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-10-03</dcterms:created>
+	<dcterms:creator>Kelley, Benjamin F.</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling Oct 3 1861.  By Telegraph from Top Big Sewall 3 1861.  Your dispatch concerning blankets for Virginia troops rec'd though lines just open also you dispatch asking for cannon at mouth of Kanawha blankets are the[?] most difficulty clothing to provide[?] but I am informed that supplies will soon be ample distribution of clothing has had to give way to subsistence ammunition &amp; camp equipage trust the transportation will soon be found [page 2] in the meantime some entrenchments ought to be made but I have not an officer on my staff or in my dispatch that is competent for the duty.  What was done with the case of Maj Frothingham? It is utterly impossible for me to render the services to my country I desire to do unless I am provided with men &amp;[page 3] means to do it B. F. Kelley Brig Genl 118Gr241pd</dcterms:description>
+	<dcterms:extent>page 1 of 3; leaf 1 of 2</dcterms:extent>
+	<dcterms:subject>Kelley, Benjamin F.</dcterms:subject>
+	<dcterms:subject>Top Big Sewall</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Top Big Sewall</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0376</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0376.jpg</edm:preview>
+</mdRecord>

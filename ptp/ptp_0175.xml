@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0175</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-08-17</dcterms:created>
+	<dcterms:creator>Rosecrans, William Starke</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] 1861.  By Telegraph from Clarksburg 17 1861.  [Aug.] SB Reed has arrested us a secessionist who on being asked to take the oath of allegiance &amp; fidelity to the govt of Va declined doing it the grounds I have taken in this matter are designed to protect mental reservations &amp; deceptions hitherto practiced on me. [page 2] If we are to have peace &amp; law in Western Va men must acknowlidge its government those who are intelligent enough to understand this &amp; will not do it are more or less dangerous &amp; subject to such custody &amp; surveillance as the public interest require.  If he is satisfied to take that oath now I have no objections to his being released.  WS Rosecrans Brig Genl USA 111D338pd</dcterms:description>
+	<dcterms:extent>page 2 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Rosecrans, William Starke</dcterms:subject>
+	<dcterms:subject>Clarksburg, (West) Virginia</dcterms:subject>
+	<dcterms:subject>not given</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis Harrison</dcterms:subject>
+	<dcterms:spatial>Clarksburg, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>not given</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0175</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0175.jpg</edm:preview>
+</mdRecord>

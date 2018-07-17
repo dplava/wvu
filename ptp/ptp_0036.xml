@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0036</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-07-04</dcterms:created>
+	<dcterms:creator>Lovell, R. C. M.</dcterms:creator>
+	<dcterms:description>Mr. Frost Wheeling July 4 1861.   Member Wheeling Legislature By Telegraph, from Pomeroy OH 1861.   We hold here B.H. Hoyt as prisoner shall we discharge him. R.C.M Lovell 12We8X78col [page 2] R.C.M. Lovell July 4th 1861</dcterms:description>
+	<dcterms:extent>page 2 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Lovell, R. C. M.</dcterms:subject>
+	<dcterms:subject>Pomeroy, Ohio</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Frost, Daniel</dcterms:subject>
+	<dcterms:spatial>Pomeroy, Ohio</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0036</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0036.jpg</edm:preview>
+</mdRecord>

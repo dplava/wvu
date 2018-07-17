@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0941</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1863-03-30</dcterms:created>
+	<dcterms:creator>Fitch, E. B.</dcterms:creator>
+	<dcterms:description>Hon F. H. Peirpoint [Francis H. Pierpont] Gov Wheeling Mch 30 1863.  By Telegraph from Gallipolis 29 1863.   Sir I have just arrived from Charleston Va with Steamer Victor number two 2 and steamer Genl Meigs was fired into by four hundred 400 rebels at Hall's landing thirty 30 miles below Charleston lost two 2 men &amp; two horses Saved the boats and balance of crew [page 2] communication between this &amp; Charleston cut off.  All praise is due to Capt Ford and Summers of the Steamboats for Bravery.  E. P. Fitch Capt &amp; A.Q.M.  66Hm274pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 2</dcterms:extent>
+	<dcterms:subject>Fitch, E. B.</dcterms:subject>
+	<dcterms:subject>Gallipolis, Ohio</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Gallipolis, Ohio</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0941</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0941.jpg</edm:preview>
+</mdRecord>

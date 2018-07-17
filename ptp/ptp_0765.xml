@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0765</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-09-12</dcterms:created>
+	<dcterms:creator>Lightburn, Joseph Andrew Jackson</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling Sept 12 1862.   By Telegraph from Camp Piatt 12 1862.    A column of eight thousand (8000) is now in valley floyd is advancing by way of wyoming Intending to cut us off at Coals Mouth I have been fighting them two (two) days commencing at Fayette my whole force is at this point which I will be compelled to evacuate tonight or have my retreat [page 2] Intercepted I shall make a stance below Charleston I have orders from Genl Hallick to fall back to Point Pleasant if the force should bee too Heavy for me.  our loss supposed to be near two hundred (200) not positively known  J A J Lightburn Col Comdg 93Hm292pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 2</dcterms:extent>
+	<dcterms:subject>Lightburn, Joseph Andrew Jackson</dcterms:subject>
+	<dcterms:subject>Camp Piatt</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Camp Piatt</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0765</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0765.jpg</edm:preview>
+</mdRecord>

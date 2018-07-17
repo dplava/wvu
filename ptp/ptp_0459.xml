@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0459</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-11-01</dcterms:created>
+	<dcterms:creator>Scott, T. A. </dcterms:creator>
+	<dcterms:description>73 Dated Washn Nov 1st 1861.   Rec'd Phil'a, 1861.  , O'clock, min. M. to H.W. Crothers The guns by the Arego are all disposed of Shall be able to supply western devision very soon.  T. A. Scott 18/62</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Scott, T. A. </dcterms:subject>
+	<dcterms:subject>Washington, D.C.</dcterms:subject>
+	<dcterms:subject>Philadelphia, Pennsylvania</dcterms:subject>
+	<dcterms:subject>Crothers, H. W. </dcterms:subject>
+	<dcterms:spatial>Washington, D.C.</dcterms:spatial>
+	<dcterms:spatial>Philadelphia, Pennsylvania</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0459</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0459.jpg</edm:preview>
+</mdRecord>

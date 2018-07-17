@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0196</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-08-21</dcterms:created>
+	<dcterms:creator>Rosecrans, William Starke</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont], Wheeling Aug 21 1861.  By Telegraph from Clarksburg " " 1861.  Col Lightburn has been ordered to Point Pleasant to take command of the last &amp; the Y companies of his regiment on the Kanawha 3 more companies will be required to fill the regiment one 1 of which I suppose is Daltons[?].  I will be much obliged if you will indicate the companies you have selected and the names &amp; dates of the Lieut Colonel [page 2] &amp; major &amp; adjutant &amp; quartermaster commission 70 so that I may have the entire regimental organization.  For the organization of the next Regt there seems to be nearly companies enough already reported about to ask for a mustering officer.  I beg your excellency to hurry up those organizations. Genl Kelley has been directed as soon as notice is given to detail an officer to muster them in.  Q-Master Ransom will be directed to furnish camp equipage &amp; your Excellency has the clothing &amp; equipment.  Arms to be supplied on requisition by Lieut Crispin who will have orders to that effect  W.S. Rosecrans Brig Genl. USA 163P494pd</dcterms:description>
+	<dcterms:extent>page 2 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Rosecrans, William Starke</dcterms:subject>
+	<dcterms:subject>Clarksburg, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Clarksburg, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0196</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0196.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0954</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1863-05-01</dcterms:created>
+	<dcterms:creator>Schenck, Robert C.</dcterms:creator>
+	<dcterms:description>[In pencil at top of first page] Genl Lightburn Mannington Following Message just recd  [Telegram Body] Gov FH Peirpoint [Francis H. Pierpont] Wheeling May 1 1863.  By Telegraph from Harrisburg 1 1863.  the Following Dispatch has just been recd from Genl Schenck to whom as well as the President I have sent the several dispatches recd from you &amp; others relative to the threatened invasion of our state.  Baltimore to Gov AG Curtin I have no respect[crossed out] report that Union troops have been repulsed any where except at Fairmont between [page 2] [on reverse] Gen Lightburn I send for your information the enclosed dispatches FH Peirpoint [page 3] (2) Grafton &amp; Wheeling where a party two 2 days ago guarding the Bridge over the Monongahela were driven off by largely superior numbers &amp; the bridge destroyed other bridges near Littleton &amp; Benton have also been burned the enemy are now around Clarksburg where Col Mulligan has gone to the Releif of Genl Roberts and whose I expect their combined [page 4] (3) forces to drive &amp; defeat the Rebels I hold Grafton &amp; occupy all the Rail Road from here to that point the only serious damage on the line having been the burning of the Bridge over the Youghogheny which has already been rebuilt &amp; was crossed this morning by cars &amp; troops I have no reliable information of any invasion of Pennsylvania [page 5] (4) I have heard of the rebel force at Morgantown &amp; am not certain whether they are there yet or now down near the Rail Road west of Grafton or crossed over to Join the others near Clarksburg. The wild panic at Wheeling &amp; at Pittsburgh has been to me all along unaccountable please pass this telegram on to Gov Pierpoint I find by report from Genl Kelley [page 6] (5) that the governor was entirely mistaken about seven thousand Rebels at Mannington I wish troops at Wheeling instead of sticking to the town would go out or send out &amp; look along the Rail Road to help stop the mischief ir any still going on west of Grafton besides about forty five hundred [page 7] (6)  troops of all arms with Roberts &amp; Wilkinson at Clarksburg I have sent westward into the invaded district over six thousand 600 all I want &amp; some cooperation from the direction of Penna &amp; the Ohio river to beat &amp; capture the enemy completely if he does not escape by Ca[crossed out] Clarksburg &amp;Co[crossed out] at [page 8] (7) once Robt. C. Schenk Maj Genl Comdg  349W703&amp; 1486coll[crossed out]. [In pencil at bottom of telegram] sent for information of Gen Lightburn  370W545/ Jos Darr Maj &amp; [?] Com</dcterms:description>
+	<dcterms:extent>page 2 of 8; leaf 1 of 7</dcterms:extent>
+	<dcterms:subject>Schenck, Robert C.</dcterms:subject>
+	<dcterms:subject>Harrisburg, Pennsylvania</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Harrisburg, Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0954</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0954.jpg</edm:preview>
+</mdRecord>

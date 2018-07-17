@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0668</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-06-30</dcterms:created>
+	<dcterms:creator>Curtin, Andrew G.; Morgan, Edwin D.</dcterms:creator>
+	<dcterms:description>FH Peirpoint [Francis H. Pierpont] Wheeling June 30 1862 By Telegraph from New York 30 1862 Private &amp; confidential in View of the present State of military movements &amp; the difficult condition of our efficient forces in the field revolting from the usual &amp; unavoidable casualties of the Service together with the large numbers required to garrison the numerous cities &amp; military positions that have been captured as well as to protect avenues of Supply in the enemy's country it is proposed to addup a memorial to Presdent today to be Signed by all the governors of the Loyal States &amp; some other officials of the country requesting him at once to call upon the Several Loyal States for such Numbers of [page 2] men as may be required to fill up all organizations in the field &amp; add Such increased number of men to the army heretofore authorized as may in his Judgement be necessary to Speedily crush this rebellion &amp; restore one Government the Decisive moment to act[crossed out] accomplish this end it is believed has arrived Shall we add your name to the memorial answer immediately ED Morgan Gov NY AG Curtin Gov Penna 173G356pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 2</dcterms:extent>
+	<dcterms:subject>Curtin, Andrew G.; Morgan, Edwin D.</dcterms:subject>
+	<dcterms:subject>New York City, New York</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>New York City, New York</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0668</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0668.jpg</edm:preview>
+</mdRecord>

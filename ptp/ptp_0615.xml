@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0615</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-05-09</dcterms:created>
+	<dcterms:creator>Cox, Jacob Dolson</dcterms:creator>
+	<dcterms:description>Hon FH Peirpoint [Francis H. Pierpont] Wheeling May 9 1862.   By Telegraph from Raleigh 9 1862.   I am informed that the members of Co F first Va Cavalry have selected W Angelo Powell formerly Engineer attached to Genl Rosecrans staff for their Captain Vice Wm A West dismissed.  I have no official notice of Capt West's dismissal &amp; my information of the action of the company is also irregular. their action of course only a recommendation of which you [page 2] will probably get notice by mail.  I would not advise acting upon until you are satisfied that it is maturely considered.  Capt Powell would make a good officer but  I hear there is dissention within the company.  JD Cox BGenl 100D305pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Cox, Jacob Dolson</dcterms:subject>
+	<dcterms:subject>Raleigh, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Raleigh, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0615</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0615.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0409</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-10-18</dcterms:created>
+	<dcterms:creator>Kelley, Benjamin F.</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling Oct 18 1861.  By Telegraph from Grafton 18 1861.  The following is an extract from telegram just rec'd from Col Richmond  Two 2 messengers have just arrived from Capt Hill he reports all quiet at Elizabethtown &amp; that the rebels are in no considerable force at that point.  You will therefore see by the above that the [page 2] people of Parkersburg are more scared than hurt.  Col Richmond expresses opinion that it is perfectly useless for the troops under his command to move into Wirt or Calhoun unless they can remain there a month or two.  I have ordered Capt Litinzer with his company &amp; a part of Capt Peirpoints into Calhoun &amp; Wirt I therefore shall not order the troops at Parkersburg to move until [page 3] (3) Further ordered.  You need not send the other company to Parkersburg until you hear further from me.  BF Kelley Brig Genl 132Gr301pd</dcterms:description>
+	<dcterms:extent>page 3 of 3; leaf 2 of 2</dcterms:extent>
+	<dcterms:subject>Kelley, Benjamin F.</dcterms:subject>
+	<dcterms:subject>Grafton, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Grafton, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0409</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0409.jpg</edm:preview>
+</mdRecord>

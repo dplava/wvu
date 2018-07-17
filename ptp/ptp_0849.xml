@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0849</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-10-18</dcterms:created>
+	<dcterms:creator>Kelley, Benjamin Franklin</dcterms:creator>
+	<dcterms:description>Gov Pierpoint [Francis H. Pierpont] Wheeling Oct 18 1862.  By Telegraph from Cumberland 18 1862.  As the fifteenth 15th are under orders for New Creek I will let it come on but will act upon your suggestions as soon as I can arrange matters and order it back we are yet all quiet here but I am receiving constantly report of the enemy's approach via romney &amp; moorefield I think however they have as much as they can attend [page 2] to just now without coming up after me  B.F. Kelley  Brig Genl 703Q96pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Kelley, Benjamin Franklin</dcterms:subject>
+	<dcterms:subject>Cumberland, Maryland</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Cumberland, Maryland</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0849</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0849.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0771</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-09-12</dcterms:created>
+	<dcterms:creator>Kelley, Benjamin Franklin</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling Sept 12 1862.   By Telegraph from Cumberland 12  1862.    Call out &amp; arm all the militia you can raise there is no doubt but the rebel's are determined to recapture Western Virginia I have only one regiment here the eighty 84 fourth Ohio &amp; their time has expired &amp; they say they will leave tomorrow at nine 9 oclock I have the second 2nd Maryland and a raw New York [page 2] Regt the second 2nd Maryland I will be obliged to order here tomorrow to supply the place of the eighty fourth 84th see important dispatch to Mr. Ford  BF Kelley Brig Genl 82z328pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Kelley, Benjamin Franklin</dcterms:subject>
+	<dcterms:subject>Cumberland, Maryland</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Cumberland, Maryland</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0771</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0771.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0927</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1863-02-23</dcterms:created>
+	<dcterms:creator>Latham, George R.</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling Jany 1 1863.  By Telegraph from Beverly 23 1863.  Through erroneous instructions the mustering officer failed to remuster the officers of this regiment shall they not receive pay in consequence major Hill can explain Geo R Latham Col Comdg 25De80pd [page 2] There are no instructions requiring a re-muster or promotion same regiment officers.  Some officers of General Milroy's brigade state that it was the custom at Washington.  I subsequently saw General Cox who informed me that it was not required.  The rumor brought by Genl Milroy's officers seems to be the only foundation for the impression that it was necessary.  I have however written to Washington to ascertain and this afternoon I telegraphed to that effect.  B.H. Hill Maj USA Must Off</dcterms:description>
+	<dcterms:extent>page 2 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Latham, George R.</dcterms:subject>
+	<dcterms:subject>Beverly, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Beverly, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0927</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0927.jpg</edm:preview>
+</mdRecord>

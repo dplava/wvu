@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0190</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-08-20</dcterms:created>
+	<dcterms:creator>Crosman, George H., Jr.</dcterms:creator>
+	<dcterms:description>Gov. FH Peirpoint [Francis H. Pierpont] Wheeling Aug 20 1861.   By Telegraph from Grafton VA 1861.    William Corder Parton Gaul &amp; Andrew Gaul of Barbour County sent to Camp Carlile from Clarksburg.  Three 3 Union men neighbors of the above whose names are Francis E Paine, Hamilton J Partlett &amp; Abraham Saunders called on me today &amp; stated that the prisoners are not dangerous men but simply voted for the Ordinance of Secession  I think they should be released on taking the Oath.  Pass them up to this plaint when released.  By Order George H. Crossman AAG 76gr233pd</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Crosman, George H., Jr.</dcterms:subject>
+	<dcterms:subject>Grafton, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Grafton, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0190</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0190.jpg</edm:preview>
+</mdRecord>

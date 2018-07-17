@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0951</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1863/05/?? </dcterms:created>
+	<dcterms:creator>Pierpont, Francis H.</dcterms:creator>
+	<dcterms:description>Copy.  To Genl Schenck Balto-.  I recd despatch of  like import from Gov Tod.  The troops will be here at ten oclock this PM.  Boats are waiting to take them down immediately.  They were Ex[pecting?] attack at Parkersburg this PM but no news of yet.  I am satisfied Gen Roberts is not the man for place.  He has not stirred a step making all so[rts?] of excuses.  Gen Kelley should assume command at onc[e?] and attack them wherever they stop.  they don't [word obscured] to fight until all the railroads are destroyed in the so[uth?] FH Peirpoint [Francis H. Pierpont] (sent at 10.10 pm)</dcterms:description>
+	<dcterms:extent>page 1 of 1; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Baltimore, Maryland</dcterms:subject>
+	<dcterms:subject>Schenck, Robert C.</dcterms:subject>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Baltimore, Maryland</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0951</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0951.jpg</edm:preview>
+</mdRecord>

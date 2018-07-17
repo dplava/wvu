@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0518</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-11-25</dcterms:created>
+	<dcterms:creator>Cameron, Simon</dcterms:creator>
+	<dcterms:description>Gov Pierpont Wheeling Nov 25 1861.   By Telegraph from Washington 25 1861.   Sir.  It is found by experience that competition by agents of states authorized to purchase arms in competition with agents of the gov't is highly detrimental to the public service as it advances prices both to the states &amp; the US the loss of which may ultimately fall upon the general govt to arrest this competition you [page 2] are request [scratched out] respectfully requested to withdraw all agents from the purchase of arms in order that the govt of the US may make all such purchases with the greatest possible economy &amp; remove the present inducement for speculators to withhold arms from the service the arms will be distributed to the troops of the several states as soon as rec'd Simon Cameron Secy War 111G247pd</dcterms:description>
+	<dcterms:extent>page 2 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Cameron, Simon</dcterms:subject>
+	<dcterms:subject>Washington, D.C.</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis Harrison</dcterms:subject>
+	<dcterms:spatial>Washington, D.C.</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0518</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0518.jpg</edm:preview>
+</mdRecord>

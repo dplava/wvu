@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0685</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-07-15</dcterms:created>
+	<dcterms:creator>Cox, Jacob Dolson</dcterms:creator>
+	<dcterms:description>Gov Pierpoint [Francis H. Pierpont] Wheeling July 15 1862.  By Telegraph from Flat Top Mountain Va 14th 1862.  The positions of the enemy are behind the East River Mountains and in the vicinity of Monroe Court House owing to the easiness of railroad communications his strength varies from time to time but is probably as great as our own a force of some three thousand men would probably answer [page 2] for defensive purposes in this valley if nothing above the vicinity of Gauley Bridge were to be held there is of course some danger that the enemy might throw an expedient like Jackson or the recent one in Tennessee but the long and difficult line of communication reduces the risk [page 3] their recruiting can be done in the usual way &amp; their discipline &amp; efficiency will be promoted by removing them from the neighborhood of homes  JD Cox, Maj 75H302pd</dcterms:description>
+	<dcterms:extent>page 2 of 3; leaf 2 of 3</dcterms:extent>
+	<dcterms:subject>Cox, Jacob Dolson</dcterms:subject>
+	<dcterms:subject>Flat Top, (West Virginia)</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Flat Top, (West Virginia)</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0685</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0685.jpg</edm:preview>
+</mdRecord>

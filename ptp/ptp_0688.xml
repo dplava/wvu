@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0688</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1862-07-16</dcterms:created>
+	<dcterms:creator>Kelley, Benjamin Franklin</dcterms:creator>
+	<dcterms:description>Gov Peirpoint [Francis H. Pierpont] Wheeling July 16 1862.   By Telegraph from Cumberland 16 1862.   There is a rumor that there is a large force in the valley.  Our troops were attacked at Middletown yesterday by a cavalry force &amp; fell back to Winchester.  I am ordered by Genl Wool to concentrate all of my available troops at New Creek but will leave the eighty sixth at Clarksburg until get further news what the strength [page 2] of the enemy.  Col Harris has forces sufficient to protect his stores from any probable force that may be in the mountain.  I have constantly cautioned him against accumulating stores &amp; extra baggage at Beverly BF Kelley Brig Genl 95z380pd</dcterms:description>
+	<dcterms:extent>page 2 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>Kelley, Benjamin Franklin</dcterms:subject>
+	<dcterms:subject>Cumberland, Maryland</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis Harrison</dcterms:subject>
+	<dcterms:spatial>Cumberland, Maryland</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0688</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0688.jpg</edm:preview>
+</mdRecord>

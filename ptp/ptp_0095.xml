@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0095</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-07-21</dcterms:created>
+	<dcterms:creator>Bell, J. R.</dcterms:creator>
+	<dcterms:description>Gov Pierpoint [Francis H. Pierpont] Wheeling July 21 1861.  By Telegraph, from Cameron 21 1861.  A messenger came here this morning from Wetzel County three oclock and slated that a union had been shot the previous evening about eight oclock by two secessionists there is considerable alarm in that neighborhood on the account of it as there is considerable number of secessionists there &amp; it is believed that the intend to kill or drive out the [page 2] Cameron (2) Union men in that locality they are led by Squire Colbert who is said to be a man of influence he was one of the men that shot Clayton, they sent over here for a force to go over and prevent further outrages the union men there are not well armed I am satisfied from what I have heard before this shortly that there is first cause for alarm and immediate action.  I thought it would be best for you to order out a company from Camp Carlile to go out as far as Belton by the road as that is the nearest point it is only about eight miles from that place to Linn[?] Camp waters where this murder was committed plenty of guides will be furnished if necessary [page 3]Clayton had two balls put into him we have plenty of men but no guns answer immediately what you can do. J.R. Bell. 209 423 Collect [page 4] J. R. Bell
+</dcterms:description>
+	<dcterms:extent>page 1 of 4; leaf 1 of 2</dcterms:extent>
+	<dcterms:subject>Bell, J. R.</dcterms:subject>
+	<dcterms:subject>Cameron, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis H.</dcterms:subject>
+	<dcterms:spatial>Cameron, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0095</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0095.jpg</edm:preview>
+</mdRecord>

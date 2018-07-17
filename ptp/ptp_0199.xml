@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+          xmlns='http://dplava.lib.virginia.edu'
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns:dc='http://purl.org/dc/elements/1.1/'
+          xmlns:dcterms='http://purl.org/dc/terms/'
+          xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xmlns:edm='http://www.europeana.eu/schemas/edm/'
+          xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+        >
+	<dcterms:identifier>ptp_0199</dcterms:identifier>
+	<dcterms:isPartOf>Francis H. Pierpont Civil War Telegrams</dcterms:isPartOf>
+	<dcterms:created>1861-08-22</dcterms:created>
+	<dcterms:creator>McCook, Robert L.</dcterms:creator>
+	<dcterms:description>John Michael, Mem of Legislature Wheeling Aug 22 1861.   By Telegraph from New Creek  " " 1861.   Night before last a party of fifty Secessionists came into the north side of Hardy County to take James P. Babb.  Twenty of the Home Guard intercepted them by a mountain path and killed all of them but six.  It is said there is a large force of [page 2] 48 men eight miles south of Petersburg Sending out foraging parties to gather supplies for the army at Monterey.  Get arms for Auberry by all means.  The home guard in Hardy should have the means of protecting themselves and the neighborhood  R. L McCook Col 9 Ohio  88Bn274pd</dcterms:description>
+	<dcterms:extent>page 1 of 2; leaf 1 of 1</dcterms:extent>
+	<dcterms:subject>McCook, Robert L.</dcterms:subject>
+	<dcterms:subject>New Creek, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Wheeling, (West) Virginia</dcterms:subject>
+	<dcterms:subject>Michael, John</dcterms:subject>
+	<dcterms:spatial>New Creek, (West) Virginia</dcterms:spatial>
+	<dcterms:spatial>Wheeling, (West) Virginia</dcterms:spatial>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://civilwarwv.lib.wvu.edu/record/ptp_0199</edm:isShownAt>
+	<edm:preview>https://civilwarwv.lib.wvu.edu/image/ptp_0199.jpg</edm:preview>
+</mdRecord>
