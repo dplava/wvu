@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am4050_021214-18834-0019-rh</dcterms:identifier>
+	<dcterms:isPartOf>Senator John Davison (Jay) Rockefeller IV Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>Rockefeller Photographs</dcterms:isPartOf>
+	<dcterms:title>Photograph of a business leader standing at a Welcome to Washington luncheon</dcterms:title>
+	<dcterms:created>2014-02-12</dcterms:created>
+	<dcterms:creator>Hammel, Rebecca</dcterms:creator>
+	<dcterms:creator>Senate Photographic Studio</dcterms:creator>
+	<dcterms:description>A business leader stands at the Welcome to Washington luncheon.</dcterms:description>
+	<dcterms:subject>digital images</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>Still Image</dcterms:type>
+	<dcterms:format>Image/jpeg</dcterms:format>
+	<dcterms:source>Senator John D. (Jay) Rockefeller IV papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:coverage>Washington</dcterms:coverage>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://rockefeller.lib.wvu.edu/record/am4050_021214-18834-0019-rh</edm:isShownAt>
+	<edm:preview>https://rockefeller.lib.wvu.edu/thumb/am4050_021214-18834-0019-rh/0</edm:preview>
+</mdRecord>

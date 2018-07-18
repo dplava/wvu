@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am4050_2014_12_17_memo_intelligence</dcterms:identifier>
+	<dcterms:isPartOf>Senator John Davison (Jay) Rockefeller IV Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>Rockefeller Legacy Memos</dcterms:isPartOf>
+	<dcterms:title>Review of Senator John D. Rockefeller's Service on the Senate Select Committee on Intelligence: 2001-2015 Memorandum</dcterms:title>
+	<dcterms:created>2014-12-17</dcterms:created>
+	<dcterms:description>The "Review of Senator John D. Rockefeller's Service on the Senate Select Committee on Intelligence: 2001-2015 Memorandum" provides an overview of Senator John D. (Jay) Rockefeller's time on the Senate Select Committee on Intelligence. Senator Rockefeller served as both Committee Chairman and Vice Chairman. This memo focuses on his service in several key areas, including the investigation of the terrorist attacks of September 11, 2001; the Iraq War and flawed intelligence on weapons of mass destruction; Intelligence Community reform; surveillance oversight and reform; the CIA's detention and interrogation program; cybersecurity; and the intelligence authorization process. </dcterms:description>
+	<dcterms:subject>National security</dcterms:subject>
+	<dcterms:subject>Rockefeller, John D, IV (John Davison), 1937</dcterms:subject>
+	<dcterms:subject>September 11 Terrorist Attacks, 2001</dcterms:subject>
+	<dcterms:subject>United States Congress Senate Select Committee on Intelligence</dcterms:subject>
+	<dcterms:subject>War on Terrorism, 20012009</dcterms:subject>
+	<dcterms:subject>memorandums</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>Document</dcterms:type>
+	<dcterms:format>application/pdf</dcterms:format>
+	<dcterms:source>Senator John D. (Jay) Rockefeller IV papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://rockefeller.lib.wvu.edu/record/am4050_2014_12_17_memo_intelligence</edm:isShownAt>
+	<edm:preview>https://rockefeller.lib.wvu.edu/thumb/am4050_2014_12_17_memo_intelligence/0</edm:preview>
+</mdRecord>

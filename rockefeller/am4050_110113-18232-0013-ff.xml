@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am4050_110113-18232-0013-ff</dcterms:identifier>
+	<dcterms:isPartOf>Senator John Davison (Jay) Rockefeller IV Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>Rockefeller Photographs</dcterms:isPartOf>
+	<dcterms:title>Photograph of a framed poem in Senator Rockefeller's office</dcterms:title>
+	<dcterms:created>2013-11-01</dcterms:created>
+	<dcterms:creator>Fey, Frank A.</dcterms:creator>
+	<dcterms:creator>Senate Photographic Studio</dcterms:creator>
+	<dcterms:description>A framed poem hangs on a wall in Senator John D. (Jay) Rockefeller's office. It reads:"Life Through a Coal Miner's EyesBy Budro BaisdenDark at dayDark at nightIn never changesThat's the minesCold and wet this they knowStill they put on their hardhatsAnd goNo one knows why they seek that holeDeep in the mountainsWith all that coalTo risk their lives for a single light poleThat shines through a window of aCoal miner's homeBut there is only one thing that shines so brightNot the light you pass every nightIt's the smile of their wivesWhen they come home at nightThat's life through a coal miner's eyes"</dcterms:description>
+	<dcterms:subject>digital images</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>Still Image</dcterms:type>
+	<dcterms:format>Image/jpeg</dcterms:format>
+	<dcterms:source>Senator John D. (Jay) Rockefeller IV papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:coverage>Washington</dcterms:coverage>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://rockefeller.lib.wvu.edu/record/am4050_110113-18232-0013-ff</edm:isShownAt>
+	<edm:preview>https://rockefeller.lib.wvu.edu/thumb/am4050_110113-18232-0013-ff/0</edm:preview>
+</mdRecord>

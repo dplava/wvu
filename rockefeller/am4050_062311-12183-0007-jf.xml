@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am4050_062311-12183-0007-jf</dcterms:identifier>
+	<dcterms:isPartOf>Senator John Davison (Jay) Rockefeller IV Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>Rockefeller Photographs</dcterms:isPartOf>
+	<dcterms:title>Photograph of the nomination hearing for General Petraeus to be the Director of the Central Intelligence Agency</dcterms:title>
+	<dcterms:created>2011-06-23</dcterms:created>
+	<dcterms:creator>McEvoy, Jeff</dcterms:creator>
+	<dcterms:creator>Senate Photographic Studio</dcterms:creator>
+	<dcterms:description>General David Petraeus sits before the Senate Intelligence Committee during his nomination hearing for the position of the Director of the Central Intelligence Agency.</dcterms:description>
+	<dcterms:subject>Chambliss, Saxby, 1943</dcterms:subject>
+	<dcterms:subject>Feinstein, Dianne, 1933</dcterms:subject>
+	<dcterms:subject>Rockefeller, John D, IV (John Davison), 1937</dcterms:subject>
+	<dcterms:subject>Snowe, Olympia J (Olympia Jean), 1947</dcterms:subject>
+	<dcterms:subject>United States Congress Senate Committee on Commerce</dcterms:subject>
+	<dcterms:subject>Wyden, Ron, 1949</dcterms:subject>
+	<dcterms:subject>digital images</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>Still Image</dcterms:type>
+	<dcterms:format>Image/jpeg</dcterms:format>
+	<dcterms:source>Senator John D. (Jay) Rockefeller IV papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:coverage>Washington</dcterms:coverage>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://rockefeller.lib.wvu.edu/record/am4050_062311-12183-0007-jf</edm:isShownAt>
+	<edm:preview>https://rockefeller.lib.wvu.edu/thumb/am4050_062311-12183-0007-jf/0</edm:preview>
+</mdRecord>

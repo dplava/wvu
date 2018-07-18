@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>rockcards_019</dcterms:identifier>
+	<dcterms:isPartOf>Senator John Davison (Jay) Rockefeller IV Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>Rockefeller Holiday Cards</dcterms:isPartOf>
+	<dcterms:title>1980 Rockefeller family holiday card</dcterms:title>
+	<dcterms:created>1980-07-18</dcterms:created>
+	<dcterms:creator>Rockefeller, John D., IV (John Davison), 1937-</dcterms:creator>
+	<dcterms:description>The 1980 Rockefeller family holiday card reads, "Joy and peace." Pictured are Jay, Sharon, Valerie, Jamie (John), Justin, and Charles Rockefeller. </dcterms:description>
+	<dcterms:subject>Christmas cards</dcterms:subject>
+	<dcterms:subject>Holiday Cards</dcterms:subject>
+	<dcterms:subject>Rockefeller, John D, IV (John Davison), 1937</dcterms:subject>
+	<dcterms:subject>Rockefeller, Sharon Percy, 1944</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:format>Image/Tiff</dcterms:format>
+	<dcterms:source>A&amp;M 4050, Senator John D. (Jay) Rockefeller IV papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:relation>A&amp;M 4050</dcterms:relation>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>https://rockefeller.lib.wvu.edu/record/rockcards_019</edm:isShownAt>
+	<edm:preview>https://rockefeller.lib.wvu.edu/thumb/rockcards_019/0</edm:preview>
+</mdRecord>
