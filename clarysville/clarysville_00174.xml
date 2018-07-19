@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00174</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Lyle, William L. </dcterms:title>
+	<dcterms:date>1864-08-02</dcterms:date>
+	<dcterms:date>1864-08-22</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Green Co., Ohio [Greene County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Yellow Springs, Green Co., Ohio [Yellow Springs, Greene County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Lyle, William L. Patient Age: 21. Marital Status: Single. Diagnosis: Intermittent fever tertian. Treatment: Sulph. [sulphur] quinine in 4 gram doses every 2 hours until 12 grams were given on the intermediate day 2 grams at 6, 12 and 6 o clock . Result: Returned to duty . </dcterms:description>
+	<dcterms:subject>Lyle, William L. </dcterms:subject>
+	<dcterms:subject>Intermittent fever tertian</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>E</dcterms:subject>
+	<dcterms:subject>152 O Vols [152nd Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 4019</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00174</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00174.jpg</edm:preview>
+</mdRecord>

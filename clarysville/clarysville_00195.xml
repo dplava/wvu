@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00195</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Donnelly, Peter </dcterms:title>
+	<dcterms:date>1864-08-05</dcterms:date>
+	<dcterms:date>1864-08-30</dcterms:date>
+	<dcterms:spatial>Ireland</dcterms:spatial>
+	<dcterms:spatial>Mason Co., Ohio [Mason County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Mason City, Mason Co., Ohio [Mason City, Mason County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Donnelly, Peter Patient Age: 17. Marital Status: Single. Diagnosis: Fracture of left clavicle external third. Accidental. By a fall at Cumberland. Location Wounded: Cumberland, MD. Nature of Wound: Accidental . Result: Cured and returned to duty. </dcterms:description>
+	<dcterms:subject>Donnelly, Peter </dcterms:subject>
+	<dcterms:subject>Fracture of left clavicle external third. Accidental. By a fall at Cumberland</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>F</dcterms:subject>
+	<dcterms:subject>15 VA Inf [15th Virginia Infantry]</dcterms:subject>
+	<dcterms:subject>Ireland</dcterms:subject>
+	<dcterms:subject>Hospital Number 4083</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00195</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00195.jpg</edm:preview>
+</mdRecord>

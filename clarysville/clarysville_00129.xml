@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00129</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Nuce, Abraham [Abram] </dcterms:title>
+	<dcterms:date>1864-07-23</dcterms:date>
+	<dcterms:date>1864-08-12</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Monanghaley Co., VA [Monongalia County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Morgantown, VA [Morgantown, Monongalia County, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Nuce, Abraham [Abram] Patient Age: 24. Marital Status: Single. Diagnosis: Chronic diarrhea. Result: Cured and returned to duty this day Agst - 12th 1864. </dcterms:description>
+	<dcterms:subject>Nuce, Abraham [Abram] </dcterms:subject>
+	<dcterms:subject>Chronic diarrhea</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>I</dcterms:subject>
+	<dcterms:subject>14 V V I [14th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 3697</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00129</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00129.jpg</edm:preview>
+</mdRecord>

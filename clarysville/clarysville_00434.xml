@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00434</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Church, Alonzo H.</dcterms:title>
+	<dcterms:date>1865-03-15</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Illinois</dcterms:spatial>
+	<dcterms:spatial>Springfield, Sangamon Co., Ill [Springfield, Sangamon County, Illinois]</dcterms:spatial>
+	<dcterms:spatial>Springfield, Ill [Springfield, Illinois]</dcterms:spatial>
+	<dcterms:description>Patient Name: Church, Alonzo H. Patient Age: 23. Marital Status: Single. Diagnosis: Convalescent from typhoid fever. Paroled prisoner from Willmington North Carolina in Camp Florence. 9 months!. Treatment: Paroled Prisoner. Result: Furloughed to Camp Chase 1865/04/03. </dcterms:description>
+	<dcterms:subject>Church, Alonzo H.</dcterms:subject>
+	<dcterms:subject>Convalescent from typhoid fever. Paroled prisoner from Willmington North Carolina in Camp Florence. 9 months!</dcterms:subject>
+	<dcterms:subject>D Sgt [Drill Sergeant]</dcterms:subject>
+	<dcterms:subject>G</dcterms:subject>
+	<dcterms:subject>114th Ill Inf [114th Illinois Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Illinois</dcterms:subject>
+	<dcterms:subject>Hospital Number 5546</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00434</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00434.jpg</edm:preview>
+</mdRecord>

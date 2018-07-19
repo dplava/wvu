@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00103</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Timmel, Ferdinand </dcterms:title>
+	<dcterms:date>1864-07-23</dcterms:date>
+	<dcterms:date>1864-11-11</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Roane Co., VA [Roane County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Spencer, Roane Co., VA [Spencer, Roane County, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Timmel, Ferdinand Patient Age: 20. Marital Status: Single. Diagnosis: Gun shot flesh wound right thoracic parietus. Ball entered external border of pectoralis major passed 2 inches below axillia and through anterior border of trapezieus middle . Location Wounded: Winchester, Va. Date Wounded: 1864/07/20. Nature of Wound: Musket ball. Treatment: Simple dressings. Result: Cured and returned to duty. </dcterms:description>
+	<dcterms:subject>Timmel, Ferdinand </dcterms:subject>
+	<dcterms:subject>Gun shot flesh wound right thoracic parietus. Ball entered external border of pectoralis major passed 2 inches below axillia and through anterior border of trapezieus middle </dcterms:subject>
+	<dcterms:subject>Corporal</dcterms:subject>
+	<dcterms:subject>G</dcterms:subject>
+	<dcterms:subject>9 VA Vols [9th West Virginia Volunteer Infantry?</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 3575</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00103</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00103.jpg</edm:preview>
+</mdRecord>

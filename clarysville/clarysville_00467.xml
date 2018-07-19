@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00467</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Morgan, Joel </dcterms:title>
+	<dcterms:date>1865-04-02</dcterms:date>
+	<dcterms:date>1865-05-12</dcterms:date>
+	<dcterms:spatial>Indiana</dcterms:spatial>
+	<dcterms:spatial>Harrison Co., Ind [Harrison County, Indiana]</dcterms:spatial>
+	<dcterms:spatial>Elizabeth, Harrison Co., Ind [Elizabeth, Harrison County, Indiana]</dcterms:spatial>
+	<dcterms:description>Patient Name: Morgan, Joel Patient Age: 18. Marital Status: Single. Diagnosis: Mumps. Result: Discharged and mustered out of service. </dcterms:description>
+	<dcterms:subject>Morgan, Joel </dcterms:subject>
+	<dcterms:subject>Mumps</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>F</dcterms:subject>
+	<dcterms:subject>144th Ind Inf [144th Indiana Infantry]</dcterms:subject>
+	<dcterms:subject>Indiana</dcterms:subject>
+	<dcterms:subject>Hospital Number 5806</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00467</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00467.jpg</edm:preview>
+</mdRecord>

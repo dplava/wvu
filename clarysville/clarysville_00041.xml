@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00041</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Hayman, Samuel </dcterms:title>
+	<dcterms:date>1864-07-10</dcterms:date>
+	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Tymochtee, O [Tymochtee, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Tymochtee, O [Tymochtee, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Hayman, Samuel Patient Age: 32. Marital Status: Married. Diagnosis: Acute diarrhoea [diarrhea]. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Hayman, Samuel </dcterms:subject>
+	<dcterms:subject>Acute diarrhoea [diarrhea]</dcterms:subject>
+	<dcterms:subject>Sergeant</dcterms:subject>
+	<dcterms:subject>F</dcterms:subject>
+	<dcterms:subject>123 O Vols [123rd Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 3055</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00041</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00041.jpg</edm:preview>
+</mdRecord>

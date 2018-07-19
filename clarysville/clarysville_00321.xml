@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00321</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Chilson, Henry D.</dcterms:title>
+	<dcterms:date>1864-10-29</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Michigan</dcterms:spatial>
+	<dcterms:spatial>Belleville, Wayne Co., Mich. [Belleville, Wayne County, Michigan] </dcterms:spatial>
+	<dcterms:spatial>Belleville, Wayne Co., Mich. [Belleville, Wayne County, Michigan] </dcterms:spatial>
+	<dcterms:description>Patient Name: Chilson, Henry D. Patient Age: 17. Marital Status: Single. Diagnosis: Gun shot fracture inferior maxilla. Location Wounded: Cedar Creek, Va. Date Wounded: 1864/10/19. Nature of Wound: Conical bullet. Result: Deserted 1865/01/17 on furlough. </dcterms:description>
+	<dcterms:subject>Chilson, Henry D.</dcterms:subject>
+	<dcterms:subject>Gun shot fracture inferior maxilla</dcterms:subject>
+	<dcterms:subject>2 M Sergt. [2nd Master Sergeant]</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>1 M Cav [1st Michigan Cavalry]</dcterms:subject>
+	<dcterms:subject>Michigan</dcterms:subject>
+	<dcterms:subject>Hospital Number 4837</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00321</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00321.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00133</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Cornett, Reuben </dcterms:title>
+	<dcterms:date>1864-07-23</dcterms:date>
+	<dcterms:date>1864-11-10</dcterms:date>
+	<dcterms:spatial>Tennessee</dcterms:spatial>
+	<dcterms:spatial>Jackson Co., Tennessee [Jackson County, Tennessee]</dcterms:spatial>
+	<dcterms:spatial>Taylorsville, Jackson Co., Tennessee [Taylorsville, Jackson County, Tennessee]</dcterms:spatial>
+	<dcterms:description>Patient Name: Cornett, Reuben Patient Age: 24. Marital Status: Single. Diagnosis: Gun shot flesh wound of right scapula. Bullet entering 1 inch to the right of the 5th dorsal vertabra passing under scapula. Direction downwards and outwards to exit 2 inches to the left of axillary region.. Location Wounded: In act[ion] at Winchester, Va. Date Wounded: 1864/07/20. Nature of Wound: Bullet. Treatment: Simple dressings. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Cornett, Reuben </dcterms:subject>
+	<dcterms:subject>Gun shot flesh wound of right scapula. Bullet entering 1 inch to the right of the 5th dorsal vertabra passing under scapula. Direction downwards and outwards to exit 2 inches to the left of axillary region.</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>I</dcterms:subject>
+	<dcterms:subject>2 VA Cav [2nd West Virginia Volunteer Cavalry]</dcterms:subject>
+	<dcterms:subject>Tennessee</dcterms:subject>
+	<dcterms:subject>Hospital Number 3714</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00133</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00133.jpg</edm:preview>
+</mdRecord>

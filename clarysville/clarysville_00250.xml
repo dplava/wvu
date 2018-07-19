@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00250</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Fisher, Adam </dcterms:title>
+	<dcterms:date>1864-09-11</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Fairmont, W VA [Fairmont, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Fairmont, W VA [Fairmont, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Fisher, Adam Patient Age: 28. Marital Status: Married. Diagnosis: Convalescent from inflamation of the neck of the bladder.. Result: Transferred to Commisary . </dcterms:description>
+	<dcterms:subject>Fisher, Adam </dcterms:subject>
+	<dcterms:subject>Convalescent from inflamation of the neck of the bladder.</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>F</dcterms:subject>
+	<dcterms:subject>12 VA Inf [12th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 4400</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00250</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00250.jpg</edm:preview>
+</mdRecord>

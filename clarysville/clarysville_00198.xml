@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00198</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Strock, David </dcterms:title>
+	<dcterms:date>1864-08-07</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Clarke Co., Ohio [Clark County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Christiansburg, Champaign Co., Ohio [Christiansburg, Champaign County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Strock, David Patient Age: 21. Marital Status: Single. Diagnosis: Gun shot wound left arm 3 inches below the coracoid process of the acromian passing backward and downward lodged near the angle of 9 rib. Ball extracted on the field. Location Wounded: Hancock, MD. Date Wounded: 1864/07/31. Nature of Wound: Musket ball. Result: Transferred to US Genl Hospital Columbus 1865/03/14. </dcterms:description>
+	<dcterms:subject>Strock, David </dcterms:subject>
+	<dcterms:subject>Gun shot wound left arm 3 inches below the coracoid process of the acromian passing backward and downward lodged near the angle of 9 rib. Ball extracted on the field</dcterms:subject>
+	<dcterms:subject>Sergeant</dcterms:subject>
+	<dcterms:subject>A</dcterms:subject>
+	<dcterms:subject>8 O Cav [8th Ohio Cavalry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 4079</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00198</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00198.jpg</edm:preview>
+</mdRecord>

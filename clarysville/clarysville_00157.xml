@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00157</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Mowen, George W.</dcterms:title>
+	<dcterms:date>1864-07-27</dcterms:date>
+	<dcterms:date>1864-09-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Portage Co., Ohio</dcterms:spatial>
+	<dcterms:spatial>Adwater, Portage County, Ohio [Atwater, Portage County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Mowen, George W. Patient Age: 19. Marital Status: Single. Diagnosis: Typhoid fever. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Mowen, George W.</dcterms:subject>
+	<dcterms:subject>Typhoid fever</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>F</dcterms:subject>
+	<dcterms:subject>6th Ohio Cavalry</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 3879</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00157</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00157.jpg</edm:preview>
+</mdRecord>

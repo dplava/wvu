@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00047</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Martin, Ephraim </dcterms:title>
+	<dcterms:date>1864-07-10</dcterms:date>
+	<dcterms:date>1864-12-02</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Belmont Co., Ohio [Belmont County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Martins Ferry, Ohio</dcterms:spatial>
+	<dcterms:description>Patient Name: Martin, Ephraim Patient Age: 38. Marital Status: Single. Diagnosis: Inflamation [inflammation] of kidneys. Result: Cured and returned to duty. </dcterms:description>
+	<dcterms:subject>Martin, Ephraim </dcterms:subject>
+	<dcterms:subject>Inflamation [inflammation] of kidneys</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>1 VA Vols [1st West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 3079</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00047</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00047.jpg</edm:preview>
+</mdRecord>

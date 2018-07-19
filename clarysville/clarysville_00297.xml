@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00297</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Gomer, George </dcterms:title>
+	<dcterms:date>1864-10-20</dcterms:date>
+	<dcterms:date>1864-10-31</dcterms:date>
+	<dcterms:spatial>Maryland</dcterms:spatial>
+	<dcterms:spatial>Allegheny Co., MD [Allegheny County, Maryland]</dcterms:spatial>
+	<dcterms:spatial>Barrellsville, MD [Barrellsville, Maryland]</dcterms:spatial>
+	<dcterms:description>Patient Name: Gomer, George Patient Age: 20. Marital Status: Single. Diagnosis: Incised wound of scalp two inches in extext: 3/4 of inch to left of saggital suture, vertex. Also contusion of left knee. Col[l]ision of cars between Paw Paw and Cacapon stations. Location Wounded: Paw Paw and Cacapon. Date Wounded: 1864/10/19. Nature of Wound: Cars. Result: Returned to duty . </dcterms:description>
+	<dcterms:subject>Gomer, George </dcterms:subject>
+	<dcterms:subject>Incised wound of scalp two inches in extext: 3/4 of inch to left of saggital suture, vertex. Also contusion of left knee. Col[l]ision of cars between Paw Paw and Cacapon stations</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>K</dcterms:subject>
+	<dcterms:subject>2nd MD PHB [2nd Maryland Infantry, Potomac Home Brigade]</dcterms:subject>
+	<dcterms:subject>Maryland</dcterms:subject>
+	<dcterms:subject>Hospital Number 4764</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00297</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00297.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00717</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Morrison, Joel N.</dcterms:title>
+	<dcterms:date>1865-07-07</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>New York</dcterms:spatial>
+	<dcterms:spatial>Madison Co., NY [Madison County, New York]</dcterms:spatial>
+	<dcterms:spatial>Perrysville, Madison County, NY [Perrysville, Madison County, New York]</dcterms:spatial>
+	<dcterms:description>Patient Name: Morrison, Joel N. Patient Age: 23. Marital Status: Single. Diagnosis: Comp. fract. [compound fracture] left leg tibia. </dcterms:description>
+	<dcterms:subject>Morrison, Joel N.</dcterms:subject>
+	<dcterms:subject>Comp. fract. [compound fracture] left leg tibia</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>M</dcterms:subject>
+	<dcterms:subject>15 NY Cav [15th New York Cavalry]</dcterms:subject>
+	<dcterms:subject>New York</dcterms:subject>
+	<dcterms:subject>Hospital Number 8020</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00717</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00717.jpg</edm:preview>
+</mdRecord>

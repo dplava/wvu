@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00156</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Guerin, Jay </dcterms:title>
+	<dcterms:date>1864-07-24</dcterms:date>
+	<dcterms:date>1864-09-05</dcterms:date>
+	<dcterms:spatial>New York</dcterms:spatial>
+	<dcterms:spatial>Tompkins Co., N.Y. [Tompkins County, New York]</dcterms:spatial>
+	<dcterms:spatial>Little Wolf, Waupaca County, Weston, New York</dcterms:spatial>
+	<dcterms:description>Patient Name: Guerin, Jay Patient Age: 21. Marital Status: Married. Diagnosis: Acute pleurisy. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Guerin, Jay </dcterms:subject>
+	<dcterms:subject>Acute pleurisy</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>I</dcterms:subject>
+	<dcterms:subject>21st NY Cavalry</dcterms:subject>
+	<dcterms:subject>New York</dcterms:subject>
+	<dcterms:subject>Hospital Number 3873</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00156</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00156.jpg</edm:preview>
+</mdRecord>

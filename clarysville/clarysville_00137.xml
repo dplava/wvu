@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00137</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Ellswick, William F.</dcterms:title>
+	<dcterms:date>1864-07-25</dcterms:date>
+	<dcterms:date>1864-09-27</dcterms:date>
+	<dcterms:spatial>Kentucky</dcterms:spatial>
+	<dcterms:spatial>Lawrence Co., Ohio [Lawrence County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Rock Camp, Lawrence Co., Ohio [Rock Camp, Lawrence County, Ohio] </dcterms:spatial>
+	<dcterms:description>Patient Name: Ellswick, William F. Patient Age: 24. Marital Status: Single. Diagnosis: Gun shot fracture of left hand. Musket ball entered palm passing upward and outward and exit between carpal extremity of middle and ring fingers. Location Wounded: Winchester, Va [Kernstown, Va]. Date Wounded: 1864/07/24. Nature of Wound: Musket ball. Treatment: Cold water dressings by irrigation. Erysipelas in wound and hand. Line iodine 3 or 4 times per day and whyskey 4 times per day full diet . Result: Wound doing well when tranfered to US Genl Hospital, Parkersburg, VA [West Virginia] 1864/09/27. </dcterms:description>
+	<dcterms:subject>Ellswick, William F.</dcterms:subject>
+	<dcterms:subject>Gun shot fracture of left hand. Musket ball entered palm passing upward and outward and exit between carpal extremity of middle and ring fingers</dcterms:subject>
+	<dcterms:subject>D Sgt [Drill Sergeant]</dcterms:subject>
+	<dcterms:subject>G</dcterms:subject>
+	<dcterms:subject>5 VA Vols [5th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Kentucky</dcterms:subject>
+	<dcterms:subject>Hospital Number 3777</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00137</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00137.jpg</edm:preview>
+</mdRecord>

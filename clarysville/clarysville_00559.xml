@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00559</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Rickey, Patrick </dcterms:title>
+	<dcterms:date>1865-04-29</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Massachusetts</dcterms:spatial>
+	<dcterms:spatial>Bradford, Maine</dcterms:spatial>
+	<dcterms:spatial>Bradford, Maine</dcterms:spatial>
+	<dcterms:description>Patient Name: Rickey, Patrick Patient Age: 19. Marital Status: Single. Diagnosis: Synovitis of left knee joint. </dcterms:description>
+	<dcterms:subject>Rickey, Patrick </dcterms:subject>
+	<dcterms:subject>Synovitis of left knee joint</dcterms:subject>
+	<dcterms:subject>Drummer</dcterms:subject>
+	<dcterms:subject>P</dcterms:subject>
+	<dcterms:subject>4th US V V [4th United States Veteran Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Massachusetts</dcterms:subject>
+	<dcterms:subject>Hospital Number 6630</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00559</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00559.jpg</edm:preview>
+</mdRecord>

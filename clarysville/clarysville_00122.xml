@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00122</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Massie, Harvey </dcterms:title>
+	<dcterms:date>1864-07-23</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Lawrence Co., Ohio [Lawrence County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Grassy Ridge, Lawrence Co., Ohio [Grassy Ridge, Lawrence County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Massie, Harvey Patient Age: 19. Marital Status: Single. Diagnosis: Gun shot fracture of the right elbow joint while the arm was at right angle in the act of firing. The bullet entered on the posterior brachial region 2 inches below head of radius passing diagonally across and comminuting the external condyle of the humerus exiting on the posterior humeral region where it lodged- being 2 inches above the external condyle of humerus. Ball extracted on the field. . Location Wounded: In act[ion] at Winchester, Va. Date Wounded: 1864/07/20. Nature of Wound: Conical bullet. Treatment: On the 28th of July, reset the lower arm of the humerus and dis and relocated at the elbow joint . </dcterms:description>
+	<dcterms:subject>Massie, Harvey </dcterms:subject>
+	<dcterms:subject>Gun shot fracture of the right elbow joint while the arm was at right angle in the act of firing. The bullet entered on the posterior brachial region 2 inches below head of radius passing diagonally across and comminuting the external condyle of the humerus exiting on the posterior humeral region where it lodged- being 2 inches above the external condyle of humerus. Ball extracted on the field. </dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>H</dcterms:subject>
+	<dcterms:subject>9 V V I [9th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 3676</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00122</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00122.jpg</edm:preview>
+</mdRecord>

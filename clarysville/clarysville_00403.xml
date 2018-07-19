@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00403</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Adams, Ephram A.</dcterms:title>
+	<dcterms:date>1865-02-13</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Dayton, Montgomery Co., O [Dayton, Montgomery County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Dayton, Montgomery Co., O [Dayton, Montgomery County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Adams, Ephram A. Patient Age: 23. Marital Status: Single. Diagnosis: Gun shot flesh wound right thigh and left leg. Location Wounded: Cumberland. Date Wounded: 1865/02/11. Nature of Wound: Musket ball. Treatment: Furlough 1865/04/04. Result: Returned to duty 1865/04/04. Reinstated 1865/04/04. Deserted on furlough 1864/04/28.. </dcterms:description>
+	<dcterms:subject>Adams, Ephram A.</dcterms:subject>
+	<dcterms:subject>Gun shot flesh wound right thigh and left leg</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>H</dcterms:subject>
+	<dcterms:subject>23 O V I [23rd Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 5341</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00403</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00403.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00317</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Hamrick, William G. </dcterms:title>
+	<dcterms:date>1864-10-29</dcterms:date>
+	<dcterms:date>1865-02-28</dcterms:date>
+	<dcterms:spatial>West Virginia</dcterms:spatial>
+	<dcterms:spatial>Randolph Co., W VA [Randolph County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Beverly, Randolph Co., W VA [Beverly, Randolph County, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Hamrick, William G. Patient Age: 26. Marital Status: Single. Diagnosis: Gun shot flesh wound left leg. Conical bullet entered at union of the upper and middle third of leg passing lateral aspect obliquely and inwards to exit on the internal aspect 2 inches below head of tibia. Location Wounded: Cedar Creek, Va. Date Wounded: 1864/10/19. Nature of Wound: Conical bullet. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Hamrick, William G. </dcterms:subject>
+	<dcterms:subject>Gun shot flesh wound left leg. Conical bullet entered at union of the upper and middle third of leg passing lateral aspect obliquely and inwards to exit on the internal aspect 2 inches below head of tibia</dcterms:subject>
+	<dcterms:subject>Corporal</dcterms:subject>
+	<dcterms:subject>E</dcterms:subject>
+	<dcterms:subject>10th VA Inf [10th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 4833</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00317</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00317.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00205</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Barnes, Abel C. </dcterms:title>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Belmont Co., Ohio [Belmont County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Barnesville, Ohio</dcterms:spatial>
+	<dcterms:description>Patient Name: Barnes, Abel C. Patient Age: 23. Marital Status: Single. Diagnosis: Convalescent from U.S. Genl Hospt. Parkersburg West Virginia. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Barnes, Abel C. </dcterms:subject>
+	<dcterms:subject>Convalescent from U.S. Genl Hospt. Parkersburg West Virginia</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>G</dcterms:subject>
+	<dcterms:subject>116 O V I [116th Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 4143</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00205</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00205.jpg</edm:preview>
+</mdRecord>

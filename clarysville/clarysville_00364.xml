@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00364</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Bryan, John Henry</dcterms:title>
+	<dcterms:date>1864-11-15</dcterms:date>
+	<dcterms:date>1865-01-13</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Center Co., PA [Center County, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Roscksprings Center Co., PA [Roscksprings Center County, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Bryan, John Henry Patient Age: 18. Marital Status: Single. Diagnosis: Incomplete fracture left tibia upper third caused by his horse falling on the leg. Also orchitis right testicle. Location Wounded: Cumberland. Date Wounded: 1864/11/12. Nature of Wound: Kick [fall?] of horse. Result: Furloughed 1864/12/22. Returned 1865/01/12. Transferred to wash house. Recovery and returned to duty. </dcterms:description>
+	<dcterms:subject>Bryan, John Henry</dcterms:subject>
+	<dcterms:subject>Incomplete fracture left tibia upper third caused by his horse falling on the leg. Also orchitis right testicle</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>A</dcterms:subject>
+	<dcterms:subject>20 PA Cav [20th Pennsylvania Cavalry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 5094</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00364</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00364.jpg</edm:preview>
+</mdRecord>

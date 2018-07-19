@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00138</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Daniels, Sulivan </dcterms:title>
+	<dcterms:date>1864-07-25</dcterms:date>
+	<dcterms:date>1865-04-04</dcterms:date>
+	<dcterms:spatial>New Hampshire</dcterms:spatial>
+	<dcterms:spatial>Pecatonica, Winnebago Co., Ill [Pecatonica, Winnebago County, Illinois]</dcterms:spatial>
+	<dcterms:spatial>Pecatonica, Winnebago Co., Ill [Pecatonica, Winnebago County, Illinois]</dcterms:spatial>
+	<dcterms:description>Patient Name: Daniels, Sulivan Patient Age: 52. Marital Status: Married. Diagnosis: Contusion of the left thigh over trochanter major in action . Location Wounded: Winchester, Va [Kernstown, Va]. Date Wounded: 1864/07/24. Nature of Wound: Shell. Result: Returned to duty . </dcterms:description>
+	<dcterms:subject>Daniels, Sulivan </dcterms:subject>
+	<dcterms:subject>Contusion of the left thigh over trochanter major in action </dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>G</dcterms:subject>
+	<dcterms:subject>23 Ill Vol [23rd Illinois Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>New Hampshire</dcterms:subject>
+	<dcterms:subject>Hospital Number 3779</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00138</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00138.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00536</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Fletcher, Lester </dcterms:title>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:date>1865-05-05</dcterms:date>
+	<dcterms:spatial>New Hampshire</dcterms:spatial>
+	<dcterms:spatial>Hillsborough, Lower Villge, NH [Hillsborough, Lower Villge, New Hampshire]</dcterms:spatial>
+	<dcterms:description>Patient Name: Fletcher, Lester Patient Age: 21. Marital Status: Single. Diagnosis: Abcess on left mastoid process. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Fletcher, Lester </dcterms:subject>
+	<dcterms:subject>Abcess on left mastoid process</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>2nd Mass Cav [2nd Massachusetts Cavalry]</dcterms:subject>
+	<dcterms:subject>New Hampshire</dcterms:subject>
+	<dcterms:subject>Hospital Number 6439a</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00536</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00536.jpg</edm:preview>
+</mdRecord>

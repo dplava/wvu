@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00094</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Colville, George F.</dcterms:title>
+	<dcterms:date>1864-07-19</dcterms:date>
+	<dcterms:date>1864-10-20</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Darke Co., Ohio [Darke County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Ithaca, Darke Co., O. [Ithaca, Darke Co., Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Colville, George F. Patient Age: 19. Marital Status: Single. Diagnosis: Typhoid fever followed by anasarca. Treatment: Rx Last Potassium Aqua Fervant Drunk one part daily Rx Act. Potassium Act. Serlla Apts. Nit. Dulc. S Gen one tablespoonful every 4 hours. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Colville, George F.</dcterms:subject>
+	<dcterms:subject>Typhoid fever followed by anasarca</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>K</dcterms:subject>
+	<dcterms:subject>34 O Vol [34th Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 3526</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00094</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00094.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00375</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Walsh, Jonathan </dcterms:title>
+	<dcterms:date>1864-12-23</dcterms:date>
+	<dcterms:date>1865-01-21</dcterms:date>
+	<dcterms:spatial>Ireland</dcterms:spatial>
+	<dcterms:spatial>Chicago, Ill [Chicago, Illinois]</dcterms:spatial>
+	<dcterms:spatial>Chicago, Ill [Chicago, Illinois]</dcterms:spatial>
+	<dcterms:description>Patient Name: Walsh, Jonathan Patient Age: 32. Marital Status: Single. Diagnosis: Fracture of nasal bones from a blow from the butt of a carbine by a rebel. Physical debility: loss of sight of left eye and weakness of right eye. . Location Wounded: New Creek [West Virginia]. Date Wounded: 1864/11/28. Nature of Wound: Blow from carbine . Result: Discharged from service. </dcterms:description>
+	<dcterms:subject>Walsh, Jonathan </dcterms:subject>
+	<dcterms:subject>Fracture of nasal bones from a blow from the butt of a carbine by a rebel. Physical debility: loss of sight of left eye and weakness of right eye. </dcterms:subject>
+	<dcterms:subject>Corporal</dcterms:subject>
+	<dcterms:subject>K</dcterms:subject>
+	<dcterms:subject>23 Ill Inf [23rd Illinois Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ireland</dcterms:subject>
+	<dcterms:subject>Hospital Number 5200</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00375</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00375.jpg</edm:preview>
+</mdRecord>

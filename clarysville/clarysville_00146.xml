@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00146</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Clarke, Henry </dcterms:title>
+	<dcterms:date>1864-07-25</dcterms:date>
+	<dcterms:date>1864-10-27</dcterms:date>
+	<dcterms:spatial>Michigan</dcterms:spatial>
+	<dcterms:spatial>Knox Co., Ill [Knox County, Illinois]</dcterms:spatial>
+	<dcterms:spatial>Galesburg, Knox Co., Ill [Galesburg, Knox County, Illinois]</dcterms:spatial>
+	<dcterms:description>Patient Name: Clarke, Henry Patient Age: 17. Marital Status: Single. Diagnosis: Gun shot fracture of external and internal condyles of left arm. Wound severe. Location Wounded: Winchester, Va [Kernstown, Va]. Date Wounded: 1864/07/24. Nature of Wound: Musket ball. Treatment: Amputation of arm at middle third of humurus. Cold water dressings by irrigation: Eleven arteries ligated. Ligatures come away on the 8 and 9 days. Fungus from medulla protruded through posterior third of flaps. Escoriated and pressure. Applied with sweep.. Result: Discharged from service. Stump entirely healed and patient enjoying good health.. </dcterms:description>
+	<dcterms:subject>Clarke, Henry </dcterms:subject>
+	<dcterms:subject>Gun shot fracture of external and internal condyles of left arm. Wound severe</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>E</dcterms:subject>
+	<dcterms:subject>23 Ill Vols [23rd Illinois Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Michigan</dcterms:subject>
+	<dcterms:subject>Hospital Number 3822</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00146</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00146.jpg</edm:preview>
+</mdRecord>

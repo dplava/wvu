@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00065</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Buss, Daniel J. </dcterms:title>
+	<dcterms:date>1864-07-15</dcterms:date>
+	<dcterms:date>1864-12-14</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Northhampton Co. PA [Northhampton County, Pennsylvania ]</dcterms:spatial>
+	<dcterms:spatial>Heektown, PA [Heektown, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Buss, Daniel J. Patient Age: 26. Marital Status: Single. Diagnosis: Chronic rheumatism. Result: Cured and returned to duty. </dcterms:description>
+	<dcterms:subject>Buss, Daniel J. </dcterms:subject>
+	<dcterms:subject>Chronic rheumatism</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>H</dcterms:subject>
+	<dcterms:subject>54 Penn [54th Pennsylvania Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 3279</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00065</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00065.jpg</edm:preview>
+</mdRecord>

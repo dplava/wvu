@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00294</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Sharp, William J.</dcterms:title>
+	<dcterms:date>1864-10-17</dcterms:date>
+	<dcterms:date>1865-06-09</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>New Florence, PA [New Florence, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>St. Claire Tpt. West Moreland Co., PA [St. Claire Tpt. Westmoreland County, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Sharp, William J. Patient Age: 41. Marital Status: Married. Diagnosis: Contusion of the breast left side at the cartilage [illegible] extremities of the fifth sixth and seventh ribs, and gunshot flesh wound of back. ball entered over sphenoid process of eleventh vertebrae bullet lodged extracted on the field by Dr. Hall? Slight.. Location Wounded: Cedar Creek, Va. Date Wounded: 1864/10/15. Nature of Wound: Revolver bullet. Treatment: Contusion of the breast left side at the cartilaginous extremities of the fifth, sixth and seventh ribs and gun shot flesh wound of back. Ball entered over spinous process of eleventh vertebra. Bullet lodged. Extracted on the field by Dr. Hall. . Result: Mustered out and discharged from service. </dcterms:description>
+	<dcterms:subject>Sharp, William J.</dcterms:subject>
+	<dcterms:subject>Contusion of the breast left side at the cartilage [illegible] extremities of the fifth sixth and seventh ribs, and gunshot flesh wound of back. ball entered over sphenoid process of eleventh vertebrae bullet lodged extracted on the field by Dr. Hall? Slight.</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>A</dcterms:subject>
+	<dcterms:subject>54th PA Inf [54th Pennsylvania Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 4689</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00294</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00294.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00611</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Mathews, John </dcterms:title>
+	<dcterms:date>1865-06-08</dcterms:date>
+	<dcterms:date>1865-06-14</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Madison Co., Indiana [Madison County, Indiana]</dcterms:spatial>
+	<dcterms:spatial>Anderson, Madison Co., Ind [Anderson, Madison County, Indiana]</dcterms:spatial>
+	<dcterms:description>Patient Name: Mathews, John Patient Age: 19. Marital Status: Single. Diagnosis: Typhoid fever. Result: Mustered out and discharged from service. </dcterms:description>
+	<dcterms:subject>Mathews, John </dcterms:subject>
+	<dcterms:subject>Typhoid fever</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>F</dcterms:subject>
+	<dcterms:subject>147 Ind [147th Indiana Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 7045</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00611</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00611.jpg</edm:preview>
+</mdRecord>

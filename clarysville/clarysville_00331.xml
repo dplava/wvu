@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00331</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Rosburry, John </dcterms:title>
+	<dcterms:date>1864-10-29</dcterms:date>
+	<dcterms:date>1864-12-19</dcterms:date>
+	<dcterms:spatial>Michigan</dcterms:spatial>
+	<dcterms:spatial>Sannaute [Sanilac?]</dcterms:spatial>
+	<dcterms:spatial>Forrester Sannaute @ Michigan [possibly Forester Township in Sanilac Co.?]</dcterms:spatial>
+	<dcterms:description>Patient Name: Rosburry, John Patient Age: 19. Marital Status: Single. Diagnosis: Gunshot wound of [right] shoulder [flesh] musket bullet which entered near the axilliary border of scapula 1/2 inch from border of latissimus dorsi muscle passing a little obliquely [?]wards and forewards to exit at [word illegible] aspect of humerus [several words illegible] border of axilla. Location Wounded: Cedar Creek, Va. Date Wounded: 1864/10/19. Nature of Wound: Musket ball. Result: Cured and returned to duty. </dcterms:description>
+	<dcterms:subject>Rosburry, John </dcterms:subject>
+	<dcterms:subject>Gunshot wound of [right] shoulder [flesh] musket bullet which entered near the axilliary border of scapula 1/2 inch from border of latissimus dorsi muscle passing a little obliquely [?]wards and forewards to exit at [word illegible] aspect of humerus [several words illegible] border of axilla</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>6th Mich Cav [6th Michigan Cavalry]</dcterms:subject>
+	<dcterms:subject>Michigan</dcterms:subject>
+	<dcterms:subject>Hospital Number 4888</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00331</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00331.jpg</edm:preview>
+</mdRecord>

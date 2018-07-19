@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00540</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Lukemann, Rudolph </dcterms:title>
+	<dcterms:date>1865-04-07</dcterms:date>
+	<dcterms:date>1865-05-02</dcterms:date>
+	<dcterms:spatial>Maryland</dcterms:spatial>
+	<dcterms:spatial>Oldtown [Oldtown, Maryland]</dcterms:spatial>
+	<dcterms:spatial>Oldtown, MD [Oldtown, Maryland]</dcterms:spatial>
+	<dcterms:description>Patient Name: Lukemann, Rudolph Patient Age: 29. Marital Status: Married. Diagnosis: Acute rheumatism. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Lukemann, Rudolph </dcterms:subject>
+	<dcterms:subject>Acute rheumatism</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>D</dcterms:subject>
+	<dcterms:subject>2nd MD [2nd Maryland Infantry]</dcterms:subject>
+	<dcterms:subject>Maryland</dcterms:subject>
+	<dcterms:subject>Hospital Number 6468</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00540</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00540.jpg</edm:preview>
+</mdRecord>

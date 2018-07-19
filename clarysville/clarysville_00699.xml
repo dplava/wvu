@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00699</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Baker, Abraham </dcterms:title>
+	<dcterms:date>1864-12-14</dcterms:date>
+	<dcterms:date>1864-12-31</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Whitzel Co., VA [Whitzel County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Fishing Creek, Whitzel Co., VA [Fishing Creek, Whitzel County, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Baker, Abraham Patient Age: 32. Marital Status: Married. Diagnosis: Frost bite, both feet. While carrying a disbatch from Cumberland to Frankford on Monday nigh 1864/12/12. Treatment: Rx saturated salt, alum apploed consistently. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Baker, Abraham </dcterms:subject>
+	<dcterms:subject>Frost bite, both feet. While carrying a disbatch from Cumberland to Frankford on Monday nigh 1864/12/12</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>1st VA Inf [1st West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 8002</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00699</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00699.jpg</edm:preview>
+</mdRecord>

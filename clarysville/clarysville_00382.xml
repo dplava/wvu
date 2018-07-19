@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00382</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Nedrow, Jacob </dcterms:title>
+	<dcterms:date>1864-12-28</dcterms:date>
+	<dcterms:date>1865-04-26</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Somerset Co., PA [Somerset County, Pennylvania]</dcterms:spatial>
+	<dcterms:spatial>Somerset, Somerset Co., PA [Somerset, Somerset County, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Nedrow, Jacob Patient Age: 32. Marital Status: Married. Diagnosis: Gun shot fracture right leg by musket bullet which entered. Location Wounded: Petersburg, Va. Date Wounded: 1864/06/18. Nature of Wound: Musket ball. Result: Discharged from service . </dcterms:description>
+	<dcterms:subject>Nedrow, Jacob </dcterms:subject>
+	<dcterms:subject>Gun shot fracture right leg by musket bullet which entered</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>8th MD Infantry [8th Maryland Infantry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 5215</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00382</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00382.jpg</edm:preview>
+</mdRecord>

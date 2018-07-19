@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00351</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Cullison, John </dcterms:title>
+	<dcterms:date>1864-11-10</dcterms:date>
+	<dcterms:date>1865-03-27</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Bedford Co. PA [Bedford County PA]</dcterms:spatial>
+	<dcterms:spatial>Woodberry, PA [Woodbury, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Cullison, John Patient Age: 27. Marital Status: Married. Diagnosis: Gun shot fracture of left elbow joint entering the anterior aspect of the arm at the flexure of the joint passing downwards and outwards fracturing the condyles and the olecranon process lodging under the integuments . Location Wounded: In action at Cedar Creek, Va. Date Wounded: 1864/10/19. Nature of Wound: Musket ball. Result: Discharged from service. </dcterms:description>
+	<dcterms:subject>Cullison, John </dcterms:subject>
+	<dcterms:subject>Gun shot fracture of left elbow joint entering the anterior aspect of the arm at the flexure of the joint passing downwards and outwards fracturing the condyles and the olecranon process lodging under the integuments </dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>M</dcterms:subject>
+	<dcterms:subject>22 PA Cav [22nd Pennsylvania Cavalry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 5068</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00351</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00351.jpg</edm:preview>
+</mdRecord>

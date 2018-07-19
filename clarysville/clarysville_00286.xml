@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00286</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Wells, Cornelius E.</dcterms:title>
+	<dcterms:date>1864-10-17</dcterms:date>
+	<dcterms:date>1865-04-06</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Pleasants Co., VA [Pleasants County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>St. Marys VA [St. Marys, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Wells, Cornelius E. Patient Age: 33. Marital Status: Married. Diagnosis: Gun shot fracture of left hand. Ball entered palm side half inch above the metacarpal phalangeal articulations of the middle ring and little fingers. Exit at the articulation of [illegible] the ligaments of joints. With fracture of metacarpal bones of fingers. Location Wounded: Cedar Creek, Va. Date Wounded: 1864/10/13. Nature of Wound: Conical bullet. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Wells, Cornelius E.</dcterms:subject>
+	<dcterms:subject>Gun shot fracture of left hand. Ball entered palm side half inch above the metacarpal phalangeal articulations of the middle ring and little fingers. Exit at the articulation of [illegible] the ligaments of joints. With fracture of metacarpal bones of fingers</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>A</dcterms:subject>
+	<dcterms:subject>15 W VA Inf [15th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 4600</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00286</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00286.jpg</edm:preview>
+</mdRecord>

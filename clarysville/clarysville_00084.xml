@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00084</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Swisher, James P.</dcterms:title>
+	<dcterms:date>1864-07-17</dcterms:date>
+	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Lewis Co., VA [Lewis County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Janlew, Lewis Co., VA [Jane Lew, Lewis County, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Swisher, James P. Patient Age: 19. Marital Status: Single. Diagnosis: Acute diarrhoea [diarrhea]. Result: Returned to duty . </dcterms:description>
+	<dcterms:subject>Swisher, James P.</dcterms:subject>
+	<dcterms:subject>Acute diarrhoea [diarrhea]</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>K</dcterms:subject>
+	<dcterms:subject>15 VA Vol Inf [15th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 3398b</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00084</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00084.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00234</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for St. John, Sylvannis </dcterms:title>
+	<dcterms:date>1864-09-02</dcterms:date>
+	<dcterms:date>1865-01-16</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Warren Co., PA [Warren County, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: St. John, Sylvannis Patient Age: 30. Marital Status: Married. Diagnosis: Asthma. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>St. John, Sylvannis </dcterms:subject>
+	<dcterms:subject>Asthma</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>S</dcterms:subject>
+	<dcterms:subject>16 PA Vol Cav [16th Pennsylvania Volunteer Cavalry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 4314</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00234</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00234.jpg</edm:preview>
+</mdRecord>

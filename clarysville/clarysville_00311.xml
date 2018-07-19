@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00311</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Cherington, David W. </dcterms:title>
+	<dcterms:date>1864-10-29</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Jackson Co., O [Jackson County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Camba, Jackson Co., O [Camba, Jackson County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Cherington, David W. Patient Age: 30. Marital Status: Married. Diagnosis: Gun shot fracture of internal condyle of right femer [femur]. Ball entered in poplatial [popliteal] space and lodged in internal condyle comminuting the internal condyle. . Location Wounded: Fisher's Hill, Va. Date Wounded: 1864/09/22. Nature of Wound: Conical bullet. Treatment: Amputation [1864] 09/22 on the field. Middle third of thigh. Simple dressing. Stump healed.. Result: Transferred to US Genl Hospital Gallipolis 1864/12/06. </dcterms:description>
+	<dcterms:subject>Cherington, David W. </dcterms:subject>
+	<dcterms:subject>Gun shot fracture of internal condyle of right femer [femur]. Ball entered in poplatial [popliteal] space and lodged in internal condyle comminuting the internal condyle. </dcterms:subject>
+	<dcterms:subject>Bugler</dcterms:subject>
+	<dcterms:subject>H</dcterms:subject>
+	<dcterms:subject>2 VA Cav [2nd West Virginia Cavalry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 4822</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00311</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00311.jpg</edm:preview>
+</mdRecord>

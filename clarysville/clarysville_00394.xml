@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00394</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Terl, Daniel </dcterms:title>
+	<dcterms:date>1865-01-28</dcterms:date>
+	<dcterms:date>1865-02-02</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Meigs County, Ohio [Meigs County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Journey, Meigs Co., Ohio [Journey, Meigs County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Terl, Daniel Patient Age: 20. Marital Status: Single. Diagnosis: Gun shot fracture left hand. Location Wounded: Snickers Ford. Date Wounded: 1864/07/19. Nature of Wound: Musket ball. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Terl, Daniel </dcterms:subject>
+	<dcterms:subject>Gun shot fracture left hand</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>H</dcterms:subject>
+	<dcterms:subject>2nd VA Vets [2nd West Virginian Veteran Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 5284</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00394</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00394.jpg</edm:preview>
+</mdRecord>

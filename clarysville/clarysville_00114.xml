@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00114</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Godfrey, Augustus </dcterms:title>
+	<dcterms:date>1864-07-23</dcterms:date>
+	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Wyoming Co., VA [Wyoming County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Camp Pratt, Kanawha Co., VA [Camp Pratt, kanawha County, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Godfrey, Augustus Patient Age: 17. Marital Status: Single. Diagnosis: Partial loss of sight by splinters from his own gun which was struck by bullet from the gun of his comrade in an attempt to kill. Penetrating the coats of the right eye- thereby injurying [injuring] the lens of eye. Location Wounded: While guarding prisoners from Winchester to Cumberland . Date Wounded: 1864/07/23. Nature of Wound: Splinters from breech of gun. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Godfrey, Augustus </dcterms:subject>
+	<dcterms:subject>Partial loss of sight by splinters from his own gun which was struck by bullet from the gun of his comrade in an attempt to kill. Penetrating the coats of the right eye- thereby injurying [injuring] the lens of eye</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>B</dcterms:subject>
+	<dcterms:subject>34 O V I [34th Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 3662</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00114</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00114.jpg</edm:preview>
+</mdRecord>

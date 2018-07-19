@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00107</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Frum, Samuel B.</dcterms:title>
+	<dcterms:date>1864-07-23</dcterms:date>
+	<dcterms:date>1864-10-24</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Mongalia Co., VA [Monongalia County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Pleasant Valley, VA [Pleasant Valley, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Frum, Samuel B. Patient Age: 20. Marital Status: Single. Diagnosis: Gun shot wound (flesh) left shoulder deltoid muscle 1/4 in or less outside acromion process from before backward in battle. Location Wounded: Winchester, Va. Date Wounded: 1864/07/20. Nature of Wound: Musket ball. Treatment: Simple dref[s]sings. Result: Transferred to Washington City by order of Board of Inspections for Hospitals. </dcterms:description>
+	<dcterms:subject>Frum, Samuel B.</dcterms:subject>
+	<dcterms:subject>Gun shot wound (flesh) left shoulder deltoid muscle 1/4 in or less outside acromion process from before backward in battle</dcterms:subject>
+	<dcterms:subject>Corporal</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>14 VA Vols [14th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 3589</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00107</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00107.jpg</edm:preview>
+</mdRecord>

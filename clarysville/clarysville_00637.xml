@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00637</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Smith, William </dcterms:title>
+	<dcterms:date>1865-06-30</dcterms:date>
+	<dcterms:date>1865-06-30</dcterms:date>
+	<dcterms:spatial>Kentucky</dcterms:spatial>
+	<dcterms:spatial>Montgomery Co., Ind [Montgomery County, Indiana]</dcterms:spatial>
+	<dcterms:spatial>Crawfordsville, Montgomery Co., Ind [Crawfordsville, Montgomery County, Indiana]</dcterms:spatial>
+	<dcterms:description>Patient Name: Smith, William Patient Age: 24. Marital Status: Single. Diagnosis: Typho malarial fever having ben six [sick] ten days before admission. Result: Died of inflammation of the brian. </dcterms:description>
+	<dcterms:subject>Smith, William </dcterms:subject>
+	<dcterms:subject>Typho malarial fever having ben six [sick] ten days before admission</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>K</dcterms:subject>
+	<dcterms:subject>154 Ind Inf [154th Indiana Infantry]</dcterms:subject>
+	<dcterms:subject>Kentucky</dcterms:subject>
+	<dcterms:subject>Hospital Number 7179</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00637</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00637.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00736</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Leaver, George W. </dcterms:title>
+	<dcterms:date>1864-07-29</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Scioto Co., Ohio [Scioto County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Harison Mills, Scioto Co., Ohio [Harrison Mills, Scioto County, Ohio] </dcterms:spatial>
+	<dcterms:description>Patient Name: Leaver, George W. Patient Age: 25. Marital Status: Single. Diagnosis: Thoracic aneurism. Result: Transferred to US Genl Hospital 1864/12/29 Galliapolis Ohio. Died in a short time afterward. Rupture of aneurismal sack [sac]. </dcterms:description>
+	<dcterms:subject>Leaver, George W. </dcterms:subject>
+	<dcterms:subject>Thoracic aneurism</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>F</dcterms:subject>
+	<dcterms:subject>91 Ohio Vols [91st Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 3898</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00736</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00736.jpg</edm:preview>
+</mdRecord>

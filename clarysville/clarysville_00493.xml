@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00493</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Steans, John C.</dcterms:title>
+	<dcterms:date>1865-04-04</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Vermont</dcterms:spatial>
+	<dcterms:spatial>Bengor, Maine [Bangor, Maine]</dcterms:spatial>
+	<dcterms:spatial>Bengor, Maine [Bangor, Maine]</dcterms:spatial>
+	<dcterms:description>Patient Name: Steans, John C. Patient Age: 38. Marital Status: Married. Diagnosis: Fever and ague. </dcterms:description>
+	<dcterms:subject>Steans, John C.</dcterms:subject>
+	<dcterms:subject>Fever and ague</dcterms:subject>
+	<dcterms:subject>Sergeant</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>1st US V V [1st United States Veteran Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Vermont</dcterms:subject>
+	<dcterms:subject>Hospital Number 5929</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00493</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00493.jpg</edm:preview>
+</mdRecord>

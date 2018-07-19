@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00658</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Painter, Milton </dcterms:title>
+	<dcterms:date>1865-07-13</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Indiana</dcterms:spatial>
+	<dcterms:spatial>Kosciuko Co., Indiana [Kosciusko Co., Indiana]</dcterms:spatial>
+	<dcterms:spatial>Warsaw, Kosciuko Co., Ind [Warsaw, Kosciusko Co., Indiana]</dcterms:spatial>
+	<dcterms:description>Patient Name: Painter, Milton Patient Age: 21. Marital Status: Single. Diagnosis: Chronic rheumatism. </dcterms:description>
+	<dcterms:subject>Painter, Milton </dcterms:subject>
+	<dcterms:subject>Chronic rheumatism</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>D</dcterms:subject>
+	<dcterms:subject>152 Ind [152nd Indiana Infantry]</dcterms:subject>
+	<dcterms:subject>Indiana</dcterms:subject>
+	<dcterms:subject>Hospital Number 7304</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00658</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00658.jpg</edm:preview>
+</mdRecord>

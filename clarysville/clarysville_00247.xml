@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00247</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Dill, John </dcterms:title>
+	<dcterms:date>1864-09-10</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Preston Co., W VA [Preston County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Reedsville, Preston Co., VA [Reedsville, Boston County, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Dill, John Patient Age: 27. Marital Status: Married. Diagnosis: Sub acute inflamation of lungs. Result: Transferred to Genl Hospital Grafton 1864/09/24. </dcterms:description>
+	<dcterms:subject>Dill, John </dcterms:subject>
+	<dcterms:subject>Sub acute inflamation of lungs</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>B</dcterms:subject>
+	<dcterms:subject>14 VA Inf [14th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 4395</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00247</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00247.jpg</edm:preview>
+</mdRecord>

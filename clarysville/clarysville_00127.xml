@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00127</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Rogers, Eli </dcterms:title>
+	<dcterms:date>1864-07-23</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Rone Co., VA [Roane County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Spencer, Rone Co., VA [Spencer, Roane County, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Rogers, Eli Patient Age: 19. Marital Status: Single. Diagnosis: Gun shot flesh wound of right side. Bullet entering 6 inches below right nipple and 2 inches to the right of the inner border of the cartilage of ribs passing between integuments and ribs. Direction outward to exit 3 inches above crest of illium [ilium]. From entrance to exit 5 inches. . Location Wounded: In act[ion] at Winchester, Va. Date Wounded: 1864/07/20. Nature of Wound: Bullet. Result: Tranferred to Parkersburg 1864/09/24. </dcterms:description>
+	<dcterms:subject>Rogers, Eli </dcterms:subject>
+	<dcterms:subject>Gun shot flesh wound of right side. Bullet entering 6 inches below right nipple and 2 inches to the right of the inner border of the cartilage of ribs passing between integuments and ribs. Direction outward to exit 3 inches above crest of illium [ilium]. From entrance to exit 5 inches. </dcterms:subject>
+	<dcterms:subject>Corporal</dcterms:subject>
+	<dcterms:subject>B</dcterms:subject>
+	<dcterms:subject>9 V V I [9th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 3689</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00127</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00127.jpg</edm:preview>
+</mdRecord>

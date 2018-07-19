@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00055</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Ackley, Benjamin </dcterms:title>
+	<dcterms:date>1864-07-13</dcterms:date>
+	<dcterms:date>1864-08-12</dcterms:date>
+	<dcterms:spatial>New Jersey</dcterms:spatial>
+	<dcterms:spatial>Philadelphia, PA [Philadelphia, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Philadelphia, PA [Philadelphia, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Ackley, Benjamin Patient Age: 39. Marital Status: Married. Diagnosis: Intermittent fever tertian. Result: Cured and returned to duty this day. </dcterms:description>
+	<dcterms:subject>Ackley, Benjamin </dcterms:subject>
+	<dcterms:subject>Intermittent fever tertian</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>54 PA I [54th Pennsylvania Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>New Jersey</dcterms:subject>
+	<dcterms:subject>Hospital Number 3196</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00055</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00055.jpg</edm:preview>
+</mdRecord>

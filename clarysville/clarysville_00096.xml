@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00096</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Murray, Patric </dcterms:title>
+	<dcterms:date>1864-07-24</dcterms:date>
+	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:spatial>Ireland</dcterms:spatial>
+	<dcterms:spatial>Cincinnati City [Cincinnati, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Machester Hillsburg Co. VA [Manchester, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Murray, Patric Patient Age: 50. Marital Status: Single. Diagnosis: Acute diarrhoea [diarrhea]. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Murray, Patric </dcterms:subject>
+	<dcterms:subject>Acute diarrhoea [diarrhea]</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>G</dcterms:subject>
+	<dcterms:subject>34 O [34th Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ireland</dcterms:subject>
+	<dcterms:subject>Hospital Number 3536</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00096</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00096.jpg</edm:preview>
+</mdRecord>

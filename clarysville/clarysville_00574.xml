@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00574</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Wilson, Samuel </dcterms:title>
+	<dcterms:date>1865-05-12</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>New York</dcterms:spatial>
+	<dcterms:spatial>Fulton Co., NY [Fulton County, New York]</dcterms:spatial>
+	<dcterms:spatial>Vails Mills, Fulton Co., NY [Vails Mills, Fulton County, New York]</dcterms:spatial>
+	<dcterms:description>Patient Name: Wilson, Samuel Patient Age: 18. Marital Status: Single. Diagnosis: Convalescent from measles. Result: Furlough from 1865/06/28 and reported to mustering officer Albany NY 1865/07/10. </dcterms:description>
+	<dcterms:subject>Wilson, Samuel </dcterms:subject>
+	<dcterms:subject>Convalescent from measles</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>H</dcterms:subject>
+	<dcterms:subject>192nd Inf [192nd New York Infantry? - see administrative notes]</dcterms:subject>
+	<dcterms:subject>New York</dcterms:subject>
+	<dcterms:subject>Hospital Number 6775</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00574</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00574.jpg</edm:preview>
+</mdRecord>

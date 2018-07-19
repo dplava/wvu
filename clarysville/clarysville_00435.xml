@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00435</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Robinson , John C.</dcterms:title>
+	<dcterms:date>1865-03-15</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Illinois</dcterms:spatial>
+	<dcterms:spatial>Adams Co., Ill [Adams County, Illinois]</dcterms:spatial>
+	<dcterms:spatial>Columbus, Adams Co., Ill [Columus, Adams County, Illinois]</dcterms:spatial>
+	<dcterms:description>Patient Name: Robinson , John C. Patient Age: 30. Marital Status: Married. Diagnosis: Debility from nutritions while a prisoner. Was a prisoner for 17 months! An escaped prisoner, lost out in the swamps two days and nights before he got into union lines!. Result: Transferred to Camp Chase 1865/04/03. </dcterms:description>
+	<dcterms:subject>Robinson , John C.</dcterms:subject>
+	<dcterms:subject>Debility from nutritions while a prisoner. Was a prisoner for 17 months! An escaped prisoner, lost out in the swamps two days and nights before he got into union lines!</dcterms:subject>
+	<dcterms:subject>Corporal</dcterms:subject>
+	<dcterms:subject>F</dcterms:subject>
+	<dcterms:subject>78 Ill Inf [78th Illinois Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Illinois</dcterms:subject>
+	<dcterms:subject>Hospital Number 5575</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00435</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00435.jpg</edm:preview>
+</mdRecord>

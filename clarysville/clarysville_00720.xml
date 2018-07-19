@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00720</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Gephart, Charles W. </dcterms:title>
+	<dcterms:date>1864-08-25</dcterms:date>
+	<dcterms:date>1864-10-26</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Cumberland, MD [Cumberland, Maryland]</dcterms:spatial>
+	<dcterms:spatial>Cumberland, MD [Cumberland, Maryland]</dcterms:spatial>
+	<dcterms:description>Patient Name: Gephart, Charles W. Patient Age: 52. Marital Status: Married. Diagnosis: Dropsey [dropsy] of abdomen. Result: Returned to duty by order hospital inspecting board. </dcterms:description>
+	<dcterms:subject>Gephart, Charles W. </dcterms:subject>
+	<dcterms:subject>Dropsey [dropsy] of abdomen</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>B</dcterms:subject>
+	<dcterms:subject>2nd MD Inf [2nd Maryland Infantry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 8023</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00720</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00720.jpg</edm:preview>
+</mdRecord>

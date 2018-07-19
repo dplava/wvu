@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00396</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Chapman, Collins </dcterms:title>
+	<dcterms:date>1865-01-28</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Wayne Co., Ohio [Wayne County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Orrville, Wayne Co., Ohio [Orrville, Wayne County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Chapman, Collins Patient Age: 18. Marital Status: Single. Diagnosis: Acute bronchitis. Result: Furloughed 1865/05/04. Report to chief mustering officer Columus O [Ohio]. </dcterms:description>
+	<dcterms:subject>Chapman, Collins </dcterms:subject>
+	<dcterms:subject>Acute bronchitis</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>G</dcterms:subject>
+	<dcterms:subject>28 O V I [28th Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 5286</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00396</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00396.jpg</edm:preview>
+</mdRecord>

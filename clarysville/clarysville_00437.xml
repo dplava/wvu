@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00437</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Burns, Sampson </dcterms:title>
+	<dcterms:date>1865/03</dcterms:date>
+	<dcterms:date>1865-04-06</dcterms:date>
+	<dcterms:spatial>Indiana</dcterms:spatial>
+	<dcterms:spatial>Shelby Co., Indiana [Shelby County, Indiana]</dcterms:spatial>
+	<dcterms:spatial>Flat Rock, Shelby Co., Ind [Flat Rock, Shelby County, Indiana]</dcterms:spatial>
+	<dcterms:description>Patient Name: Burns, Sampson Patient Age: 37. Marital Status: Married. Diagnosis: Convalescent from measles. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Burns, Sampson </dcterms:subject>
+	<dcterms:subject>Convalescent from measles</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>A</dcterms:subject>
+	<dcterms:subject>146 Ind Inf [146th Indiana Infantry]</dcterms:subject>
+	<dcterms:subject>Indiana</dcterms:subject>
+	<dcterms:subject>Hospital Number 5581</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00437</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00437.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00424</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Floro, Zachariah C.</dcterms:title>
+	<dcterms:date>1865-03-07</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Cermont Co., O [Clermont County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Pt. Pleasant [Pt. Pleasant, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Floro, Zachariah C. Patient Age: 37. Marital Status: Married. Diagnosis: Gun shot fracture left arm. Also fracture of the cartilage sternal extremity of the 2 and fracture of center third of the 3 rib caused by cars. Location Wounded: Charlestown, VA near Martinsburg [Charles Town, WV. Date Wounded: 1864/02/11. Nature of Wound: Conical bullet. Result: Deserted 1865/05/08. Committed a rape on a woman near Pompy Smash. . </dcterms:description>
+	<dcterms:subject>Floro, Zachariah C.</dcterms:subject>
+	<dcterms:subject>Gun shot fracture left arm. Also fracture of the cartilage sternal extremity of the 2 and fracture of center third of the 3 rib caused by cars</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>A</dcterms:subject>
+	<dcterms:subject>36th O V I [36th Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 5498</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00424</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00424.jpg</edm:preview>
+</mdRecord>

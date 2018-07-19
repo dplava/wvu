@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00742</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Baldwin, William H.</dcterms:title>
+	<dcterms:date>1864-08-01</dcterms:date>
+	<dcterms:date>1864-09-28</dcterms:date>
+	<dcterms:spatial>Maryland</dcterms:spatial>
+	<dcterms:spatial>Crawford Co., MD [Crawford County, Maryland]</dcterms:spatial>
+	<dcterms:spatial>Balls Ferry, MD [Balls Ferry, Maryland]</dcterms:spatial>
+	<dcterms:description>Patient Name: Baldwin, William H. Patient Age: 21. Marital Status: Single. Diagnosis: Chronic rheumatism. Treatment: Iodide potassium saturated solution [word illegible] tablespoonful with 30 [chaps?] [illegible] 3 times per day. . Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Baldwin, William H.</dcterms:subject>
+	<dcterms:subject>Chronic rheumatism</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>B</dcterms:subject>
+	<dcterms:subject>1 MD Infantry [1st Maryland Infantry]</dcterms:subject>
+	<dcterms:subject>Maryland</dcterms:subject>
+	<dcterms:subject>Hospital Number 3932</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00742</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00742.jpg</edm:preview>
+</mdRecord>

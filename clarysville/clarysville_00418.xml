@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00418</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Williams, John W. </dcterms:title>
+	<dcterms:date>1865-03-07</dcterms:date>
+	<dcterms:date>1865-05-29</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Athens Co., O [Athens County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Lee, Athens Co., O [Lee, Athens County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Williams, John W. Patient Age: 19. Marital Status: Single. Diagnosis: Gun shot fracture of 9 and 10 ribs . Location Wounded: In action at Opequan, Va. Date Wounded: 1864/09/19. Nature of Wound: Musket ball. Result: Discharged from service. </dcterms:description>
+	<dcterms:subject>Williams, John W. </dcterms:subject>
+	<dcterms:subject>Gun shot fracture of 9 and 10 ribs </dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>C</dcterms:subject>
+	<dcterms:subject>36th O V I [36th Ohio Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 5483</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00418</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00418.jpg</edm:preview>
+</mdRecord>

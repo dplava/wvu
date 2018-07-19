@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00095</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Nonnemacher [Nunnemacker], Uriah G.</dcterms:title>
+	<dcterms:date>1864-07-15</dcterms:date>
+	<dcterms:date>1864-10-01</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Lehigh Co., PA [Lehigh County, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Allentown, Lehigh Co., PA [Allentown, Lehigh County, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Nonnemacher [Nunnemacker], Uriah G. Patient Age: 19. Marital Status: Single. Diagnosis: Amputation of little finger left hand from gun shot wound. Location Wounded: Cloyd's Mountain [Virginia]. Date Wounded: 1864/05/09 in action. Nature of Wound: Musket ball. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Nonnemacher [Nunnemacker], Uriah G.</dcterms:subject>
+	<dcterms:subject>Amputation of little finger left hand from gun shot wound</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>M</dcterms:subject>
+	<dcterms:subject>54 PA Vols [54th Pennsylvania Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 3531</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00095</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00095.jpg</edm:preview>
+</mdRecord>

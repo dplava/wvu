@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00694</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Mullet, Michael </dcterms:title>
+	<dcterms:date>1865-07-20</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>New York</dcterms:spatial>
+	<dcterms:spatial>Philadelphia, PA [Philadelphia, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Philadelphia [Philadelphia, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Mullet, Michael Patient Age: 30. Marital Status: Single. Diagnosis: Contusion of left hip from the kick of a horse. </dcterms:description>
+	<dcterms:subject>Mullet, Michael </dcterms:subject>
+	<dcterms:subject>Contusion of left hip from the kick of a horse</dcterms:subject>
+	<dcterms:subject>Sergeant</dcterms:subject>
+	<dcterms:subject>L</dcterms:subject>
+	<dcterms:subject>18 PA Cav [18th Pennsylvania Cavalry]</dcterms:subject>
+	<dcterms:subject>New York</dcterms:subject>
+	<dcterms:subject>Hospital Number 7471</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00694</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00694.jpg</edm:preview>
+</mdRecord>

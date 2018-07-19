@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00197</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Luce, Samuel W. </dcterms:title>
+	<dcterms:date>1864-08-12</dcterms:date>
+	<dcterms:date>1864-12-05</dcterms:date>
+	<dcterms:spatial>Maryland</dcterms:spatial>
+	<dcterms:spatial>Geneseo, Livingston Co., NY [Geneseo, Livingston County, New York]</dcterms:spatial>
+	<dcterms:spatial>Geneseo, Livingston Co., NY [Geneseo, Livingston County, New York]</dcterms:spatial>
+	<dcterms:description>Patient Name: Luce, Samuel W. Patient Age: 24. Marital Status: Married. Diagnosis: Gun shot wound of right index finger fracturing distal phalangeal bone. Amputated on the field at the distal joint wound. Doing well . Location Wounded: In action at Hancock, MD. Date Wounded: 1864/08/06. Nature of Wound: Conical bullet. Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Luce, Samuel W. </dcterms:subject>
+	<dcterms:subject>Gun shot wound of right index finger fracturing distal phalangeal bone. Amputated on the field at the distal joint wound. Doing well </dcterms:subject>
+	<dcterms:subject>Sergeant</dcterms:subject>
+	<dcterms:subject>D</dcterms:subject>
+	<dcterms:subject>1st NY Vol Cav [1st New York Volunteer Cavalry]</dcterms:subject>
+	<dcterms:subject>Maryland</dcterms:subject>
+	<dcterms:subject>Hospital Number 4098</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00197</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00197.jpg</edm:preview>
+</mdRecord>

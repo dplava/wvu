@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00078</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Robson, Mark  E.</dcterms:title>
+	<dcterms:date>1865-02-16</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Kanawha Co., VA [Kanawha County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Charleston, VA [Charleston, West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Robson, Mark E. Patient Age: 21. Marital Status: Single. Diagnosis: Typhoid fever. Result: Died 1865/02/20. </dcterms:description>
+	<dcterms:subject>Robson, Mark  E.</dcterms:subject>
+	<dcterms:subject>Typhoid fever</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>13th VA Inf [13th West Virginian Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>13th VA Inf [13th West Virginian Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 3352</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00078</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00078.jpg</edm:preview>
+</mdRecord>

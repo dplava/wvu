@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00624</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Williams, W. S. </dcterms:title>
+	<dcterms:date>1865-06-16</dcterms:date>
+	<dcterms:date>1865-06-21</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Crawford Co., PA [Crawford County, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>West Greenwood, Crawford Co., PA [West Greenwood, Crawford County, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Williams, W. S. Patient Age: 29. Marital Status: Single. Diagnosis: Conv [convalescent] from acute diarrhoea [diarrhea]. Result: Mustered out and discharged from service. </dcterms:description>
+	<dcterms:subject>Williams, W. S. </dcterms:subject>
+	<dcterms:subject>Conv [convalescent] from acute diarrhoea [diarrhea]</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>B</dcterms:subject>
+	<dcterms:subject>18 PA Cav [18th Pennsylvania Cavalry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 7156</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00624</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00624.jpg</edm:preview>
+</mdRecord>

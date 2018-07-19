@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00209</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Davis, William E.</dcterms:title>
+	<dcterms:date>1864-08-13</dcterms:date>
+	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Dodridge Co., VA [Doddridge County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Buford, Dodridge Co., VA [Buford, Doddridge County, West Virginia] </dcterms:spatial>
+	<dcterms:description>Patient Name: Davis, William E. Patient Age: 33. Marital Status: Married. Diagnosis: Chronic inflamation lungs, gonorhoea [gonorrhea]. Result: Cured and returned to duty. </dcterms:description>
+	<dcterms:subject>Davis, William E.</dcterms:subject>
+	<dcterms:subject>Chronic inflamation lungs, gonorhoea [gonorrhea]</dcterms:subject>
+	<dcterms:subject>D Sgt [Drill Sergeant]</dcterms:subject>
+	<dcterms:subject>M</dcterms:subject>
+	<dcterms:subject>6 VA Vol [6th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 4163</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00209</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00209.jpg</edm:preview>
+</mdRecord>

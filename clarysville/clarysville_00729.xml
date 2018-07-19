@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00729</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Strong, John G.</dcterms:title>
+	<dcterms:date>1864-08-25</dcterms:date>
+	<dcterms:date>1865-03-29</dcterms:date>
+	<dcterms:spatial>Maine</dcterms:spatial>
+	<dcterms:spatial>Cattaraugus Co., NY [Cattaraugus County, New York]</dcterms:spatial>
+	<dcterms:spatial>Sartwell, McKean County, Pennsylvania</dcterms:spatial>
+	<dcterms:description>Patient Name: Strong, John G. Patient Age: 27. Marital Status: Single. Diagnosis: Intermittent fever quotidian . Result: Returned to duty. </dcterms:description>
+	<dcterms:subject>Strong, John G.</dcterms:subject>
+	<dcterms:subject>Intermittent fever quotidian </dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>Signal Corps</dcterms:subject>
+	<dcterms:subject>Maine</dcterms:subject>
+	<dcterms:subject>Hospital Number 8032</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00729</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00729.jpg</edm:preview>
+</mdRecord>

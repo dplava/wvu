@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00315</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Hanlin, Tarlton </dcterms:title>
+	<dcterms:date>1864-10-29</dcterms:date>
+	<dcterms:date>1865-02-28</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Tyler Co., W VA [Tyler County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Hebron, Pleasants Co., W Va [Hebron, Pleasants Co., West Virginia]</dcterms:spatial>
+	<dcterms:description>Patient Name: Hanlin, Tarlton Patient Age: 22. Marital Status: Single. Diagnosis: Gun shot fracture of right leg. Location Wounded: In act[ion] at Winchester, Va. Date Wounded: 1864/09/19. Nature of Wound: Conical bullet. Result: Transferred to US General Hospital Philadelphia Pa May 6th 1865. </dcterms:description>
+	<dcterms:subject>Hanlin, Tarlton </dcterms:subject>
+	<dcterms:subject>Gun shot fracture of right leg</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>E</dcterms:subject>
+	<dcterms:subject>10th W VA Inf [10th West Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 4827</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00315</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00315.jpg</edm:preview>
+</mdRecord>

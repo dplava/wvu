@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00089</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Harrison, Joseph </dcterms:title>
+	<dcterms:date>1864-07-18</dcterms:date>
+	<dcterms:date>1864-09-25</dcterms:date>
+	<dcterms:spatial>Virginia</dcterms:spatial>
+	<dcterms:spatial>Putnam Co., VA [Putnam County, West Virginina]</dcterms:spatial>
+	<dcterms:spatial>Red House, Putnam Co., VA [Red House, Putnam County, West Virginina]</dcterms:spatial>
+	<dcterms:description>Patient Name: Harrison, Joseph Patient Age: 26. Marital Status: Married. Diagnosis: Chronic rheumatism. Result: Transferred to Parkersburg 1864/09/25. </dcterms:description>
+	<dcterms:subject>Harrison, Joseph </dcterms:subject>
+	<dcterms:subject>Chronic rheumatism</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>K</dcterms:subject>
+	<dcterms:subject>13 VA Inf [13th West Virginian Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>Virginia</dcterms:subject>
+	<dcterms:subject>Hospital Number 3470</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00089</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00089.jpg</edm:preview>
+</mdRecord>

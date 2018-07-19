@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00314</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Alben, John </dcterms:title>
+	<dcterms:date>1864-10-29</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Springfield, O [Springfield, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Piqua, Miami Co. [Piqua, Miami County, Ohio]</dcterms:spatial>
+	<dcterms:description>Patient Name: Alben, John Patient Age: 24. Marital Status: Single. Diagnosis: Gun shot flesh wound left foot. Musket bullit [bullet] entered about middle of the metatarsal bone of the second toe passing obliquely backward about to inches to a rest over the head of the metatarsal bone of the great toe. Integuments lacerated. Location Wounded: Cedar Creek, Va. Date Wounded: 1864/10/19. Nature of Wound: Musket ball. Treatment: Saber wound of middle finger of right hand. Received in action Beverley Ford, VA 1864/06/09 - involving the proxymal [proximal] joint and extending to the second joint of the finger severing the external tendon of the finger ensuring loss of use of the finger . </dcterms:description>
+	<dcterms:subject>Alben, John </dcterms:subject>
+	<dcterms:subject>Gun shot flesh wound left foot. Musket bullit [bullet] entered about middle of the metatarsal bone of the second toe passing obliquely backward about to inches to a rest over the head of the metatarsal bone of the great toe. Integuments lacerated</dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>M</dcterms:subject>
+	<dcterms:subject>2 US Cav [2nd United States Cavalry]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 4825</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00314</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00314.jpg</edm:preview>
+</mdRecord>

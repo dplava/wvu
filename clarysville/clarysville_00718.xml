@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00718</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Neechy, Sandsly </dcterms:title>
+	<dcterms:date>1865-06-16</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Green Co., PA [Greene County, Pennsylvania]</dcterms:spatial>
+	<dcterms:description>Patient Name: Neechy, Sandsly Patient Age: 19. Marital Status: Single. Diagnosis: Imbecile . Result: Left the hospital before daylight on 1865/07/17. </dcterms:description>
+	<dcterms:subject>Neechy, Sandsly </dcterms:subject>
+	<dcterms:subject>Imbecile </dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>18th PA Cav [18th Pennsylvania Cavalry]</dcterms:subject>
+	<dcterms:subject>Pennsylvania</dcterms:subject>
+	<dcterms:subject>Hospital Number 8021</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00718</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00718.jpg</edm:preview>
+</mdRecord>

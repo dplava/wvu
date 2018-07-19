@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>clarysville_00511</dcterms:identifier>
+	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
+	<dcterms:title>Patient Record for Dick,  </dcterms:title>
+	<dcterms:date>1865-04-05</dcterms:date>
+	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:spatial>Ohio</dcterms:spatial>
+	<dcterms:spatial>Delaware Co., Indiana [Delaware County, Indiana]</dcterms:spatial>
+	<dcterms:spatial>Granville, Delaware Co., Indiana [Granville, Delaware County, Indiana]</dcterms:spatial>
+	<dcterms:description>Patient Name: Dick, Patient Age: 25. Marital Status: Married. Diagnosis: Convalescent from erysipelas . Result: Deserted 1865/05/08. Was with Florance Bishop and assisted in committing a rape on a woman Mrs. Pompry. </dcterms:description>
+	<dcterms:subject>Dick,  </dcterms:subject>
+	<dcterms:subject>Convalescent from erysipelas </dcterms:subject>
+	<dcterms:subject>Private</dcterms:subject>
+	<dcterms:subject>B</dcterms:subject>
+	<dcterms:subject>147 [147th Indiana Infantry? - see administrative notes]</dcterms:subject>
+	<dcterms:subject>Ohio</dcterms:subject>
+	<dcterms:subject>Hospital Number 6127</dcterms:subject>
+	<dcterms:type>Image</dcterms:type>
+	<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAt>http://clarysville.lib.wvu.edu/record/clarysville_00511</edm:isShownAt>
+	<edm:preview>http://clarysville.lib.wvu.edu/image/front/clarysville_00511.jpg</edm:preview>
+</mdRecord>
