@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00603</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Butler, Albert </dcterms:title>
-	<dcterms:date>1865-06-06</dcterms:date>
-	<dcterms:date>1865-06-13</dcterms:date>
+	<dcterms:created>1865-06-06</dcterms:created>
+	<dcterms:created>1865-06-13</dcterms:created>
 	<dcterms:spatial>Maryland</dcterms:spatial>
 	<dcterms:spatial>Baltimore [Baltimore, Maryland]</dcterms:spatial>
 	<dcterms:spatial>85 North Oregon Street, Baltimore [85 North Oregon Street, Baltimore, Maryland]</dcterms:spatial>

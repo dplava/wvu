@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00494</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Heudal, Francis </dcterms:title>
-	<dcterms:date>1865-04-04</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1865-04-04</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
-	<dcterms:spatial>Elmore, NY [Elmore, New York]</dcterms:spatial>
-	<dcterms:spatial>Elmore, NY [Elmore, New York]</dcterms:spatial>
+	<dcterms:spatial>Elmore, NY [Elmira, Chemung County, New York]</dcterms:spatial>
+	<dcterms:spatial>Elmore, NY [Elmira, Chemung County, New York]</dcterms:spatial>
 	<dcterms:description>Patient Name: Heudal, Francis Patient Age: 40. Marital Status: Single. Diagnosis: Conjunctivitis. </dcterms:description>
 	<dcterms:subject>Heudal, Francis </dcterms:subject>
 	<dcterms:subject>Conjunctivitis</dcterms:subject>

@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00491</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Wyatt, Henry </dcterms:title>
-	<dcterms:date>1865-04-04</dcterms:date>
-	<dcterms:date>1865-04-20</dcterms:date>
+	<dcterms:created>1865-04-04</dcterms:created>
+	<dcterms:created>1865-04-20</dcterms:created>
 	<dcterms:spatial>Indiana</dcterms:spatial>
 	<dcterms:spatial>Jefferson Co. Indiana [Jefferson County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Madison, Jefferson Co., Indiana [Madison, Jefferson County, Indiana]</dcterms:spatial>

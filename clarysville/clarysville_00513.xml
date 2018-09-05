@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00513</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Ewbank, Levins </dcterms:title>
-	<dcterms:date>1865-04-05</dcterms:date>
-	<dcterms:date>1865-06-13</dcterms:date>
+	<dcterms:created>1865-04-05</dcterms:created>
+	<dcterms:created>1865-06-13</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Wayne Co., Ind [Wayne County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Richmond, Wayne Co., Ind [Richmond, Wayne County, Indiana]</dcterms:spatial>

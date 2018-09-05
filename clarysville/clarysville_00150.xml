@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00150</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Cox, Richard  A. </dcterms:title>
-	<dcterms:date>1864-07-25</dcterms:date>
-	<dcterms:date>1865-03-27</dcterms:date>
+	<dcterms:created>1864-07-25</dcterms:created>
+	<dcterms:created>1865-03-27</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Monongahalia Co. VA [Monongalia County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Jollytown, VA [Jollytown, West Virginia]</dcterms:spatial>
@@ -21,7 +21,7 @@
 	<dcterms:subject>Gun shot fracture of the neck and head and of the left humerus. Ball entering two inches below coracoid process direction inwards and backwards and probably lodged behind the scapula. Excision on 1864/08/04 letter S</dcterms:subject>
 	<dcterms:subject>Private</dcterms:subject>
 	<dcterms:subject>E</dcterms:subject>
-	<dcterms:subject>14th VA Vols [14th Virginia Volunteer Infantry]</dcterms:subject>
+	<dcterms:subject>14th VA Vols [14th West Virginia Volunteer Infantry]</dcterms:subject>
 	<dcterms:subject>Virginia</dcterms:subject>
 	<dcterms:subject>Hospital Number 3838b</dcterms:subject>
 	<dcterms:type>Image</dcterms:type>

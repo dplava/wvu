@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00441</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Talbert, Archibald </dcterms:title>
-	<dcterms:date>1865-03-21</dcterms:date>
-	<dcterms:date>1865-03-30</dcterms:date>
+	<dcterms:created>1865-03-21</dcterms:created>
+	<dcterms:created>1865-03-30</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Monroe Co., VA [Monroe County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Union, Monroe Co., VA [Union, Monroe County, West Virginia]</dcterms:spatial>

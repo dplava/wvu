@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00090</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Maybee, Manson W.</dcterms:title>
-	<dcterms:date>1864-07-18</dcterms:date>
-	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:created>1864-07-18</dcterms:created>
+	<dcterms:created>1864-09-20</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Gallia Co., Ohio [Gallia County, Ohio]</dcterms:spatial>
 	<dcterms:spatial>Cheshire, Gallia Co., Ohio [Cheshire, Gallia County, Ohio]</dcterms:spatial>

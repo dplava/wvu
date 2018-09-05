@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00621</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Crandal, George </dcterms:title>
-	<dcterms:date>1865-06-16</dcterms:date>
-	<dcterms:date>1865-06-29</dcterms:date>
+	<dcterms:created>1865-06-16</dcterms:created>
+	<dcterms:created>1865-06-29</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
-	<dcterms:spatial>Harpers Ferry, VA [Harpers Ferry, West Virginia]</dcterms:spatial>
-	<dcterms:spatial>Harpers Ferry, VA [Harpers Ferry, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Harpers Ferry, VA [Harpers Ferry, Jefferson County, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Harpers Ferry, VA [Harpers Ferry, Jefferson County, West Virginia]</dcterms:spatial>
 	<dcterms:description>Patient Name: Crandal, George Patient Age: 33. Marital Status: Married. Diagnosis: Acute diarrhoea [diarrhea]. Result: Mustered out and discharged from service. </dcterms:description>
 	<dcterms:subject>Crandal, George </dcterms:subject>
 	<dcterms:subject>Acute diarrhoea [diarrhea]</dcterms:subject>

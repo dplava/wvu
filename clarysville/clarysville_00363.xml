@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00363</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Dunn, John </dcterms:title>
-	<dcterms:date>1864-11-15</dcterms:date>
-	<dcterms:date>1865-01-12</dcterms:date>
+	<dcterms:created>1864-11-15</dcterms:created>
+	<dcterms:created>1865-01-12</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
-	<dcterms:spatial>Philadelphia, Pennsylvania</dcterms:spatial>
-	<dcterms:spatial>Philadelphia, Pennsylvania</dcterms:spatial>
+	<dcterms:spatial>Philadelphia, Pennsylvania [Philadelphia, Philadelphia County, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Philadelphia, Pennsylvania [Philadelphia, Philadelphia County, Pennsylvania]</dcterms:spatial>
 	<dcterms:description>Patient Name: Dunn, John Patient Age: 17. Marital Status: Single. Diagnosis: Chronic rheumatism. Result: Cured and returned to duty. </dcterms:description>
 	<dcterms:subject>Dunn, John </dcterms:subject>
 	<dcterms:subject>Chronic rheumatism</dcterms:subject>

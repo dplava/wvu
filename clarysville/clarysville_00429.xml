@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00429</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Batemann, William </dcterms:title>
-	<dcterms:date>1865-03-09</dcterms:date>
-	<dcterms:date>1865-06-10</dcterms:date>
+	<dcterms:created>1865-03-09</dcterms:created>
+	<dcterms:created>1865-06-10</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
-	<dcterms:spatial>Cincinnati, Ohio</dcterms:spatial>
-	<dcterms:spatial>Central Avenue, Cincinnati, Ohio</dcterms:spatial>
+	<dcterms:spatial>Cincinnati, Ohio [Cincinnati, Hamilton County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Central Avenue, Cincinnati, Ohio  [Cincinnati, Hamilton County, Ohio]</dcterms:spatial>
 	<dcterms:description>Patient Name: Batemann, William Patient Age: 28. Marital Status: Single. Diagnosis: Typhoid pneumonia followed by erysipilus [erysipelas]. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Batemann, William </dcterms:subject>
 	<dcterms:subject>Typhoid pneumonia followed by erysipilus [erysipelas]</dcterms:subject>

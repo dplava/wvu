@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00679</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Lawton, Melvin </dcterms:title>
-	<dcterms:date>1865/07</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1969-12-31</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Jefferson Co., NY [Jefferson County, New York]</dcterms:spatial>
-	<dcterms:spatial>Evens Mill, NY [Evans Mills, New York]</dcterms:spatial>
+	<dcterms:spatial>Evens Mill, NY [Evans Mills, Jefferson County, New York]</dcterms:spatial>
 	<dcterms:description>Patient Name: Lawton, Melvin Patient Age: 28. Marital Status: Single. Diagnosis: Intermittent fever tertian. </dcterms:description>
 	<dcterms:subject>Lawton, Melvin </dcterms:subject>
 	<dcterms:subject>Intermittent fever tertian</dcterms:subject>

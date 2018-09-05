@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00278</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Cathill, Elias </dcterms:title>
-	<dcterms:date>1864-09-19</dcterms:date>
-	<dcterms:date>1865-01-16</dcterms:date>
+	<dcterms:created>1864-09-19</dcterms:created>
+	<dcterms:created>1865-01-16</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Jackson Co., VA [Jackson County, West Virginia]</dcterms:spatial>
-	<dcterms:spatial>Fishers Point, VA [Fishers Point, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Fishers Point, VA [Fishers Point, Jackson County, West Virginia]</dcterms:spatial>
 	<dcterms:description>Patient Name: Cathill, Elias Patient Age: 24. Marital Status: Single. Diagnosis: Typho malarial fever. Result: Recovery and returned to duty. </dcterms:description>
 	<dcterms:subject>Cathill, Elias </dcterms:subject>
 	<dcterms:subject>Typho malarial fever</dcterms:subject>

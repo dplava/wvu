@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00415</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Shafer, Conrad </dcterms:title>
-	<dcterms:date>1865-02-25</dcterms:date>
-	<dcterms:date>1865-05-31</dcterms:date>
+	<dcterms:created>1865-02-25</dcterms:created>
+	<dcterms:created>1865-05-31</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
 	<dcterms:spatial>Mahoning Co., O [Mahoning County, Ohio]</dcterms:spatial>
 	<dcterms:spatial>Lowellville, Mahoning Co., O [Louisville, Mahoning County, Ohio]</dcterms:spatial>

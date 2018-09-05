@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00534</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Crookshank, Absalom </dcterms:title>
-	<dcterms:date>1865-04-14</dcterms:date>
-	<dcterms:date>1865-05-31</dcterms:date>
+	<dcterms:created>1865-04-14</dcterms:created>
+	<dcterms:created>1865-05-31</dcterms:created>
 	<dcterms:spatial>Maryland</dcterms:spatial>
 	<dcterms:spatial>Siscle Co., MD [Cecil County, Maryland]</dcterms:spatial>
 	<dcterms:spatial>Rock Springs, MD [Rock Springs, Maryland]</dcterms:spatial>

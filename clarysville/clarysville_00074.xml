@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00074</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Willoughby, Miller D.</dcterms:title>
-	<dcterms:date>1864-07-15</dcterms:date>
-	<dcterms:date>1864-10-01</dcterms:date>
+	<dcterms:created>1864-07-15</dcterms:created>
+	<dcterms:created>1864-10-01</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Lehigh Co. PA [Lehigh County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>South Whitehall, PA [South Whitehall, Pennsylvannia]</dcterms:spatial>

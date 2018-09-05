@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00507</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Wolfe, Andrew </dcterms:title>
-	<dcterms:date>1865-04-08</dcterms:date>
-	<dcterms:date>1865-06-28</dcterms:date>
+	<dcterms:created>1865-04-08</dcterms:created>
+	<dcterms:created>1865-06-28</dcterms:created>
 	<dcterms:spatial>Ohio</dcterms:spatial>
 	<dcterms:spatial>Williams County, Ohio</dcterms:spatial>
 	<dcterms:spatial>Bryne, Williams Co., Ohio [Bryne, Williams County, Ohio]</dcterms:spatial>

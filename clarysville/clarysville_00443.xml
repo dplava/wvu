@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00443</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Anderson, George </dcterms:title>
-	<dcterms:date>1865-05-10</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1865-05-10</dcterms:created>
 	<dcterms:spatial>Maine</dcterms:spatial>
-	<dcterms:spatial>Boston, Mass [Boston, Massachusetts]</dcterms:spatial>
-	<dcterms:spatial>Boston, Mass [Boston, Massachusetts]</dcterms:spatial>
+	<dcterms:spatial>Boston, Mass [Boston, Suffolk County,  Massachusetts]</dcterms:spatial>
+	<dcterms:spatial>Boston, Mass [Boston, Suffolk County, Massachusetts]</dcterms:spatial>
 	<dcterms:description>Patient Name: Anderson, George Patient Age: 25. Marital Status: Single. Diagnosis: Gun shot fracture of ninth rib right side.. Location Wounded: Sir John's Run [Morgan County, WV]. Date Wounded: 1865/03/24. Nature of Wound: Musket ball. Result: Deserted 1865/05/24. </dcterms:description>
 	<dcterms:subject>Anderson, George </dcterms:subject>
 	<dcterms:subject>Gun shot fracture of ninth rib right side.</dcterms:subject>

@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00442</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Lannhill, William </dcterms:title>
-	<dcterms:date>1865-03-22</dcterms:date>
-	<dcterms:date>1865-05-31</dcterms:date>
+	<dcterms:created>1865-03-22</dcterms:created>
+	<dcterms:created>1865-05-31</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>White Co., Indiana [White County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Port Summit, White Co., Indiana [Port Summit, White County, Indiana]</dcterms:spatial>

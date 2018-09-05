@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00489</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Haley, David </dcterms:title>
-	<dcterms:date>1865-04-04</dcterms:date>
-	<dcterms:date>1865-06-10</dcterms:date>
+	<dcterms:created>1865-04-04</dcterms:created>
+	<dcterms:created>1865-06-10</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Queens Co., NY [Queens County, New York]</dcterms:spatial>
-	<dcterms:spatial>Brooklin, NY [Brooklyn, New York]</dcterms:spatial>
+	<dcterms:spatial>Brooklin, NY [Brooklyn, Queens County, New York]</dcterms:spatial>
 	<dcterms:description>Patient Name: Haley, David Patient Age: 22. Marital Status: Single. Diagnosis: Inguinal hernia right side. Received a wound of the scrotum. Result: Being kept in the grand house for 10 days. Mustered out and discharged . </dcterms:description>
 	<dcterms:subject>Haley, David </dcterms:subject>
 	<dcterms:subject>Inguinal hernia right side. Received a wound of the scrotum</dcterms:subject>

@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00140</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Ashby, George </dcterms:title>
-	<dcterms:date>1864-07-25</dcterms:date>
-	<dcterms:date>1864-08-16</dcterms:date>
+	<dcterms:created>1864-07-25</dcterms:created>
+	<dcterms:created>1864-08-16</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Rown Co., VA [Roane County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Allens Fork Jackson Co., VA [Allens Fork Jackson County, West Virginia]</dcterms:spatial>

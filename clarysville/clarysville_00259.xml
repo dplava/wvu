@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00259</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Hill, Thos [Thomas] T.</dcterms:title>
-	<dcterms:date>1864-09-10</dcterms:date>
-	<dcterms:date>1864-12-02</dcterms:date>
+	<dcterms:created>1864-09-10</dcterms:created>
+	<dcterms:created>1864-12-02</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Washington Co., PA [Washington County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Bellsville, Wash. Co., PA [Beallsville, Washington County, Pennsylvania]</dcterms:spatial>

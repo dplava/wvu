@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00191</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Osburn, John </dcterms:title>
-	<dcterms:date>1864-09-10</dcterms:date>
-	<dcterms:date>1864-08-12</dcterms:date>
+	<dcterms:created>1864-09-10</dcterms:created>
+	<dcterms:created>1864-08-12</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Barbour Co., VA [Barbour County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Lovetown, Barbour Co., VA [Lovetown, Barbour County, West Virginia]</dcterms:spatial>

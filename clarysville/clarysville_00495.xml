@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00495</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Harrison, James </dcterms:title>
-	<dcterms:date>1865-04-04</dcterms:date>
-	<dcterms:date>1865-05-12</dcterms:date>
+	<dcterms:created>1865-04-04</dcterms:created>
+	<dcterms:created>1865-05-12</dcterms:created>
 	<dcterms:spatial>Ireland</dcterms:spatial>
 	<dcterms:spatial>Bourbon Co., Kansas [Bourbon County, Kansas]</dcterms:spatial>
 	<dcterms:spatial>Fort Scott, Bourbon Co., Kansas [Fort Scott, Bourbon County, Kansas]</dcterms:spatial>

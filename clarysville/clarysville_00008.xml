@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00008</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Cutton, David </dcterms:title>
-	<dcterms:date>1864-04-05</dcterms:date>
-	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:created>1864-04-05</dcterms:created>
+	<dcterms:created>1864-09-20</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Hampshire Co., Va [Hampshire County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Paw Paw W Va [Paw Paw, West Virginia]</dcterms:spatial>

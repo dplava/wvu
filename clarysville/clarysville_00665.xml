@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00665</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Smith, Jacob </dcterms:title>
-	<dcterms:date>1865-07-15</dcterms:date>
-	<dcterms:date>1865-07-24</dcterms:date>
+	<dcterms:created>1865-07-15</dcterms:created>
+	<dcterms:created>1865-07-24</dcterms:created>
 	<dcterms:spatial>Ohio</dcterms:spatial>
 	<dcterms:spatial>Warren Co., Ohio [Warren County, Ohio]</dcterms:spatial>
-	<dcterms:spatial>Edwardsville, O [Edwardsville, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Edwardsville, O [Edwardsville, Warren County, Ohio]</dcterms:spatial>
 	<dcterms:description>Patient Name: Smith, Jacob Patient Age: 22. Marital Status: Single. Diagnosis: Typho malarial fever. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Smith, Jacob </dcterms:subject>
 	<dcterms:subject>Typho malarial fever</dcterms:subject>

@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00588</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Kisner, Elias </dcterms:title>
-	<dcterms:date>1865-05-20</dcterms:date>
-	<dcterms:date>1865-05-30</dcterms:date>
+	<dcterms:created>1865-05-20</dcterms:created>
+	<dcterms:created>1865-05-30</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Barber Co., Virginia [Barbour County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Coveron Barber Co., VA [Cove Run, Barbour County, West Virginia]</dcterms:spatial>

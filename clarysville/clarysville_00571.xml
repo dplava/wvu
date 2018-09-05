@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00571</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Williams, John </dcterms:title>
-	<dcterms:date>1865-05-06</dcterms:date>
-	<dcterms:date>1865-05-19</dcterms:date>
+	<dcterms:created>1865-05-06</dcterms:created>
+	<dcterms:created>1865-05-19</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
-	<dcterms:spatial>Cumberland, MD [Cumberland, Maryland]</dcterms:spatial>
-	<dcterms:spatial>Cumberland, Maryland</dcterms:spatial>
+	<dcterms:spatial>Cumberland, MD [Cumberland, Allegany County, Maryland]</dcterms:spatial>
+	<dcterms:spatial>Cumberland, Maryland [Cumberland, Allegany County, Maryland]</dcterms:spatial>
 	<dcterms:description>Patient Name: Williams, John Patient Age: 45. Marital Status: Married. Diagnosis: Chronic rheumatism. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Williams, John </dcterms:subject>
 	<dcterms:subject>Chronic rheumatism</dcterms:subject>

@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00380</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Sulkamp, Henry </dcterms:title>
-	<dcterms:date>1864-12-26</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1864-12-26</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
-	<dcterms:spatial>Cincinnati, Ohio</dcterms:spatial>
-	<dcterms:spatial>Cincinnati, Ohio</dcterms:spatial>
+	<dcterms:spatial>Cincinnati, Ohio [Cincinnati, Hamilton County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Cincinnati, Ohio [Cincinnati, Hamilton County, Ohio]</dcterms:spatial>
 	<dcterms:description>Patient Name: Sulkamp, Henry Patient Age: 36. Marital Status: Single. Diagnosis: Frost bite, both feet. Result: Died 1865/02/02 Pyemia. </dcterms:description>
 	<dcterms:subject>Sulkamp, Henry </dcterms:subject>
 	<dcterms:subject>Frost bite, both feet</dcterms:subject>

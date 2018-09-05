@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00045</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Church, Ephraim </dcterms:title>
-	<dcterms:date>1864-07-10</dcterms:date>
-	<dcterms:date>1864-10-26</dcterms:date>
+	<dcterms:created>1864-07-10</dcterms:created>
+	<dcterms:created>1864-10-26</dcterms:created>
 	<dcterms:spatial>Massachusetts</dcterms:spatial>
-	<dcterms:spatial>Egremont, Mass [Egremont, Massachusetts]</dcterms:spatial>
-	<dcterms:spatial>Egremont, Mass [Egremont, Massachusetts]</dcterms:spatial>
+	<dcterms:spatial>Egremont, Mass [Egremont, Berkshire County, Massachusetts]</dcterms:spatial>
+	<dcterms:spatial>Egremont, Mass [Egremont, Berkshire County, Massachusetts]</dcterms:spatial>
 	<dcterms:description>Patient Name: Church, Ephraim Patient Age: 21. Marital Status: Single. Diagnosis: Acute diarrhoea [diarrhea]. Result: Returned to duty by order of hospital inspecting board. </dcterms:description>
 	<dcterms:subject>Church, Ephraim </dcterms:subject>
 	<dcterms:subject>Acute diarrhoea [diarrhea]</dcterms:subject>

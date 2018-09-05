@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00052</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Bowen, James </dcterms:title>
-	<dcterms:date>1864-07-12</dcterms:date>
-	<dcterms:date>1864-12-01</dcterms:date>
+	<dcterms:created>1864-07-12</dcterms:created>
+	<dcterms:created>1864-12-01</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Sogul Co., NY [Oswego County, New York]</dcterms:spatial>
 	<dcterms:spatial>New Haven, NY [New Haven, New York]</dcterms:spatial>

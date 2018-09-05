@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00225</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Moore, George </dcterms:title>
-	<dcterms:date>1864-08-23</dcterms:date>
-	<dcterms:date>1864-12-17</dcterms:date>
+	<dcterms:created>1864-08-23</dcterms:created>
+	<dcterms:created>1864-12-17</dcterms:created>
 	<dcterms:spatial>Illinois</dcterms:spatial>
-	<dcterms:spatial>Hannover, Ill [Hannover, Illinois]</dcterms:spatial>
-	<dcterms:spatial>Hannover, Ill [Hannover, Illinois]</dcterms:spatial>
+	<dcterms:spatial>Hannover, Ill [Hannover, Jo Daviess County, Illinois]</dcterms:spatial>
+	<dcterms:spatial>Hannover, Ill [Hannover, Jo Daviess County, Illinois]</dcterms:spatial>
 	<dcterms:description>Patient Name: Moore, George Patient Age: 20. Marital Status: Single. Diagnosis: Epilepsy. Result: Discharged from service. Surgeon certificate. </dcterms:description>
 	<dcterms:subject>Moore, George </dcterms:subject>
 	<dcterms:subject>Epilepsy</dcterms:subject>

@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00372</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for McIntire, Elgan O.</dcterms:title>
-	<dcterms:date>1864-11-19</dcterms:date>
-	<dcterms:date>1865-06-03</dcterms:date>
+	<dcterms:created>1864-11-19</dcterms:created>
+	<dcterms:created>1865-06-03</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Earie Co., PA [Erie County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Clarkes Corners Ashtabula Co., O [Clarkes Corners Ashtabula County, Ohio]</dcterms:spatial>

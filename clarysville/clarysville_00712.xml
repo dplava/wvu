@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00712</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Harrison, Reynold </dcterms:title>
-	<dcterms:date>1864-11-19</dcterms:date>
-	<dcterms:date>1865-03-29</dcterms:date>
+	<dcterms:created>1864-11-19</dcterms:created>
+	<dcterms:created>1865-03-29</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Hampshire Co., VA [Hampshire County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>New Creek Station, Hampshire Co., VA [New Creek Station, Hampshire County, West Virginia]</dcterms:spatial>

@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00614</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Dunk, John </dcterms:title>
-	<dcterms:date>1865-06-08</dcterms:date>
-	<dcterms:date>1865-06-13</dcterms:date>
+	<dcterms:created>1865-06-08</dcterms:created>
+	<dcterms:created>1865-06-13</dcterms:created>
 	<dcterms:spatial>Indiana</dcterms:spatial>
 	<dcterms:spatial>Dearborn Co., Ind [Dearborn County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Laurensburg, Dearborn Co., Ind [Laurensburg, Dearborn County, Ind]</dcterms:spatial>

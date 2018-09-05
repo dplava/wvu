@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00543</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Rose, Hamilton </dcterms:title>
-	<dcterms:date>1865-04-25</dcterms:date>
-	<dcterms:date>1865-06-05</dcterms:date>
+	<dcterms:created>1865-04-25</dcterms:created>
+	<dcterms:created>1865-06-05</dcterms:created>
 	<dcterms:spatial>West Virginia</dcterms:spatial>
 	<dcterms:spatial>Salem, Harrison Co., VA [Salem, Harrison County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>New Salem [New Salem, West Virginia]</dcterms:spatial>

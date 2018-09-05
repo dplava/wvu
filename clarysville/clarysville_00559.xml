@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00559</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Rickey, Patrick </dcterms:title>
-	<dcterms:date>1865-04-29</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1865-04-29</dcterms:created>
 	<dcterms:spatial>Massachusetts</dcterms:spatial>
-	<dcterms:spatial>Bradford, Maine</dcterms:spatial>
-	<dcterms:spatial>Bradford, Maine</dcterms:spatial>
+	<dcterms:spatial>Bradford, Maine [Bradford, Penobscot County, Maine]</dcterms:spatial>
+	<dcterms:spatial>Bradford, Maine [Bradford, Penobscot County, Maine]</dcterms:spatial>
 	<dcterms:description>Patient Name: Rickey, Patrick Patient Age: 19. Marital Status: Single. Diagnosis: Synovitis of left knee joint. </dcterms:description>
 	<dcterms:subject>Rickey, Patrick </dcterms:subject>
 	<dcterms:subject>Synovitis of left knee joint</dcterms:subject>

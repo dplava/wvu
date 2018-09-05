@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00524</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Philips, Robert </dcterms:title>
-	<dcterms:date>1865-04-08</dcterms:date>
-	<dcterms:date>1865-05-15</dcterms:date>
+	<dcterms:created>1865-04-08</dcterms:created>
+	<dcterms:created>1865-05-15</dcterms:created>
 	<dcterms:spatial>Indiana</dcterms:spatial>
 	<dcterms:spatial>Floyd Co., Ind [Floyd County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Greenville, Floyd Co., Ind [Greenville, Floyd County, Indiana]</dcterms:spatial>

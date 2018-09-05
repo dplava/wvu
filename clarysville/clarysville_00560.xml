@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00560</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Fomay, John </dcterms:title>
-	<dcterms:date>1865-04-29</dcterms:date>
-	<dcterms:date>1865-06-07</dcterms:date>
+	<dcterms:created>1865-04-29</dcterms:created>
+	<dcterms:created>1865-06-07</dcterms:created>
 	<dcterms:spatial>Prussia</dcterms:spatial>
 	<dcterms:spatial>New York City [New York City, New York]</dcterms:spatial>
-	<dcterms:spatial>Dusseldorf, Prussia</dcterms:spatial>
+	<dcterms:spatial>Dusseldorf, Prussia [Dusseldorf, Germany]</dcterms:spatial>
 	<dcterms:description>Patient Name: Fomay, John Patient Age: 52. Marital Status: Married. Diagnosis: Chronic diarrhoea [diarrhea]. Result: Mustered out and discharged from service. </dcterms:description>
 	<dcterms:subject>Fomay, John </dcterms:subject>
 	<dcterms:subject>Chronic diarrhoea [diarrhea]</dcterms:subject>

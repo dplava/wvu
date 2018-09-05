@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00017</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Buman, Henry C.</dcterms:title>
-	<dcterms:date>1864-04-28</dcterms:date>
-	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:created>1864-04-28</dcterms:created>
+	<dcterms:created>1864-09-15</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
-	<dcterms:spatial>Canandugua NY [Canandaigua, New York]</dcterms:spatial>
-	<dcterms:spatial>Canandugua NY [Canandaigua, New York]</dcterms:spatial>
+	<dcterms:spatial>Canandugua NY [Canandaigua, Ontario County, New York]</dcterms:spatial>
+	<dcterms:spatial>Canandugua NY [Canandaigua, Ontario County, New York]</dcterms:spatial>
 	<dcterms:description>Patient Name: Buman, Henry C. Patient Age: 16. Marital Status: Single. Diagnosis: Flem [Phlegm]. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Buman, Henry C.</dcterms:subject>
 	<dcterms:subject>Flem [Phlegm]</dcterms:subject>

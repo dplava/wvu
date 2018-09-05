@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00107</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Frum, Samuel B.</dcterms:title>
-	<dcterms:date>1864-07-23</dcterms:date>
-	<dcterms:date>1864-10-24</dcterms:date>
+	<dcterms:created>1864-07-23</dcterms:created>
+	<dcterms:created>1864-10-24</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Mongalia Co., VA [Monongalia County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Pleasant Valley, VA [Pleasant Valley, West Virginia]</dcterms:spatial>

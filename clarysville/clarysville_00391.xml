@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00391</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Alexander, Henry </dcterms:title>
-	<dcterms:date>1865-01-26</dcterms:date>
-	<dcterms:date>1865-05-16</dcterms:date>
+	<dcterms:created>1865-01-26</dcterms:created>
+	<dcterms:created>1865-05-16</dcterms:created>
 	<dcterms:spatial>Maryland</dcterms:spatial>
 	<dcterms:spatial>Allagany County, MD [Allegany County, Maryland]</dcterms:spatial>
-	<dcterms:spatial>Cumberland, MD [Cumberland, Maryland]</dcterms:spatial>
+	<dcterms:spatial>Cumberland, MD [Cumberland, Allegany County, Maryland]</dcterms:spatial>
 	<dcterms:description>Patient Name: Alexander, Henry Patient Age: 21. Marital Status: Single. Diagnosis: Gonorrhea. Result: Mustered out and discharged . </dcterms:description>
 	<dcterms:subject>Alexander, Henry </dcterms:subject>
 	<dcterms:subject>Gonorrhea</dcterms:subject>

@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00386</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Amos, John W. </dcterms:title>
-	<dcterms:date>1865-01-09</dcterms:date>
-	<dcterms:date>1865-02-13</dcterms:date>
+	<dcterms:created>1865-01-09</dcterms:created>
+	<dcterms:created>1865-02-13</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Ritchie County, VA [Ritchie County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Ritchie Court House [Ritchie County Courthouse, Harrisville, West Virginia]</dcterms:spatial>

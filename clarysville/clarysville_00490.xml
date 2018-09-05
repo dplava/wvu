@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00490</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Farrell, James </dcterms:title>
-	<dcterms:date>1865-04-04</dcterms:date>
-	<dcterms:date>1865-05-12</dcterms:date>
+	<dcterms:created>1865-04-04</dcterms:created>
+	<dcterms:created>1865-05-12</dcterms:created>
 	<dcterms:spatial>Indiana</dcterms:spatial>
 	<dcterms:spatial>Switzerland Co., Ind [Switzerland County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Moorefield, Switzerland Co., Ind [Moorefield, Switzerland County, Indiana]</dcterms:spatial>

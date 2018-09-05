@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00015</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Dunham, Samuel </dcterms:title>
-	<dcterms:date>1864-04-28</dcterms:date>
-	<dcterms:date>1864-09-29</dcterms:date>
+	<dcterms:created>1864-04-28</dcterms:created>
+	<dcterms:created>1864-09-29</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Sumerset Co. PA [Somerset County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Spade Township, Sumerset Co., PA [Spade Township, Somerset County, Pennsylvania]</dcterms:spatial>

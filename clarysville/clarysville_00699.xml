@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00699</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Baker, Abraham </dcterms:title>
-	<dcterms:date>1864-12-14</dcterms:date>
-	<dcterms:date>1864-12-31</dcterms:date>
+	<dcterms:created>1864-12-14</dcterms:created>
+	<dcterms:created>1864-12-31</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Whitzel Co., VA [Whitzel County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Fishing Creek, Whitzel Co., VA [Fishing Creek, Whitzel County, West Virginia]</dcterms:spatial>

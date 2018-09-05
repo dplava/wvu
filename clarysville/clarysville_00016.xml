@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00016</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Morse, Joseph J.</dcterms:title>
-	<dcterms:date>1864-04-28</dcterms:date>
-	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:created>1864-04-28</dcterms:created>
+	<dcterms:created>1864-09-20</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Courtland Co. NY [Cortland County, New York]</dcterms:spatial>
-	<dcterms:spatial>Cuyler P.O., New York [Cuyler Post Office, New York]</dcterms:spatial>
+	<dcterms:spatial>Cuyler P.O., New York [Cuyler Post Office, Cortland County, New York]</dcterms:spatial>
 	<dcterms:description>Patient Name: Morse, Joseph J. Patient Age: 22. Marital Status: Married. Diagnosis: Intermittent fever quotidian. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Morse, Joseph J.</dcterms:subject>
 	<dcterms:subject>Intermittent fever quotidian</dcterms:subject>

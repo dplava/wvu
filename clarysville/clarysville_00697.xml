@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00697</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Anderson, James </dcterms:title>
-	<dcterms:date>1864-11-10</dcterms:date>
-	<dcterms:date>1864-11-11</dcterms:date>
+	<dcterms:created>1864-11-10</dcterms:created>
+	<dcterms:created>1864-11-11</dcterms:created>
 	<dcterms:spatial>Maryland</dcterms:spatial>
 	<dcterms:spatial>Alagany Co., MD [Allegany County, Maryland]</dcterms:spatial>
-	<dcterms:spatial>Fostburg [Fostburg, Maryland]</dcterms:spatial>
+	<dcterms:spatial>Fostburg [Fostburg, Allegany County, Maryland]</dcterms:spatial>
 	<dcterms:description>Patient Name: Anderson, James Patient Age: 46. Marital Status: Married. Diagnosis: Malingering. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Anderson, James </dcterms:subject>
 	<dcterms:subject>Malingering</dcterms:subject>

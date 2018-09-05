@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00425</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Henry, Hugh B.</dcterms:title>
-	<dcterms:date>1865-03-08</dcterms:date>
-	<dcterms:date>1865-03-13</dcterms:date>
+	<dcterms:created>1865-03-08</dcterms:created>
+	<dcterms:created>1865-03-13</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Preston Co., VA [Preston County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Newburg, Preston Co., VA [Newburg,Preston County, West Virginia]</dcterms:spatial>

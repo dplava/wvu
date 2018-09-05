@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00740</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Dougherty, Thomas </dcterms:title>
-	<dcterms:date>1864-08-01</dcterms:date>
-	<dcterms:date>1864-12-05</dcterms:date>
+	<dcterms:created>1864-08-01</dcterms:created>
+	<dcterms:created>1864-12-05</dcterms:created>
 	<dcterms:spatial>Illinois</dcterms:spatial>
 	<dcterms:spatial>Chicago, Ill [Chicago, Illinois]</dcterms:spatial>
 	<dcterms:spatial>West Side PO, Chicago Ill [West Side Post Office, Chicago, Illinois]</dcterms:spatial>

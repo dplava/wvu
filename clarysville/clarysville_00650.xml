@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00650</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Baiman, Herman </dcterms:title>
-	<dcterms:date>1865-07-12</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1865-07-12</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
-	<dcterms:spatial>Newport, Kentucky</dcterms:spatial>
-	<dcterms:spatial>Newport, Kentucky</dcterms:spatial>
+	<dcterms:spatial>Newport, Kentucky [Newport, Campbell County, Kentucky]</dcterms:spatial>
+	<dcterms:spatial>Newport, Kentucky [Newport, Campbell County, Kentucky]</dcterms:spatial>
 	<dcterms:description>Patient Name: Baiman, Herman Patient Age: 18. Marital Status: Single. Diagnosis: Inf. [inflammation] of lungs. </dcterms:description>
 	<dcterms:subject>Baiman, Herman </dcterms:subject>
 	<dcterms:subject>Inf. [inflammation] of lungs</dcterms:subject>

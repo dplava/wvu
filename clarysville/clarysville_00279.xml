@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00279</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Patterson, Steward </dcterms:title>
-	<dcterms:date>1864-09-20</dcterms:date>
-	<dcterms:date>1865-02-06</dcterms:date>
+	<dcterms:created>1864-09-20</dcterms:created>
+	<dcterms:created>1865-02-06</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Fayette Co., PA [Fayette County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Bellevernon, Fayette Co., PA</dcterms:spatial>

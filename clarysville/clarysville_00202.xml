@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00202</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Stephens, Stewart </dcterms:title>
-	<dcterms:date>1864-08-12</dcterms:date>
-	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:created>1864-08-12</dcterms:created>
+	<dcterms:created>1864-09-20</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Deerfield, PA [Deerfield, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Knoxville, Tioga Co., PA [Knoxville, Tioga County, Pennsylvania]</dcterms:spatial>

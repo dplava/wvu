@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00033</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Yeager, David </dcterms:title>
-	<dcterms:date>1864-06-05</dcterms:date>
-	<dcterms:date>1864-11-11</dcterms:date>
+	<dcterms:created>1864-06-05</dcterms:created>
+	<dcterms:created>1864-11-11</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Summerset Co. PA [Somerset County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Buckstown, Summerset Co. PA [Buckstown, Somerset County, Pennsylvania]</dcterms:spatial>

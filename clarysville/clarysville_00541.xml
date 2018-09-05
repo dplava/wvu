@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00541</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Weeks, Wheeler </dcterms:title>
-	<dcterms:date>1865-04-20</dcterms:date>
-	<dcterms:date>1865-06-16</dcterms:date>
+	<dcterms:created>1865-04-20</dcterms:created>
+	<dcterms:created>1865-06-16</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Sullivan Co., NY [Sullivan County, New York]</dcterms:spatial>
 	<dcterms:spatial>Liberty Falls, Sullivan Co., NY [Liberty Falls, Sullivan County, New York] </dcterms:spatial>

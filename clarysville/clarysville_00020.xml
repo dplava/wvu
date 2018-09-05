@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00020</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Carson, Benjamin R.</dcterms:title>
-	<dcterms:date>1864-05-03</dcterms:date>
-	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:created>1864-05-03</dcterms:created>
+	<dcterms:created>1864-09-15</dcterms:created>
 	<dcterms:spatial>England</dcterms:spatial>
 	<dcterms:spatial>New Jersey</dcterms:spatial>
 	<dcterms:spatial>Newark, New Jersey</dcterms:spatial>

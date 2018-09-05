@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00155</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Ramsey, William </dcterms:title>
-	<dcterms:date>1864-07-24</dcterms:date>
-	<dcterms:date>1864-12-14</dcterms:date>
+	<dcterms:created>1864-07-24</dcterms:created>
+	<dcterms:created>1864-12-14</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Adams Co., Ohio [Adams County, Ohio]</dcterms:spatial>
 	<dcterms:spatial>Wenona, Ill [Wenona, Illinois]</dcterms:spatial>

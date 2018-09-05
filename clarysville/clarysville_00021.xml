@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00021</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Lindsey, William H.</dcterms:title>
-	<dcterms:date>1864-05-18</dcterms:date>
-	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:created>1864-05-18</dcterms:created>
+	<dcterms:created>1864-09-20</dcterms:created>
 	<dcterms:spatial>Maine</dcterms:spatial>
-	<dcterms:spatial>Portland, Maine</dcterms:spatial>
-	<dcterms:spatial>Cape Elizabeth [Cape Elizabeth, Maine]</dcterms:spatial>
+	<dcterms:spatial>Portland, Maine [Portland, Cumberland County, Maine]</dcterms:spatial>
+	<dcterms:spatial>Cape Elizabeth [Cape Elizabeth, Cumberland County, Maine]</dcterms:spatial>
 	<dcterms:description>Patient Name: Lindsey, William H. Patient Age: 26. Marital Status: Single. Diagnosis: Gun shot wound index finger of left hand near New Market. Location Wounded: In Action at New Market. Date Wounded: 1864/05/15. Nature of Wound: Minie Ball. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Lindsey, William H.</dcterms:subject>
 	<dcterms:subject>Gun shot wound index finger of left hand near New Market</dcterms:subject>

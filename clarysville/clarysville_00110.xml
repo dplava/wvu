@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00110</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Miller, James W.</dcterms:title>
-	<dcterms:date>1864-07-23</dcterms:date>
-	<dcterms:date>1864-09-27</dcterms:date>
+	<dcterms:created>1864-07-23</dcterms:created>
+	<dcterms:created>1864-09-27</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
-	<dcterms:spatial>Jackson Co., Ohio [Jackson County, Ohio</dcterms:spatial>
-	<dcterms:spatial>Dawkins Mills, O [Dawkins Mills, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Jackson Co., Ohio [Jackson County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Dawkins Mills, O [Dawkins Mills, Jackson County, Ohio]</dcterms:spatial>
 	<dcterms:description>Patient Name: Miller, James W. Patient Age: 33. Marital Status: Married. Diagnosis: Gun shot wound left hand phalangeal joint. Index finger. Amputation on the field through metacarpal bone. Surgeon unknown. . Location Wounded: Winchester, Va. Date Wounded: 1864/07/20. Nature of Wound: Musket ball. Treatment: Simple dressings - cold water. Simple curate Sept 1 attacked with acute rheumatism. Sol [solution] iodide potassium vincoleric. Trasnferred to ward K under care of Dr. Shilling. . Result: Transferred to US Genl Hospital Parkersburg, VA [West Virginia] 1864/09/27. </dcterms:description>
 	<dcterms:subject>Miller, James W.</dcterms:subject>
 	<dcterms:subject>Gun shot wound left hand phalangeal joint. Index finger. Amputation on the field through metacarpal bone. Surgeon unknown. </dcterms:subject>

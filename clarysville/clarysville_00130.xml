@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00130</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Williams, Isaac </dcterms:title>
-	<dcterms:date>1864-07-23</dcterms:date>
-	<dcterms:date>1865-05-30</dcterms:date>
+	<dcterms:created>1864-07-23</dcterms:created>
+	<dcterms:created>1865-05-30</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Dodridge Co., VA [Doddridge County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>West Union, VA [West Union, West Virginia]</dcterms:spatial>

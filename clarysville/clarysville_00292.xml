@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00292</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Smith, Franklin </dcterms:title>
-	<dcterms:date>1864-10-17</dcterms:date>
-	<dcterms:date>1864-11-14</dcterms:date>
+	<dcterms:created>1864-10-17</dcterms:created>
+	<dcterms:created>1864-11-14</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Roane Co., W VA [Roane County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Spencer, W VA [Spencer, West Virginia]</dcterms:spatial>

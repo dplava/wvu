@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00118</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Babbott, Lewis </dcterms:title>
-	<dcterms:date>1864-07-23</dcterms:date>
-	<dcterms:date>1865-01-10</dcterms:date>
+	<dcterms:created>1864-07-23</dcterms:created>
+	<dcterms:created>1865-01-10</dcterms:created>
 	<dcterms:spatial>Ohio</dcterms:spatial>
 	<dcterms:spatial>Seneca Co., Ohio [Seneca County, Ohio]</dcterms:spatial>
 	<dcterms:spatial>Flat Rock, Seneca Co., Ohio [Flat Rock, Seneca County, Ohio]</dcterms:spatial>

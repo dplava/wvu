@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00547</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Mimick, Aaron </dcterms:title>
-	<dcterms:date>1865-04-28</dcterms:date>
-	<dcterms:date>1865-06-06</dcterms:date>
+	<dcterms:created>1865-04-28</dcterms:created>
+	<dcterms:created>1865-06-06</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Schuil Co., Penn [Schuylkill County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Oborn, Schuil Co., Penn [Auburn, Schuykill County, Pennsylvania]</dcterms:spatial>

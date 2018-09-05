@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00581</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Piles, Daniel </dcterms:title>
-	<dcterms:date>1865-05-11</dcterms:date>
-	<dcterms:date>1865-05-30</dcterms:date>
+	<dcterms:created>1865-05-11</dcterms:created>
+	<dcterms:created>1865-05-30</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Preston Co., W VA [Preston County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Newburg, W VA [Newburg, West Virginia]</dcterms:spatial>

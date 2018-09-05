@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00346</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for DePriest, Robert D.</dcterms:title>
-	<dcterms:date>1864-11-10</dcterms:date>
-	<dcterms:date>1865-01-10</dcterms:date>
+	<dcterms:created>1864-11-10</dcterms:created>
+	<dcterms:created>1865-01-10</dcterms:created>
 	<dcterms:spatial>West Virginia</dcterms:spatial>
 	<dcterms:spatial>Lewis Co., W VA [Lewis County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Weston, Lewis Co., VA [Weston, Lewis County, West Virginia]</dcterms:spatial>

@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00445</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Pallock, George </dcterms:title>
-	<dcterms:date>1864-11-17</dcterms:date>
-	<dcterms:date>1865-05-27</dcterms:date>
+	<dcterms:created>1864-11-17</dcterms:created>
+	<dcterms:created>1865-05-27</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Sullivan Co., NY [Sullivan County, New York]</dcterms:spatial>
 	<dcterms:spatial>Wurtsborough [Wurtsborough, New York]</dcterms:spatial>

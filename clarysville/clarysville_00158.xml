@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00158</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Grabe, Christian </dcterms:title>
-	<dcterms:date>1864-07-28</dcterms:date>
-	<dcterms:date>1864-10-25</dcterms:date>
+	<dcterms:created>1864-07-28</dcterms:created>
+	<dcterms:created>1864-10-25</dcterms:created>
 	<dcterms:spatial>Canada</dcterms:spatial>
 	<dcterms:spatial>Philadelphia, Penn [Philadelphia, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>2111 Rich Avenue, Phila., PA [2111 Rich Avenue, Philadelphia, Pennsylvania]</dcterms:spatial>

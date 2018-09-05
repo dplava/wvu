@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00728</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Levi, Patterson L.</dcterms:title>
-	<dcterms:date>1865-07-01</dcterms:date>
-	<dcterms:date>1865-07-11</dcterms:date>
+	<dcterms:created>1865-07-01</dcterms:created>
+	<dcterms:created>1865-07-11</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Green County, Pennsylvania [Greene County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Waynesburg, Green County, Penn [Waynesburg, Greene County, Pennsylvania]</dcterms:spatial>

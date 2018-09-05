@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00751</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Salmon, John J.</dcterms:title>
-	<dcterms:date>1865-04-13</dcterms:date>
-	<dcterms:date>1865-04-24</dcterms:date>
+	<dcterms:created>1865-04-13</dcterms:created>
+	<dcterms:created>1865-04-24</dcterms:created>
 	<dcterms:spatial>Massachusetts</dcterms:spatial>
 	<dcterms:spatial>Middlesex Co., Mass [Middlesex County, Massachusetts]</dcterms:spatial>
 	<dcterms:spatial>Lowell, Middlesex Co., Mass [Lowell, Middlesex County, Massachusetts]</dcterms:spatial>

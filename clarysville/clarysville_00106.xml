@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00106</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Toothman, William A.</dcterms:title>
-	<dcterms:date>1864-07-23</dcterms:date>
-	<dcterms:date>1864-09-23</dcterms:date>
+	<dcterms:created>1864-07-23</dcterms:created>
+	<dcterms:created>1864-09-23</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Marion Co., VA [Marion County, West Virginia]</dcterms:spatial>
-	<dcterms:spatial>Farmington, VA [Farmington, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Farmington, VA [Farmington, Marion County, West Virginia]</dcterms:spatial>
 	<dcterms:description>Patient Name: Toothman, William A. Patient Age: 39. Marital Status: Single. Diagnosis: Gun shot flesh wound left cheek. Location Wounded: Winchester, Va. Date Wounded: 1864/07/20. Nature of Wound: Pistol ball. Treatment: Cold water dressings. August 15 erysipelas in wound extending over face. Treatment iodine to inflamed surface. Constitutional treatment by Sol. [name illegible] Time taken every 4 hours. Whiskey. Cured Sept 1 1864. Result: Transferred to U.S. Genl Hospital . </dcterms:description>
 	<dcterms:subject>Toothman, William A.</dcterms:subject>
 	<dcterms:subject>Gun shot flesh wound left cheek</dcterms:subject>

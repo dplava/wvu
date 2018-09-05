@@ -11,8 +11,7 @@
 	<dcterms:identifier>clarysville_00302</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Allen, Stephen G. </dcterms:title>
-	<dcterms:date>1864-10-20</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1864-10-20</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Dodridge Co., VA [Doddridge County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Yeater Mills, Dodridge Co., VA [Yeater Mills, Doddridge County, West Virginia]</dcterms:spatial>

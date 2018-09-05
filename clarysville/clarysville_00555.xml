@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00555</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Morgan, Henry C.</dcterms:title>
-	<dcterms:date>1865-05-01</dcterms:date>
-	<dcterms:date>1865-05-05</dcterms:date>
+	<dcterms:created>1865-05-01</dcterms:created>
+	<dcterms:created>1865-05-05</dcterms:created>
 	<dcterms:spatial>Ohio</dcterms:spatial>
 	<dcterms:spatial>Randolph Co., Ind [Randolph County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Gourton, Randolph Co., Ind [Gourton, Randolph County, Indiana]</dcterms:spatial>

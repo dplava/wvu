@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00001</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Shockey, Henry P.</dcterms:title>
-	<dcterms:date>1864-07-12</dcterms:date>
-	<dcterms:date>1865-05-10</dcterms:date>
+	<dcterms:created>1864-07-12</dcterms:created>
+	<dcterms:created>1865-05-10</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Jackson Co., W VA [Jackson County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Ravenswood, Jackson County, WV [Ravenswood, Jackson County, West Virginia]</dcterms:spatial>

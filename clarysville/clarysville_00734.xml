@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00734</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Ort, Peter S.</dcterms:title>
-	<dcterms:date>1864-07-12</dcterms:date>
-	<dcterms:date>1865-03-29</dcterms:date>
+	<dcterms:created>1864-07-12</dcterms:created>
+	<dcterms:created>1865-03-29</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Livingston Co., NY [Livingston County, New York]</dcterms:spatial>
 	<dcterms:description>Patient Name: Ort, Peter S. Patient Age: 37. Marital Status: Married. Diagnosis: Contusion left foot and chronic rheumatism. Result: Discharged from service on surgeons certificate. </dcterms:description>

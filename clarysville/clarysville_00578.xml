@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00578</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Shield, James </dcterms:title>
-	<dcterms:date>1865-05-11</dcterms:date>
-	<dcterms:date>1865-05-31</dcterms:date>
+	<dcterms:created>1865-05-11</dcterms:created>
+	<dcterms:created>1865-05-31</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Taylor Co., W VA [Taylor County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Simpson Station, Taylor Co., W VA [Simpson Station, Taylor County, West Virginia]</dcterms:spatial>

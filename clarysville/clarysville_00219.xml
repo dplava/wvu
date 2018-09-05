@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00219</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Holiday, Merville N.</dcterms:title>
-	<dcterms:date>1864-08-16</dcterms:date>
-	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:created>1864-08-16</dcterms:created>
+	<dcterms:created>1864-09-15</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Allegheny Co., NY [Allegheny County, New York]</dcterms:spatial>
 	<dcterms:spatial>Cuba, Allegheny Co., NY [Cuba, Allegheny County, New York]</dcterms:spatial>

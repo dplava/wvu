@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00470</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Ferguson, Thomas </dcterms:title>
-	<dcterms:date>1865-04-02</dcterms:date>
-	<dcterms:date>1865-04-06</dcterms:date>
+	<dcterms:created>1865-04-02</dcterms:created>
+	<dcterms:created>1865-04-06</dcterms:created>
 	<dcterms:spatial>Indiana</dcterms:spatial>
 	<dcterms:spatial>Spencer County, Indiana</dcterms:spatial>
 	<dcterms:spatial>Buffaloville, Spencer County, Indiana</dcterms:spatial>

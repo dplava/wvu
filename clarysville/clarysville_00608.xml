@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00608</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for King, Samuel </dcterms:title>
-	<dcterms:date>1865-06-08</dcterms:date>
-	<dcterms:date>1865-06-13</dcterms:date>
+	<dcterms:created>1865-06-08</dcterms:created>
+	<dcterms:created>1865-06-13</dcterms:created>
 	<dcterms:spatial>Indiana</dcterms:spatial>
 	<dcterms:spatial>Boone Co., Indiana [Boone County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Meckanseksburg, Indiana [Mechanicsburg, Indiana]</dcterms:spatial>

@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00009</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Oberley, Joseph </dcterms:title>
-	<dcterms:date>1864-04-23</dcterms:date>
-	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:created>1864-04-23</dcterms:created>
+	<dcterms:created>1864-09-15</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
 	<dcterms:spatial>Lehigh Co., Pa [Lehigh County, Pennsylvania]</dcterms:spatial>
-	<dcterms:spatial>Allentown, Pa [Allentown, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Allentown, Pa [Allentown, Lehigh County, Pennsylvania]</dcterms:spatial>
 	<dcterms:description>Patient Name: Oberley, Joseph Patient Age: 44. Marital Status: Married. Diagnosis: Gun shot wound of the right arm forearm and hand. . Location Wounded: By Bushwhackers at Little Capon. Date Wounded: 1864/04/06. Nature of Wound: Buck Shot. Result: Cured and returned to duty. </dcterms:description>
 	<dcterms:subject>Oberley, Joseph </dcterms:subject>
 	<dcterms:subject>Gun shot wound of the right arm forearm and hand. </dcterms:subject>

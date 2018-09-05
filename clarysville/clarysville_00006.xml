@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00006</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Boyer, John </dcterms:title>
-	<dcterms:date>1864-01-05</dcterms:date>
-	<dcterms:date>1865-01-31</dcterms:date>
+	<dcterms:created>1864-01-05</dcterms:created>
+	<dcterms:created>1865-01-31</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
 	<dcterms:spatial>Montour Co., Pa [Montour County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Danville, Montour Co., Pa [Danville, Montour County, Pennsylvania]</dcterms:spatial>

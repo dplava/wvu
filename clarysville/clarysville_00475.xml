@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00475</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Moore, Isaac </dcterms:title>
-	<dcterms:date>1865-04-05</dcterms:date>
-	<dcterms:date>1865-05-05</dcterms:date>
+	<dcterms:created>1865-04-05</dcterms:created>
+	<dcterms:created>1865-05-05</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Franklin Co., PA [Franklin County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Pleasant Co., Ohio [Pleasant Township, Franklin Co., Ohio]</dcterms:spatial>

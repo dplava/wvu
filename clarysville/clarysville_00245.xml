@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00245</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Glenn, Elias J.</dcterms:title>
-	<dcterms:date>1864-09-07</dcterms:date>
-	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:created>1864-09-07</dcterms:created>
+	<dcterms:created>1864-09-15</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Preston Co., W VA [Preston County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Fetterman, Taylor Co., VA [Fetterman, Taylor County West Virginia]</dcterms:spatial>

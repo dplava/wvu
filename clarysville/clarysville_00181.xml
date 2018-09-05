@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00181</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Flowers, John R. </dcterms:title>
-	<dcterms:date>1864-08-05</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1864-08-05</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Cabell Co., VA [Cabell County, West Virginia]</dcterms:spatial>
-	<dcterms:spatial>Guyandotte, VA [Guyandotte, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Guyandotte, VA [Guyandotte, Cabell County, West Virginia]</dcterms:spatial>
 	<dcterms:description>Patient Name: Flowers, John R. Patient Age: 46. Marital Status: Married. Diagnosis: Chronic rheumatism. Result: Transferred to US Genl Hospital Parkersburg 1864/09/27. </dcterms:description>
 	<dcterms:subject>Flowers, John R. </dcterms:subject>
 	<dcterms:subject>Chronic rheumatism</dcterms:subject>

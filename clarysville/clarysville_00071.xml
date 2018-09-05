@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00071</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Frey, Randolph </dcterms:title>
-	<dcterms:date>1854-07-15</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1854-07-15</dcterms:created>
 	<dcterms:spatial>Switzerland</dcterms:spatial>
-	<dcterms:spatial>Harrisburg, PA [Harrisburg, Pennsylvania]</dcterms:spatial>
-	<dcterms:spatial>Harrisburg, PA [Harrisburg, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Harrisburg, PA [Harrisburg, Dauphin County, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Harrisburg, PA [Harrisburg, Dauphin County, Pennsylvania]</dcterms:spatial>
 	<dcterms:description>Patient Name: Frey, Randolph Patient Age: 51. Marital Status: Single. Diagnosis: Chronic rheumatism . Result: Returned to duty . </dcterms:description>
 	<dcterms:subject>Frey, Randolph </dcterms:subject>
 	<dcterms:subject>Chronic rheumatism </dcterms:subject>

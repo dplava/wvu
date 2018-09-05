@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00156</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Guerin, Jay </dcterms:title>
-	<dcterms:date>1864-07-24</dcterms:date>
-	<dcterms:date>1864-09-05</dcterms:date>
+	<dcterms:created>1864-07-24</dcterms:created>
+	<dcterms:created>1864-09-05</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Tompkins Co., N.Y. [Tompkins County, New York]</dcterms:spatial>
 	<dcterms:spatial>Little Wolf, Waupaca County, Weston, New York</dcterms:spatial>
@@ -21,7 +21,7 @@
 	<dcterms:subject>Acute pleurisy</dcterms:subject>
 	<dcterms:subject>Private</dcterms:subject>
 	<dcterms:subject>I</dcterms:subject>
-	<dcterms:subject>21st NY Cavalry</dcterms:subject>
+	<dcterms:subject>21st NY Cavalry [21st New York Cavalry]</dcterms:subject>
 	<dcterms:subject>New York</dcterms:subject>
 	<dcterms:subject>Hospital Number 3873</dcterms:subject>
 	<dcterms:type>Image</dcterms:type>

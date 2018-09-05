@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00362</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Leib, Charles </dcterms:title>
-	<dcterms:date>1864-11-15</dcterms:date>
-	<dcterms:date>1865-01-09</dcterms:date>
+	<dcterms:created>1864-11-15</dcterms:created>
+	<dcterms:created>1865-01-09</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
-	<dcterms:spatial>Cincinnati, Ohio</dcterms:spatial>
-	<dcterms:spatial>Cincinnati, Ohio</dcterms:spatial>
+	<dcterms:spatial>Cincinnati, Ohio [Cincinnati, Hamilton County, Ohio]</dcterms:spatial>
+	<dcterms:spatial>Cincinnati, Ohio [Cincinnati, Hamilton County, Ohio]</dcterms:spatial>
 	<dcterms:description>Patient Name: Leib, Charles Patient Age: 50. Marital Status: Married. Diagnosis: Chronic diarrhea, pneumonia. Result: Cured and returned to duty. </dcterms:description>
 	<dcterms:subject>Leib, Charles </dcterms:subject>
 	<dcterms:subject>Chronic diarrhea, pneumonia</dcterms:subject>

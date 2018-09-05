@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00065</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Buss, Daniel J. </dcterms:title>
-	<dcterms:date>1864-07-15</dcterms:date>
-	<dcterms:date>1864-12-14</dcterms:date>
+	<dcterms:created>1864-07-15</dcterms:created>
+	<dcterms:created>1864-12-14</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Northhampton Co. PA [Northhampton County, Pennsylvania ]</dcterms:spatial>
-	<dcterms:spatial>Heektown, PA [Heektown, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Heektown, PA [Heektown, Northampton County, Pennsylvania]</dcterms:spatial>
 	<dcterms:description>Patient Name: Buss, Daniel J. Patient Age: 26. Marital Status: Single. Diagnosis: Chronic rheumatism. Result: Cured and returned to duty. </dcterms:description>
 	<dcterms:subject>Buss, Daniel J. </dcterms:subject>
 	<dcterms:subject>Chronic rheumatism</dcterms:subject>

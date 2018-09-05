@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00474</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for North, John K.</dcterms:title>
-	<dcterms:date>1865-04-03</dcterms:date>
-	<dcterms:date>1865-04-05</dcterms:date>
+	<dcterms:created>1865-04-03</dcterms:created>
+	<dcterms:created>1865-04-05</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Jefferson Co. PA [Jefferson County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Punxtawney [Punxsutawney, Jefferson County, Pennsylvania]</dcterms:spatial>

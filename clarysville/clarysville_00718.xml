@@ -11,8 +11,7 @@
 	<dcterms:identifier>clarysville_00718</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Neechy, Sandsly </dcterms:title>
-	<dcterms:date>1865-06-16</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1865-06-16</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Green Co., PA [Greene County, Pennsylvania]</dcterms:spatial>
 	<dcterms:description>Patient Name: Neechy, Sandsly Patient Age: 19. Marital Status: Single. Diagnosis: Imbecile . Result: Left the hospital before daylight on 1865/07/17. </dcterms:description>

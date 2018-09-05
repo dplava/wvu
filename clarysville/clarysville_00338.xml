@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00338</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Foot, George F.</dcterms:title>
-	<dcterms:date>1864-11-03</dcterms:date>
-	<dcterms:date>1865-05-03</dcterms:date>
+	<dcterms:created>1864-11-03</dcterms:created>
+	<dcterms:created>1865-05-03</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Tiogo County, NY [Tiogo County, New York]</dcterms:spatial>
 	<dcterms:spatial>Ithaca, NY [Ithaca, New York]</dcterms:spatial>

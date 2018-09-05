@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00076</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Bender, Isaac </dcterms:title>
-	<dcterms:date>1864-07-15</dcterms:date>
-	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:created>1864-07-15</dcterms:created>
+	<dcterms:created>1864-09-15</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Jefferson Co. PA [Jefferson County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Punxsutawney, Jef. Co., PA [Punxsutawney, Jefferson County, Pennyslvania]</dcterms:spatial>

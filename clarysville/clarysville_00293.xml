@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00293</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Bell, Israel J. </dcterms:title>
-	<dcterms:date>1864-10-17</dcterms:date>
-	<dcterms:date>1865-04-03</dcterms:date>
+	<dcterms:created>1864-10-17</dcterms:created>
+	<dcterms:created>1865-04-03</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Whetzel Co., VA [Wetzel County, West Virginia]</dcterms:spatial>
-	<dcterms:spatial>Benton Slation, VA [Benton Slation, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Benton Slation, VA [Benton Slation, Wetzel County, West Virginia]</dcterms:spatial>
 	<dcterms:description>Patient Name: Bell, Israel J. Patient Age: 25. Marital Status: Single. Diagnosis: Typho malarial fever. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Bell, Israel J. </dcterms:subject>
 	<dcterms:subject>Typho malarial fever</dcterms:subject>

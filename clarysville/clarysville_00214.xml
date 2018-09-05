@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00214</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Godwin, John W. </dcterms:title>
-	<dcterms:date>1864-08-15</dcterms:date>
-	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:created>1864-08-15</dcterms:created>
+	<dcterms:created>1864-09-20</dcterms:created>
 	<dcterms:spatial>Unknown</dcterms:spatial>
 	<dcterms:spatial>Baltimore MD [Baltimore, Maryland]</dcterms:spatial>
 	<dcterms:spatial>Rossville, Balt Co., MD [Rossville, Baltimore County, Maryland]</dcterms:spatial>

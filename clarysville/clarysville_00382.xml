@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00382</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Nedrow, Jacob </dcterms:title>
-	<dcterms:date>1864-12-28</dcterms:date>
-	<dcterms:date>1865-04-26</dcterms:date>
+	<dcterms:created>1864-12-28</dcterms:created>
+	<dcterms:created>1865-04-26</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Somerset Co., PA [Somerset County, Pennylvania]</dcterms:spatial>
 	<dcterms:spatial>Somerset, Somerset Co., PA [Somerset, Somerset County, Pennsylvania]</dcterms:spatial>

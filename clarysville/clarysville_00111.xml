@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00111</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Smith, Abraham A.</dcterms:title>
-	<dcterms:date>1864-07-23</dcterms:date>
-	<dcterms:date>1865-06-02</dcterms:date>
+	<dcterms:created>1864-07-23</dcterms:created>
+	<dcterms:created>1865-06-02</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Upshire Co., VA [Upshur County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Buchannan, Uphsire Co., Virginia [Buckhannon, Upshur County, West Virginia]</dcterms:spatial>

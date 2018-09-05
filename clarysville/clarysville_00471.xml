@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00471</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Payton, George </dcterms:title>
-	<dcterms:date>1865-04-02</dcterms:date>
-	<dcterms:date>1865-04-15</dcterms:date>
+	<dcterms:created>1865-04-02</dcterms:created>
+	<dcterms:created>1865-04-15</dcterms:created>
 	<dcterms:spatial>Indiana</dcterms:spatial>
 	<dcterms:spatial>Harrison Co., Ind [Harrison County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Springdale, Harrison Co., Ind [Springdale, Harrison County, Indiana]</dcterms:spatial>

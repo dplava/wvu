@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00550</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for King, Nathan </dcterms:title>
-	<dcterms:date>1865-04-27</dcterms:date>
-	<dcterms:date>1865-05-05</dcterms:date>
+	<dcterms:created>1865-04-27</dcterms:created>
+	<dcterms:created>1865-05-05</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>Tompkins Co., NY [Tompkins County, New York]</dcterms:spatial>
 	<dcterms:spatial>Jacksonville, Trompkins Co., NY [Jacksonville, Tompkins County, New York]</dcterms:spatial>

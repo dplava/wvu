@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00289</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Reed, Dolphus </dcterms:title>
-	<dcterms:date>1864-10-17</dcterms:date>
-	<dcterms:date>1864-12-05</dcterms:date>
+	<dcterms:created>1864-10-17</dcterms:created>
+	<dcterms:created>1864-12-05</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Marshal Co., W VA [Marshall County, West Virginia]</dcterms:spatial>
-	<dcterms:spatial>Betton, VA [Betton, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Betton, VA [Betton, Marshall County, West Virginia]</dcterms:spatial>
 	<dcterms:description>Patient Name: Reed, Dolphus Patient Age: 24. Marital Status: Single. Diagnosis: Sub acute inflammation of the lungs. Result: Returned to duty. </dcterms:description>
 	<dcterms:subject>Reed, Dolphus </dcterms:subject>
 	<dcterms:subject>Sub acute inflammation of the lungs</dcterms:subject>

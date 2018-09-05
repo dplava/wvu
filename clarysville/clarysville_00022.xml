@@ -11,10 +11,9 @@
 	<dcterms:identifier>clarysville_00022</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Murphey, Daniel </dcterms:title>
-	<dcterms:date>1864-05-18</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1864-05-18</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
-	<dcterms:spatial>Cambria Co., PA</dcterms:spatial>
+	<dcterms:spatial>Cambria Co., PA [Cambria County, Pennsylvania]</dcterms:spatial>
 	<dcterms:spatial>Johnstown, Cambria Co., PA [Johnstown, Cambria County, Pennsylvania]</dcterms:spatial>
 	<dcterms:description>Patient Name: Murphey, Daniel Patient Age: 34. Marital Status: Married. Diagnosis: Gun shot wound right arm. Location Wounded: Near New Market, VA. Date Wounded: 1864/05/15. Nature of Wound: Conical ball. Result: Transferred to kitchen. </dcterms:description>
 	<dcterms:subject>Murphey, Daniel </dcterms:subject>

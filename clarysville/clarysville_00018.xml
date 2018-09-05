@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00018</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Heckman, George </dcterms:title>
-	<dcterms:date>1864-04-28</dcterms:date>
-	<dcterms:date>1864-09-20</dcterms:date>
+	<dcterms:created>1864-04-28</dcterms:created>
+	<dcterms:created>1864-09-20</dcterms:created>
 	<dcterms:spatial>Germany</dcterms:spatial>
-	<dcterms:spatial>Johnstown, Penn [Johnstown, Pennsylvania]</dcterms:spatial>
-	<dcterms:spatial>Johnstown, PA [Johnstown, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Johnstown, Penn [Johnstown, Cambria County, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Johnstown, PA [Johnstown, Cambria County, Pennsylvania]</dcterms:spatial>
 	<dcterms:description>Patient Name: Heckman, George Patient Age: 54. Marital Status: Single. Diagnosis: Chronic bronchitis. Result: Cured and returned to duty. </dcterms:description>
 	<dcterms:subject>Heckman, George </dcterms:subject>
 	<dcterms:subject>Chronic bronchitis</dcterms:subject>

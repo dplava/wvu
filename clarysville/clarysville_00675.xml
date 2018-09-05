@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00675</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Gum, Alonzo C.</dcterms:title>
-	<dcterms:date>1865-07-18</dcterms:date>
-	<dcterms:date>1865-07-21</dcterms:date>
+	<dcterms:created>1865-07-18</dcterms:created>
+	<dcterms:created>1865-07-21</dcterms:created>
 	<dcterms:spatial>New York</dcterms:spatial>
 	<dcterms:spatial>St. Lawrence Co., NY [St. Lawrence County, New York]</dcterms:spatial>
 	<dcterms:spatial>Michaelville, St. Lawrence Co., NY [Michaelville, St. Lawrence County, New York]</dcterms:spatial>

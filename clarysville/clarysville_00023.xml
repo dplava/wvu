@@ -11,11 +11,11 @@
 	<dcterms:identifier>clarysville_00023</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Morris, Geo </dcterms:title>
-	<dcterms:date>1864-05-18</dcterms:date>
-	<dcterms:date>1864-08-27</dcterms:date>
+	<dcterms:created>1864-05-18</dcterms:created>
+	<dcterms:created>1864-08-27</dcterms:created>
 	<dcterms:spatial>Wales</dcterms:spatial>
-	<dcterms:spatial>Danville, PA [Danville, Pennsylvania]</dcterms:spatial>
-	<dcterms:spatial>Danville, Penn [Danville, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Danville, PA [Danville, Montour County, Pennsylvania]</dcterms:spatial>
+	<dcterms:spatial>Danville, Penn [Danville, Montour County, Pennsylvania]</dcterms:spatial>
 	<dcterms:description>Patient Name: Morris, Geo Patient Age: 25. Marital Status: Married. Diagnosis: Gun shot wound left shoulder near New Market. Location Wounded: In action New Market. Date Wounded: 1864/05/15. Nature of Wound: Minie Ball. Result: Cured and returned to duty. </dcterms:description>
 	<dcterms:subject>Morris, Geo </dcterms:subject>
 	<dcterms:subject>Gun shot wound left shoulder near New Market</dcterms:subject>

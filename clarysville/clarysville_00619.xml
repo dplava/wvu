@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00619</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Whipkey, Noah </dcterms:title>
-	<dcterms:date>1865-06-17</dcterms:date>
-	<dcterms:date>1865-06-27</dcterms:date>
+	<dcterms:created>1865-06-17</dcterms:created>
+	<dcterms:created>1865-06-27</dcterms:created>
 	<dcterms:spatial>Pennsylvania</dcterms:spatial>
 	<dcterms:spatial>Green Co., Indiana [Greene County, Indiana]</dcterms:spatial>
 	<dcterms:spatial>Cameron, Marshal Co., VA [Cameron, Marshal County, West Virginia]</dcterms:spatial>

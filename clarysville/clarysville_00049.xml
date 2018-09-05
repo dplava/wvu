@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00049</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Barnes, Josephus </dcterms:title>
-	<dcterms:date>1864-07-10</dcterms:date>
-	<dcterms:date>1864-09-15</dcterms:date>
+	<dcterms:created>1864-07-10</dcterms:created>
+	<dcterms:created>1864-09-15</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Harrison Co., VA [Harrison County, West Virginia]</dcterms:spatial>
 	<dcterms:spatial>Shinnston H. Co., VA [Shinnston, Harrison County, West Virginia]</dcterms:spatial>

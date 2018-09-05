@@ -11,11 +11,10 @@
 	<dcterms:identifier>clarysville_00078</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Robson, Mark  E.</dcterms:title>
-	<dcterms:date>1865-02-16</dcterms:date>
-	<dcterms:date>2018-07-19</dcterms:date>
+	<dcterms:created>1865-02-16</dcterms:created>
 	<dcterms:spatial>Virginia</dcterms:spatial>
 	<dcterms:spatial>Kanawha Co., VA [Kanawha County, West Virginia]</dcterms:spatial>
-	<dcterms:spatial>Charleston, VA [Charleston, West Virginia]</dcterms:spatial>
+	<dcterms:spatial>Charleston, VA [Charleston, Kanawha County, West Virginia]</dcterms:spatial>
 	<dcterms:description>Patient Name: Robson, Mark E. Patient Age: 21. Marital Status: Single. Diagnosis: Typhoid fever. Result: Died 1865/02/20. </dcterms:description>
 	<dcterms:subject>Robson, Mark  E.</dcterms:subject>
 	<dcterms:subject>Typhoid fever</dcterms:subject>

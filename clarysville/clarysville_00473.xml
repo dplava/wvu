@@ -11,8 +11,8 @@
 	<dcterms:identifier>clarysville_00473</dcterms:identifier>
 	<dcterms:isPartOf>Clarysville Hospital. Civil War Records of Samuel West, Physician</dcterms:isPartOf>
 	<dcterms:title>Patient Record for Miller , William </dcterms:title>
-	<dcterms:date>1865-04-02</dcterms:date>
-	<dcterms:date>1865-05-13</dcterms:date>
+	<dcterms:created>1865-04-02</dcterms:created>
+	<dcterms:created>1865-05-13</dcterms:created>
 	<dcterms:spatial>Georgia</dcterms:spatial>
 	<dcterms:spatial>Seat County, Indiana</dcterms:spatial>
 	<dcterms:spatial>Vienna, Seat Coutny, Indiana</dcterms:spatial>
