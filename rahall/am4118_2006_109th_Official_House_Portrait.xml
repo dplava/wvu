@@ -11,7 +11,7 @@
 	<dcterms:identifier>am4118_2006_109th_Official_House_Portrait</dcterms:identifier>
 	<dcterms:isPartOf>Congressman Nick Joe Rahall II Collection</dcterms:isPartOf>
 	<dcterms:title>Photograph of members of the 109th Congress</dcterms:title>
-	<dcterms:created>2018-07-16</dcterms:created>
+	<dcterms:created>2018-09-28</dcterms:created>
 	<dcterms:creator>U.S. House Office of Photography</dcterms:creator>
 	<dcterms:description>Members of the 109th Congress stand for an official House portrait photograph.</dcterms:description>
 	<dcterms:subject>Rahall, Nick J, 1949</dcterms:subject>
@@ -22,7 +22,7 @@
 	<dcterms:format>Image/jpeg</dcterms:format>
 	<dcterms:source>A&amp;M 4118, Congressman Nick Joe Rahall II papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
 	<dcterms:language>English</dcterms:language>
-	<dcterms:coverage>Washington</dcterms:coverage>
+	<dcterms:spatial>Washington</dcterms:spatial>
 	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
 	<edm:isShownAt>http://rahall.lib.wvu.edu/record/am4118_2006_109th_Official_House_Portrait</edm:isShownAt>
