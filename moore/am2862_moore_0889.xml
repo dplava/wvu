@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0889</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of members of the American Legion </dcterms:title>
+	<dcterms:created>1967-01-14</dcterms:created>
+	<dcterms:description>An unidentified group of men at the American Legion Banquet and Dance at Pleasant Valley Country Club in Weirton, W.Va. </dcterms:description>
+	<dcterms:subject>American Legion</dcterms:subject>
+	<dcterms:subject>Dinners and dining</dcterms:subject>
+	<dcterms:subject>Men</dcterms:subject>
+	<dcterms:subject>Organization</dcterms:subject>
+	<dcterms:subject>Small groups</dcterms:subject>
+	<dcterms:subject>Veterans</dcterms:subject>
+	<dcterms:subject>VeteransUnited States</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0889</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0889.jpg</edm:preview>
+</mdRecord>

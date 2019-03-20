@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0935</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of second growth poplar and rhododendron </dcterms:title>
+	<dcterms:created>1940-06-01</dcterms:created>
+	<dcterms:creator>United States. Forest Service</dcterms:creator>
+	<dcterms:description>A stand of second growth poplar trees about 30 years old with an understory of rhododendron on the Elklick Road in the Fernow Experimental Forest. </dcterms:description>
+	<dcterms:subject>Fernow Experimental Forest (W Va)</dcterms:subject>
+	<dcterms:subject>Forests and forestry</dcterms:subject>
+	<dcterms:subject>Monongahela National Forest (Agency : US)</dcterms:subject>
+	<dcterms:subject>Monongahela National Forest (W Va)</dcterms:subject>
+	<dcterms:subject>Rhododendrons</dcterms:subject>
+	<dcterms:subject>Trees</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0935</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0935.jpg</edm:preview>
+</mdRecord>

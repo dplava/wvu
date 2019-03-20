@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0288</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore being invited to the Rose Bowl by the Weirton High School Band </dcterms:title>
+	<dcterms:created>1959-08-18</dcterms:created>
+	<dcterms:description>The Weirton High School Band inviting Congressman Arch A. Moore, Jr to accompany them to the Rose Bowl.  Extending the invitation to Moore on the steps of the House of Representatives are Director Charles McKinny, Commander Don Strope, Lt. Matthew Buzzetta, and  Assistant Director Dale Lutton. </dcterms:description>
+	<dcterms:subject>Band directors</dcterms:subject>
+	<dcterms:subject>Bands</dcterms:subject>
+	<dcterms:subject>Buzzetta, Matthew </dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Lutton, Dale </dcterms:subject>
+	<dcterms:subject>McKinny, Charles </dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>Rose Bowl (Football game)</dcterms:subject>
+	<dcterms:subject>School music</dcterms:subject>
+	<dcterms:subject>Strope, Don </dcterms:subject>
+	<dcterms:subject>Weirton High School</dcterms:subject>
+	<dcterms:subject>Weirton High School Band</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0288</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0288.jpg</edm:preview>
+</mdRecord>

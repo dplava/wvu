@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0804</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore with Bridgeport School Boy Patrol </dcterms:title>
+	<dcterms:created>1966-03-20</dcterms:created>
+	<dcterms:description>Congressman Arch A. Moore, Jr. (center) with the Bridgeport School Boys Patrol in the Statuary Hall at the Capitol. Moore is flanked by Bridgeport Police Chief John H. Diamond and Thomas D. Kinney. The second statue from the right is that of Francis H. Pierpont, first governor of the restored government of Virginia who was elected to that post in 1861 by delegates at the Wheeling Constitutional Assembly. </dcterms:description>
+	<dcterms:subject>Boys</dcterms:subject>
+	<dcterms:subject>Diamond, John H</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>Kinney, Thomas D </dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>National Statuary Hall (United States Capitol, Washington, DC)</dcterms:subject>
+	<dcterms:subject>Pierpont, Francis Harrison, 18141899</dcterms:subject>
+	<dcterms:subject>School children</dcterms:subject>
+	<dcterms:subject>School field trips</dcterms:subject>
+	<dcterms:subject>Students</dcterms:subject>
+	<dcterms:subject>United States Capitol Complex (Washington, DC)</dcterms:subject>
+	<dcterms:subject>Youth</dcterms:subject>
+	<dcterms:subject>YouthSocieties and clubs</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0804</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0804.jpg</edm:preview>
+</mdRecord>

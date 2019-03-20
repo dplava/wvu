@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0118</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of members of the Iron Workers Local Union No. 549</dcterms:title>
+	<dcterms:created>1965-11-10</dcterms:created>
+	<dcterms:description>The members present at the Silver Anniversary Banquet of the Iron Workers Local Union No. 549. The banquet was held at the Elks Lodge in Wheeling, W.V. Standing left to right: Fred Witzgall, Fred Adams, Emylin Rogers, Louis Goormastic, Joseph Richter, Wayne Mahurin, James R. Downes (General Secretary), John H. Lyons (General President), Wayne T. Brooks (Director of Industrial Relations Wheeling Steel Co.), Casper Schrimpf, Thomas Davis, Charles Gormastic, E.A. Barcus, John Cox, Ray E. Armstrong (General Organizer), Michael Barcheck (President of Iron Workers Local Union No. 549), and Richard Steele (Financial Secretary-Treasurer of Iron Workers Local Union No. 549).  Seated left to right: John Ellis, Jack Montgomery, Louis Tomich, Sr., Ellis Vickers, William Suddith, A.H. "Dick" Ingram, Joseph Dzwonkowski, Robert Bosley, Marshall McCorkle, and French Underwood. </dcterms:description>
+	<dcterms:subject>Barcheck, Michael </dcterms:subject>
+	<dcterms:subject>Brooks, Wayne T </dcterms:subject>
+	<dcterms:subject>Downes, James R </dcterms:subject>
+	<dcterms:subject>Iron Workers Local Union No 549</dcterms:subject>
+	<dcterms:subject>Lyons, John H</dcterms:subject>
+	<dcterms:subject>Mahurin, Wayne</dcterms:subject>
+	<dcterms:subject>Portraits, Group</dcterms:subject>
+	<dcterms:subject>Steel industry and trade</dcterms:subject>
+	<dcterms:subject>Steel industry and tradeUnited States</dcterms:subject>
+	<dcterms:subject>Steele, Richard</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0118</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0118.jpg</edm:preview>
+</mdRecord>

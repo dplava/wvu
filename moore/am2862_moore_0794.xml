@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0794</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore shaking an unidentified woman's hand </dcterms:title>
+	<dcterms:created>1966-03-20</dcterms:created>
+	<dcterms:description>Congressman Arch A. Moore, Jr. shaking the hand of a 4-H member. Six other members of the 4-H are standing with them.  There is a statue of Francis Harrison Pierpont behind them. </dcterms:description>
+	<dcterms:subject>4H clubs</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>Handshaking</dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>National 4H Club Foundation of America</dcterms:subject>
+	<dcterms:subject>Youth</dcterms:subject>
+	<dcterms:subject>YouthSocieties and clubs</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0794</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0794.jpg</edm:preview>
+</mdRecord>

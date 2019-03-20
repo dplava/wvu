@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0849</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore with Grafton area 4-H members </dcterms:title>
+	<dcterms:created>1966-06-01</dcterms:created>
+	<dcterms:description>Grafton area students, who are in Washington D.C. for a regional 4-H Conference, stop to visit Congressman Arch A. Moore, Jr. Seated with the Congressman are Linda Dean (left) of Grafton and Marsha Jones (right) of Hepzibah. Standing from left are: Shirley Jean Hardman of Glenville, Dwight McDaniels of Grafton; Steven McWilliams of Webster; Kay Kunst of Grafton, and Harry Drake of Glenville. The photograph is signed by all the students. </dcterms:description>
+	<dcterms:subject>4H clubs</dcterms:subject>
+	<dcterms:subject>Clubs</dcterms:subject>
+	<dcterms:subject>Dean, Linda </dcterms:subject>
+	<dcterms:subject>Drake, Harry </dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>Hardman, Shirley Jean </dcterms:subject>
+	<dcterms:subject>Jones, Marsha</dcterms:subject>
+	<dcterms:subject>Kunst, Kay</dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>McDaniels, Dwight</dcterms:subject>
+	<dcterms:subject>McWilliams, Steven</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>National 4H Club Foundation of America</dcterms:subject>
+	<dcterms:subject>National 4H Conference</dcterms:subject>
+	<dcterms:subject>Offices</dcterms:subject>
+	<dcterms:subject>Students</dcterms:subject>
+	<dcterms:subject>Youth</dcterms:subject>
+	<dcterms:subject>YouthSocieties and clubs</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0849</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0849.jpg</edm:preview>
+</mdRecord>

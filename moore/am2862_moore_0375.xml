@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0375</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of General Douglas MacArthur receiving a certificate of appreciation from House Speaker John McCormack  </dcterms:title>
+	<dcterms:created>1962-08-16</dcterms:created>
+	<dcterms:creator>Picture Division, U.S. Army</dcterms:creator>
+	<dcterms:description>General of the Army Douglas MacArthur receives from the House Speaker John McCormack a certificate of appreciation authorized by Congress. At left is Vice President Lyndon Johnson. </dcterms:description>
+	<dcterms:subject>Awards</dcterms:subject>
+	<dcterms:subject>Johnson, Lyndon B (Lyndon Baines), 19081973</dcterms:subject>
+	<dcterms:subject>Legislative bodiesOfficials and employees</dcterms:subject>
+	<dcterms:subject>MacArthur, Douglas, 18801964</dcterms:subject>
+	<dcterms:subject>McCormack, John W, 18911980</dcterms:subject>
+	<dcterms:subject>Military </dcterms:subject>
+	<dcterms:subject>United States Congress HouseSpeakers</dcterms:subject>
+	<dcterms:subject>VicePresidents</dcterms:subject>
+	<dcterms:subject>VicePresidentsUnited States</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0375</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0375.jpg</edm:preview>
+</mdRecord>

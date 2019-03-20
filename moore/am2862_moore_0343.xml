@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0343</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of a re-election billboard for Congressman Moore</dcterms:title>
+	<dcterms:created>1962-03-20</dcterms:created>
+	<dcterms:creator>Standard Advertising Corp. </dcterms:creator>
+	<dcterms:description>A billboard that states "Re-elect Congressman Arch Moore; Man of Action; The Man for you." </dcterms:description>
+	<dcterms:subject>Advertising</dcterms:subject>
+	<dcterms:subject>Advertising, Political</dcterms:subject>
+	<dcterms:subject>Billboards</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>Political campaigns</dcterms:subject>
+	<dcterms:subject>Political campaignsUnited States</dcterms:subject>
+	<dcterms:subject>Political posters</dcterms:subject>
+	<dcterms:subject>Republican</dcterms:subject>
+	<dcterms:subject>Republican Party (US : 1854 )</dcterms:subject>
+	<dcterms:subject>Standard Advertising Corp </dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0343</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0343.jpg</edm:preview>
+</mdRecord>

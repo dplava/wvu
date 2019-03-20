@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0361</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore with other congressmen</dcterms:title>
+	<dcterms:created>1962-03-20</dcterms:created>
+	<dcterms:description>Congressman Arch A. Moore, Jr. with other congressmen in a hearing room. From left to right: Dale Alford, unknown, Tom Steed, unknown, Abraham Multer, Joe L. Evins, Emanuel Celler, William M. McCulloch, Arch A. Moore, Jr., unknown, H. Allen Smith, William Cahill, and unknown. </dcterms:description>
+	<dcterms:subject>Alford, Dale, 19162000</dcterms:subject>
+	<dcterms:subject>Cahill, William T (William Thomas), 19121996</dcterms:subject>
+	<dcterms:subject>Celler, Emanuel, 18881981</dcterms:subject>
+	<dcterms:subject>Evins, Joe L (Joe Landon), 19101984</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>Legislative bodiesOfficials and employees</dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>McCulloch, William M (William Moore), 19011980</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>Multer, Abraham J (Abraham Jacob), 19001986</dcterms:subject>
+	<dcterms:subject>Portraits, Group</dcterms:subject>
+	<dcterms:subject>Smith, H Allen </dcterms:subject>
+	<dcterms:subject>Steed, Thomas Jefferson, 19041983</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0361</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0361.jpg</edm:preview>
+</mdRecord>

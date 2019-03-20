@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0291</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore in his office with Boy Scout Robert L. Gore</dcterms:title>
+	<dcterms:created>1962-06-14</dcterms:created>
+	<dcterms:description>Congressman Arch A. Moore, Jr. in his office with Boy Scout Robert L. Gore. Robert is one of twelve Boy Scouts chosen from the U.S. to present a "Report to the Nation" at a scouting dinner, June 14, in Washington, D.C. Several hundred Scouters, officials of the Government and leaders of national organizations were present. Congressman Moore and Mrs. Moore attended the dinner. </dcterms:description>
+	<dcterms:subject>Boy Scouts</dcterms:subject>
+	<dcterms:subject>Boy Scouts of America</dcterms:subject>
+	<dcterms:subject>Explorers (Boy Scouts)</dcterms:subject>
+	<dcterms:subject>Gore, Robert L </dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>Offices</dcterms:subject>
+	<dcterms:subject>Report to the nation series</dcterms:subject>
+	<dcterms:subject>Youth</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0291</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0291.jpg</edm:preview>
+</mdRecord>

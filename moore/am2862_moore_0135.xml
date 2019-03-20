@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0135</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore at Emmanuel Celler's luncheon for the Australian Minister</dcterms:title>
+	<dcterms:created>1965-03-20</dcterms:created>
+	<dcterms:description>Congressman Arch A. Moore, Jr. with other congressman at Emanuel Celler's luncheon in honor of the Australian Minister, Honorable Hubert Opperman. Pictured: William T. Cahill (first on the right), Frank Chelf (second on the right), Congressman Arch A. Moore, Jr. (third from right), William M. McCulloch (center), Emanuel Celler (forth from the left), Carl Albert (third from left), and Clark MacGregor (second from left). </dcterms:description>
+	<dcterms:subject>Albert, Carl Bert, 19082000</dcterms:subject>
+	<dcterms:subject>Cahill, William T (William Thomas), 19121996</dcterms:subject>
+	<dcterms:subject>Celler, Emanuel, 18881981</dcterms:subject>
+	<dcterms:subject>Chelf, Frank Leslie</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>MacGregor, Clark</dcterms:subject>
+	<dcterms:subject>McCulloch, William M (William Moore), 19011980</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>Opperman, Hubert Ferdinand, Sir, 1904</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0135</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0135.jpg</edm:preview>
+</mdRecord>

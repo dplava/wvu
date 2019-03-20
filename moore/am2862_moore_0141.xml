@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0141</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore reviewing a coal industry presentation</dcterms:title>
+	<dcterms:created>circa 1957/1969</dcterms:created>
+	<dcterms:description>Congressman Arch A. Moore, Jr. reviewing the coal industry presentation on the necessity to restrict residual fuel oil imports and to maintain a mandatory imports program with the Industry's officials. Dr. Potter presented testimony on behalf of the bituminous coal operators and the United Mine Workers, pointing out the abuses that result from imported foreign oil upon the economy of coal producing states and the miners. From left to right: Mr. Stephen F. Dunn, President of National Coal Association; Dr. C.J. Potter, President of Rochester &amp; Pittsburgh Coal Company; Congressman Moore; Mr. Joseph E. Moody, President of National Coal Policy Conference and Mr. Michael Widman, Assistant to the President of United Mine Workers. </dcterms:description>
+	<dcterms:subject>Bituminous coal</dcterms:subject>
+	<dcterms:subject>Bituminous coal industry</dcterms:subject>
+	<dcterms:subject>Coal</dcterms:subject>
+	<dcterms:subject>Dunn, Stephen F (Stephen Francis), 1908</dcterms:subject>
+	<dcterms:subject>Moody, Joseph E </dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>National Coal Association</dcterms:subject>
+	<dcterms:subject>National Coal Policy Conference (US)</dcterms:subject>
+	<dcterms:subject>Potter, C J </dcterms:subject>
+	<dcterms:subject>Rochester &amp; Pittsburgh Coal Company</dcterms:subject>
+	<dcterms:subject>United Mine Workers of America</dcterms:subject>
+	<dcterms:subject>Widman, Michael F</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0141</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0141.jpg</edm:preview>
+</mdRecord>

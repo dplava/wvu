@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0833</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore with West Virginia mailmen </dcterms:title>
+	<dcterms:created>1966-04-01</dcterms:created>
+	<dcterms:description>West Virginia mailmen asking Congressman Arch A. Moore, Jr. to help carry the mail on a legislative proposal to ease size and weight restrictions on parcel post packages. From left to right: Clyde Olver and Robert F. Glassgow of Wheeling; R.B. Smith of Wallace; Congressman Moore; Albert Moore and Walter W. Williams of Clarksburg.  </dcterms:description>
+	<dcterms:subject>Glasgow, Robert F </dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Moore, Albert</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>Oliver, Clyde</dcterms:subject>
+	<dcterms:subject>Postal service</dcterms:subject>
+	<dcterms:subject>Postal serviceEmployees</dcterms:subject>
+	<dcterms:subject>Smith, R B </dcterms:subject>
+	<dcterms:subject>United States Capitol Complex (Washington, DC)</dcterms:subject>
+	<dcterms:subject>Williams, Walter W </dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0833</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0833.jpg</edm:preview>
+</mdRecord>

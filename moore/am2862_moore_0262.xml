@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0262</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Charles Halleck receiving an award </dcterms:title>
+	<dcterms:created>1960-03-20</dcterms:created>
+	<dcterms:description>Congressman Charles A. Halleck (R-IN, left) receiving an award for his wise and friendly counsel. Halleck served as the Republican leader of the House of Representatives. The award states:"We the undersigned, do hereby express our admiration and our deep gratitude to Charles A. Halleck, for his wise and friendly counsel.  Each of us is indebted to his generous assistance, inspiring leadership and personal interest in our activities, political and in the field of legislation.His  unflagging efforts and his readiness to assist us with his time and his great store of knowledge, judgement and wisdom are greatly appreciated. He has benefited us as new Congressman, and the Nation, by making more effective our beginning years in congress." </dcterms:description>
+	<dcterms:subject>Awards</dcterms:subject>
+	<dcterms:subject>Gratitude</dcterms:subject>
+	<dcterms:subject>Halleck, Charles A (Charles Abraham), 19001986</dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0262</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0262.jpg</edm:preview>
+</mdRecord>

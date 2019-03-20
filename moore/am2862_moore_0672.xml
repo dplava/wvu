@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0672</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Gerald Ford, Congressman Moore, and two others </dcterms:title>
+	<dcterms:created>circa 1965</dcterms:created>
+	<dcterms:description>Gerald Ford sitting at a desk looking at bill H.R. 2580. Congressman Arch A. Moore, Jr. is leaning over his shoulder pointing out something in the bill. Two other unidentified men are standing with Moore. The photograph is signed: "To Arch A. Moore, one of my closest of friends who over the years has done as much for a better nation and a finer world. Warmest personal regards. Gerald R. Ford." </dcterms:description>
+	<dcterms:subject>Autographs</dcterms:subject>
+	<dcterms:subject>Ford, Gerald R, 19132006</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>Legislation</dcterms:subject>
+	<dcterms:subject>Legislative bodiesOfficials and employees</dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>Offices</dcterms:subject>
+	<dcterms:subject>Presidents</dcterms:subject>
+	<dcterms:subject>United States Immigration and Nationality Act Amendments of 1965</dcterms:subject>
+	<dcterms:subject>VicePresidents</dcterms:subject>
+	<dcterms:subject>VicePresidentsUnited States</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0672</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0672.jpg</edm:preview>
+</mdRecord>

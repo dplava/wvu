@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0684</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore, Brigadier General Williamson, and Mr. Cline </dcterms:title>
+	<dcterms:created>1965-11-01</dcterms:created>
+	<dcterms:description>Brigadier General Ellis W. Williamson, Commander of the 173 Airborne Brigade, Congressman Arch A. Moore, Jr. and Mr. Garner J. Cline, Counsel Committee on the Judiciary, House of Representatives, leaving the 173rd briefing room for a fly over of War Zone D. </dcterms:description>
+	<dcterms:subject>Cline, Garner J</dcterms:subject>
+	<dcterms:subject>Committees</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>Legislative bodiesOfficials and employees</dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Military </dcterms:subject>
+	<dcterms:subject>Military uniforms</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>Officers</dcterms:subject>
+	<dcterms:subject>United States Army Airborne Brigade, 173rd</dcterms:subject>
+	<dcterms:subject>United States Congress House Committee on the Judiciary</dcterms:subject>
+	<dcterms:subject>Williamson, Ellis W, Brigadier General</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0684</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0684.jpg</edm:preview>
+</mdRecord>

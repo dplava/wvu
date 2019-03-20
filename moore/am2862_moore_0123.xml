@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>am2862_moore_0123</dcterms:identifier>
+	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
+	<dcterms:title>Photograph of Congressman Moore with WVU basketball player Carl Head</dcterms:title>
+	<dcterms:created>circa 1957/1969</dcterms:created>
+	<dcterms:description>Congressman Arch A. Moore, Jr. holding a basketball with WVU prospect Carl Head on the steps of the Capitol Building. An attached news release states: Operation Head Start - West Virginia University basketball prospect Carl Head (with the WVU monogram) gets some pre-school indoctrination on the steps of the nation's Capitol from Congressman Arch A. Moore, Jr. of West Virginia's First District. Head has been working this summer in his native Washington for the U.S. Post Office. The 6-4 junior college transfer student was the first prospect signed by new WVU basketball coach Bucky Waters. Head was a junior college All-American last year for Dodge City, Kansas. Moore is a WVU alumnus. The congressman's brother, Harry (Moo) Moore of Moundsville, is a former Mountaineer basketball star. </dcterms:description>
+	<dcterms:subject>Basketball</dcterms:subject>
+	<dcterms:subject>Basketball players</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>Head, Carl</dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>United States Capitol Complex (Washington, DC)</dcterms:subject>
+	<dcterms:subject>West Virginia Mountaineers (Basketball team)</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>StillImage</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0123</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0123.jpg</edm:preview>
+</mdRecord>
