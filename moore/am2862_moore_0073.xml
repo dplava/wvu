@@ -8,12 +8,12 @@
             xmlns:edm='http://www.europeana.eu/schemas/edm/'
             xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
           >
-	<dcterms:identifier>am2862_moore_0688</dcterms:identifier>
+	<dcterms:identifier>am2862_moore_0073</dcterms:identifier>
 	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
 	<dcterms:title></dcterms:title>
 	<dcterms:created></dcterms:created>
 	<dcterms:rights></dcterms:rights>
 	<dcterms:provenance></dcterms:provenance>
-	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0688</edm:isShownAt>
-	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0688.jpg</edm:preview>
+	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0073</edm:isShownAt>
+	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0073.jpg</edm:preview>
 </mdRecord>
