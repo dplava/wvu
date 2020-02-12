@@ -10,10 +10,23 @@
           >
 	<dcterms:identifier>am2862_moore_0688</dcterms:identifier>
 	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
-	<dcterms:title></dcterms:title>
-	<dcterms:created></dcterms:created>
-	<dcterms:rights></dcterms:rights>
-	<dcterms:provenance></dcterms:provenance>
+	<dcterms:title>Photograph of Congressman Moore in the back of a helicopter </dcterms:title>
+	<dcterms:created>1965-11</dcterms:created>
+	<dcterms:description>Congressman Arch A. Moore, Jr. sitting in the back of a helicopter talking to two unidentified men in uniform. </dcterms:description>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>LegislatorsUnited States</dcterms:subject>
+	<dcterms:subject>Military </dcterms:subject>
+	<dcterms:subject>Military helicopters</dcterms:subject>
+	<dcterms:subject>Military uniforms</dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:subject>United States Army</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>Still Image</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
 	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0688</edm:isShownAt>
 	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0688.jpg</edm:preview>
 </mdRecord>

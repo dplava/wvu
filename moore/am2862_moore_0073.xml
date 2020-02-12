@@ -10,10 +10,20 @@
           >
 	<dcterms:identifier>am2862_moore_0073</dcterms:identifier>
 	<dcterms:isPartOf>Arch Moore Jr. &amp; Shelley Moore Archives</dcterms:isPartOf>
-	<dcterms:title></dcterms:title>
-	<dcterms:created></dcterms:created>
-	<dcterms:rights></dcterms:rights>
-	<dcterms:provenance></dcterms:provenance>
+	<dcterms:title>A photograph of Congressman Moore and two unidentified women looking at a book on West Virginia </dcterms:title>
+	<dcterms:created>196X</dcterms:created>
+	<dcterms:description>Congressman Arch Moore, Jr. with two unidentified women looking at a book on West Virginia. The back of the photograph states the photo was taken at the House Office Building, Washington, D.C. </dcterms:description>
+	<dcterms:subject>Cannon House Office Building (Washington, DC)</dcterms:subject>
+	<dcterms:subject>Governors</dcterms:subject>
+	<dcterms:subject>GovernorsWest Virginia </dcterms:subject>
+	<dcterms:subject>Moore, Arch A, Jr (Arch Alfred), 19232015</dcterms:subject>
+	<dcterms:publisher>West Virginia &amp; Regional History Center</dcterms:publisher>
+	<dcterms:type>Still Image</dcterms:type>
+	<dcterms:format>image/tiff</dcterms:format>
+	<dcterms:source>A&amp;M 2862, Governor Arch A. Moore Jr. papers, West Virginia &amp; Regional History Center, West Virginia University Libraries</dcterms:source>
+	<dcterms:language>English</dcterms:language>
+	<dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia &amp; Regional History Center</dcterms:provenance>
 	<edm:isShownAt>http://moore.lib.wvu.edu/catalog/am2862_moore_0073</edm:isShownAt>
 	<edm:preview>https://moore.lib.wvu.edu/image/am2862_moore_0073.jpg</edm:preview>
 </mdRecord>
