@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>049938</dcterms:identifier>
+	<dcterms:isPartOf>Storer College Digital Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>West Virginia History OnView and Storer College</dcterms:isPartOf>
+	<dcterms:title>Storer College Graduate, James Henry Green Sr.</dcterms:title>
+	<dcterms:description>James Henry Green Sr. received his AA diploma from Storer College in 1943, and he graduated from Storer College with his B.A. degree in 1946. He married Cecelia Isabella (Green) who attended Storer College for her Secondary School education.</dcterms:description>
+	<dcterms:subject>College students</dcterms:subject>
+	<dcterms:subject>Dwellings</dcterms:subject>
+	<dcterms:subject>Harpers Ferry</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:subject>45751</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAthttps://storercollege.lib.wvu.edu/record/049938</edm:isShownAt>
+	<edm:preview>https://storercollege.lib.wvu.edu/thumb/049938.jpg</edm:preview>
+</mdRecord>

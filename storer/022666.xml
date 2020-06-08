@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>022666</dcterms:identifier>
+	<dcterms:isPartOf>Storer College Digital Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>West Virginia History OnView and Storer College</dcterms:isPartOf>
+	<dcterms:title>Graduating Class in Cap and Gown, Storer College, Harpers Ferry, W. Va.</dcterms:title>
+	<dcterms:description>Class of 1938: 'Back row: Bruce Daniels, Hazel Brown, Mary Napper, Levi Allison, Vivian Rideoutt, Violet Green. Middle row: Cornelius Dawson, Harry J. McDonald, James Law, Herman Lytle, Pearl Abbott, Allen Anderson. Bottom row: Marion McClung, Margaret Wright, Prof. Saunder, Imogene Holley, Dr. McDonald, Dean McDonald, Mrs. Norma Moore, Charlotte Smith, Lillian Burns.</dcterms:description>
+	<dcterms:subject>African American college students</dcterms:subject>
+	<dcterms:subject>College students</dcterms:subject>
+	<dcterms:subject>College teachers</dcterms:subject>
+	<dcterms:subject>Harpers Ferry</dcterms:subject>
+	<dcterms:subject>McDonald, Henry Temple, 1872 1951</dcterms:subject>
+	<dcterms:subject>Schools</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAthttps://storercollege.lib.wvu.edu/record/022666</edm:isShownAt>
+	<edm:preview>https://storercollege.lib.wvu.edu/thumb/022666.jpg</edm:preview>
+</mdRecord>

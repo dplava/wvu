@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>025760</dcterms:identifier>
+	<dcterms:isPartOf>Storer College Digital Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>West Virginia History OnView and Storer College</dcterms:isPartOf>
+	<dcterms:title>Boody House in New Durham, N. H.</dcterms:title>
+	<dcterms:description>'The Boody House was at one time the largest in the town. In the room at the right of the door the church was organized with seven members. The room still contains the table, the chair used by Randal. It is kept as near as possible in its original condition.' Once Used as a Church by Benjamin Randal, one of the Founders of the Free Will Baptists and Storer College.</dcterms:description>
+	<dcterms:subject>Boodey, Joseph, 1773 1867</dcterms:subject>
+	<dcterms:subject>Church buildings</dcterms:subject>
+	<dcterms:subject>Free Will Baptists (1780? 1911)</dcterms:subject>
+	<dcterms:subject>Homes and haunts</dcterms:subject>
+	<dcterms:subject>New Durham</dcterms:subject>
+	<dcterms:subject>New Durham</dcterms:subject>
+	<dcterms:subject>New Hampshire</dcterms:subject>
+	<dcterms:subject>New Hampshire</dcterms:subject>
+	<dcterms:subject>Randall, Benjamin, 1749 1808</dcterms:subject>
+	<dcterms:subject>Schools</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAthttps://storercollege.lib.wvu.edu/record/025760</edm:isShownAt>
+	<edm:preview>https://storercollege.lib.wvu.edu/thumb/025760.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>036533</dcterms:identifier>
+	<dcterms:isPartOf>Storer College Digital Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>West Virginia History OnView and Storer College</dcterms:isPartOf>
+	<dcterms:title>Group Portrait of Storer College Baseball Team, Harpers Ferry, W. Va.</dcterms:title>
+	<dcterms:description>1907 Storer College baseball team sitting on the steps of a building. First Row: Mr. McDonald, Paige, Dennis, McGill, Moody. Second Row: Simpson, Wims, McNeal, Hakins, Young, Elsie Howard. Third Row: Johnson, Taylor, Frazier, Proctor.</dcterms:description>
+	<dcterms:subject>African American baseball players</dcterms:subject>
+	<dcterms:subject>Baseball players</dcterms:subject>
+	<dcterms:subject>Baseball teams</dcterms:subject>
+	<dcterms:subject>Harpers Ferry</dcterms:subject>
+	<dcterms:subject>McDonald, Henry Temple, 1872 1951</dcterms:subject>
+	<dcterms:subject>Schools</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAthttps://storercollege.lib.wvu.edu/record/036533</edm:isShownAt>
+	<edm:preview>https://storercollege.lib.wvu.edu/thumb/036533.jpg</edm:preview>
+</mdRecord>

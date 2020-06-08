@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>049767</dcterms:identifier>
+	<dcterms:isPartOf>Storer College Digital Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>West Virginia History OnView and Storer College</dcterms:isPartOf>
+	<dcterms:title>Houston Brooks, Storer College, Class of 1950</dcterms:title>
+	<dcterms:description>Houston Brooks graduated from Storer College in 1950 and received his Ph.D. in Organic Chemistry and Veterinary Physiology from Iowa State University.</dcterms:description>
+	<dcterms:subject>Alumni and alumnae</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAthttps://storercollege.lib.wvu.edu/record/049767</edm:isShownAt>
+	<edm:preview>https://storercollege.lib.wvu.edu/thumb/049767.jpg</edm:preview>
+</mdRecord>

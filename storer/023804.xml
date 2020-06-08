@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>023804</dcterms:identifier>
+	<dcterms:isPartOf>Storer College Digital Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>West Virginia History OnView and Storer College</dcterms:isPartOf>
+	<dcterms:title>Storer College Musical Group Members, Harper's Ferry, W. Va.</dcterms:title>
+	<dcterms:description>From left to right in the upper row standing is Robert Trent, Portia Lovett, Mary Ella Dixon, and Charlie Hale. Sitting from left to right is Walter Johnson, Alberta Redmond, Hamilton Keys, and Mertia Lovett. First concert was given in Buffalo, N.Y., May 2, 1873. They gave 40 concerts in the principal cities between Buffalo and Utica, going home, July 5, 1873.</dcterms:description>
+	<dcterms:subject>College students</dcterms:subject>
+	<dcterms:subject>Dixon, Mary Ella</dcterms:subject>
+	<dcterms:subject>Hale, Charlie</dcterms:subject>
+	<dcterms:subject>Harpers Ferry</dcterms:subject>
+	<dcterms:subject>Johnson, Walter</dcterms:subject>
+	<dcterms:subject>Keys, Hamilton</dcterms:subject>
+	<dcterms:subject>Lovett, Mertia</dcterms:subject>
+	<dcterms:subject>Musical groups</dcterms:subject>
+	<dcterms:subject>Redmond, Alberta</dcterms:subject>
+	<dcterms:subject>Schools</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>West Virginia</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAthttps://storercollege.lib.wvu.edu/record/023804</edm:isShownAt>
+	<edm:preview>https://storercollege.lib.wvu.edu/thumb/023804.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>025763</dcterms:identifier>
+	<dcterms:isPartOf>Storer College Digital Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>West Virginia History OnView and Storer College</dcterms:isPartOf>
+	<dcterms:title>One of the First Churches in New Durham, N. H. </dcterms:title>
+	<dcterms:description>'This was one of the first church buildings built in the town of New Durham. It is about four miles northeast of the Ridge at what is called New Durham Corner. it was built about 1750. It has since been used as a church and town house. Randal preached here for some years. The pine tree has been a landmark for years. Notice the ledge in front of the building. Whether that has anything to do with the building I cannot say.' </dcterms:description>
+	<dcterms:subject>Church buildings</dcterms:subject>
+	<dcterms:subject>Free Will Baptist Church (New Durham, NH)</dcterms:subject>
+	<dcterms:subject>New Durham</dcterms:subject>
+	<dcterms:subject>New Hampshire</dcterms:subject>
+	<dcterms:subject>Randall, Benjamin, 1749 1808</dcterms:subject>
+	<dcterms:subject>Schools</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAthttps://storercollege.lib.wvu.edu/record/025763</edm:isShownAt>
+	<edm:preview>https://storercollege.lib.wvu.edu/thumb/025763.jpg</edm:preview>
+</mdRecord>

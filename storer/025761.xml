@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mdRecord 
+            xmlns='http://dplava.lib.virginia.edu'
+            xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xmlns:dc='http://purl.org/dc/elements/1.1/'
+            xmlns:dcterms='http://purl.org/dc/terms/'
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+            xmlns:edm='http://www.europeana.eu/schemas/edm/'
+            xsi:schemaLocation='http://dplava.lib.virginia.edu dplava.xsd'
+          >
+	<dcterms:identifier>025761</dcterms:identifier>
+	<dcterms:isPartOf>Storer College Digital Collection</dcterms:isPartOf>
+	<dcterms:isPartOf>West Virginia History OnView and Storer College</dcterms:isPartOf>
+	<dcterms:title>Free Will Baptist Church, New Durham, N. H. </dcterms:title>
+	<dcterms:description>'This is the present church at New Durham. It was built about 1817. the foundation is as solid as that of the old church. The ledge showing in many places.' Free Will Baptists were one of the founders of Storer College.</dcterms:description>
+	<dcterms:subject>Church buildings</dcterms:subject>
+	<dcterms:subject>Free Will Baptist Church (New Durham, NH)</dcterms:subject>
+	<dcterms:subject>Free Will Baptists (1780? 1911)</dcterms:subject>
+	<dcterms:subject>New Durham</dcterms:subject>
+	<dcterms:subject>New Hampshire</dcterms:subject>
+	<dcterms:subject>Schools</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:subject>Storer College</dcterms:subject>
+	<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+	<dcterms:provenance>West Virginia University Libraries</dcterms:provenance>
+	<edm:isShownAthttps://storercollege.lib.wvu.edu/record/025761</edm:isShownAt>
+	<edm:preview>https://storercollege.lib.wvu.edu/thumb/025761.jpg</edm:preview>
+</mdRecord>
